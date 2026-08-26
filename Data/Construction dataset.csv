@@ -1,0 +1,2001 @@
+PROJECT_ID,PROJECT_NAME,CITY,PROJECT_MANAGER,PROJECT_START_DATE,PROJECT_END_DATE,PROJECT_STATUS
+P101,Metro Station Development,Mumbai,Rahul Sharma,15-02-2021,11-10-2022,complete
+P102,City Flyover Construction,Delhi,Anuj Rahane,06-05-2021,20-01-2023,complete
+P103,Residential Tower A,Mumbai,Amit Verma,09-10-2022,15-05-2023,complete
+P104,Residential Tower B,Mumbai,Priya Singh,18-01-2022,30-08-2023,complete
+P105,Highway Expansion Project,Mumbai,Priya Singh,22-03-2023,25-12-2024,complete
+P106,River Bridge Construction,Banglore,Priya Singh,05-05-2023,03-10-2025,complete
+P107,Smart City Road Project,Banglore,Vikram Patel,07-12-2024,15-06-2025,complete
+P108,Shopping Mall Construction,Delhi,Vikram Patel,20-09-2024,30-11-2025,complete
+P109,IT Park Development,Jaipur,Neha Gupta,01-10-2025,15-08-2026,complete
+P110,Metro Station Development,Kolkata,Rahul Sharma,25-03-2025,20-12-2026,complete
+P111,City Flyover Construction,Hydrabad,Anuj Rahane,15-02-2022,12-10-2022,complete
+P112,Residential Tower A,Mumbai,Amit Verma,13-03-2024,20-01-2024,complete
+P113,Residential Tower B,Mumbai,Priya Singh,16-08-2025,15-05-2024,complete
+P114,Highway Expansion Project,Delhi,Priya Singh,18-01-2023,30-08-2024,complete
+P115,River Bridge Construction,Mumbai,Priya Singh,22-03-2024,25-12-2025,complete
+P116,Smart City Road Project,Mumbai,Vikram Patel,12-07-2026,04-10-2025,complete
+P117,Shopping Mall Construction,Mumbai,Vikram Patel,14-02-2028,15-06-2026,complete
+P118,IT Park Development,Banglore,Neha Gupta,20-09-2025,30-11-2026,complete
+P119,Metro Station Development,Banglore,Rahul Sharma,02-10-2025,15-08-2027,In Progress
+P120,City Flyover Construction,chennnai,Anuj Rahane,25-03-2026,20-12-2027,In Progress
+P121,Residential Tower A,Jaipur,Amit Verma,15-02-2023,13-10-2022,complete
+P122,Residential Tower B,Kolkata,Priya Singh,19-01-2027,20-01-2025,complete
+P123,Highway Expansion Project,Hydrabad,Priya Singh,23-06-2028,15-05-2025,complete
+P124,River Bridge Construction,Delhi,Priya Singh,18-01-2024,30-08-2025,complete
+P125,Smart City Road Project,Mumbai,Vikram Patel,22-03-2025,25-12-2026,complete
+P126,Shopping Mall Construction,Delhi,Vikram Patel,18-09-2029,05-10-2025,complete
+P127,IT Park Development,Mumbai,Neha Gupta,23-04-2031,15-06-2027,In Progress
+P128,Metro Station Development,Mumbai,Rahul Sharma,20-09-2026,30-11-2027,In Progress
+P129,City Flyover Construction,Mumbai,Anuj Rahane,03-10-2025,15-08-2028,In Progress
+P130,Residential Tower A,Banglore,Amit Verma,25-03-2027,20-12-2028,In Progress
+P131,Residential Tower B,Banglore,Priya Singh,15-02-2024,14-10-2022,complete
+P132,Highway Expansion Project,pune,Priya Singh,26-11-2029,20-01-2026,complete
+P133,River Bridge Construction,Jaipur,Priya Singh,01-05-2031,15-05-2026,complete
+P134,Smart City Road Project,Kolkata,Vikram Patel,18-01-2025,30-08-2026,complete
+P135,Shopping Mall Construction,Hydrabad,Vikram Patel,22-03-2026,25-12-2027,In Progress
+P136,IT Park Development,Chennnai,Neha Gupta,25-11-2032,06-10-2025,complete
+P137,Metro Station Development,Mumbai,Rahul Sharma,30-06-2034,15-06-2028,In Progress
+P138,City Flyover Construction,Delhi,Anuj Rahane,20-09-2027,30-11-2028,In Progress
+P139,Residential Tower A,Mumbai,Amit Verma,04-10-2025,15-08-2029,In Progress
+P140,Residential Tower B,Mumbai,Priya Singh,25-03-2028,20-12-2029,In Progress
+P141,Highway Expansion Project,Mumbai,Priya Singh,15-02-2025,15-10-2022,complete
+P142,River Bridge Construction,Banglore,Priya Singh,01-05-2021,09-10-2022,complete
+P143,Smart City Road Project,Banglore,Vikram Patel,02-12-2021,18-10-2022,complete
+P144,Shopping Mall Construction,wardha,Vikram Patel,25-03-2021,15-12-2022,complete
+P145,IT Park Development,Jaipur,Neha Gupta,04-10-2021,20-01-2023,complete
+P146,Metro Station Development,Kolkata,Rahul Sharma,18-05-2021,03-05-2023,complete
+P147,City Flyover Construction,Hydrabad,Anuj Rahane,06-02-2021,04-12-2023,complete
+P148,Residential Tower A,Pune,Amit Verma,20-07-2021,25-05-2023,complete
+P149,Residential Tower B,Mumbai,Priya Singh,14-08-2021,06-10-2023,complete
+P150,Highway Expansion Project,Delhi,Priya Singh,30-09-2021,18-07-2023,complete
+P151,River Bridge Construction,Mumbai,Priya Singh,10-11-2021,20-08-2023,complete
+P152,Smart City Road Project,Mumbai,Vikram Patel,11-05-2021,09-10-2023,complete
+P153,Shopping Mall Construction,Mumbai,Vikram Patel,19-12-2021,15-10-2023,complete
+P154,IT Park Development,Banglore,Neha Gupta,01-08-2022,20-11-2023,complete
+P155,Metro Station Development,Banglore,Rahul Sharma,15-02-2022,01-05-2024,complete
+P156,City Flyover Construction,nagpur,Anuj Rahane,28-03-2022,18-02-2024,complete
+P157,Residential Tower A,Jaipur,Amit Verma,04-06-2022,25-03-2024,complete
+P158,Residential Tower B,Kolkata,Priya Singh,17-05-2022,30-04-2024,complete
+P159,Highway Expansion Project,Hydrabad,Priya Singh,06-01-2022,05-10-2024,complete
+P160,River Bridge Construction,Wardha,Priya Singh,22-07-2022,18-06-2024,complete
+P161,Smart City Road Project,Mumbai,Vikram Patel,08-09-2022,25-07-2024,complete
+P162,Shopping Mall Construction,Delhi,Vikram Patel,18-09-2022,15-08-2024,complete
+P163,IT Park Development,Mumbai,Neha Gupta,10-02-2022,30-09-2024,complete
+P164,Metro Station Development,Mumbai,Rahul Sharma,14-11-2022,20-10-2024,complete
+P165,City Flyover Construction,Mumbai,Anuj Rahane,29-12-2022,11-10-2024,complete
+P166,Residential Tower A,Banglore,Amit Verma,01-10-2023,20-12-2024,complete
+P167,Residential Tower B,Banglore,Priya Singh,18-02-2023,15-01-2025,complete
+P168,Highway Expansion Project,mumbai,Priya Singh,22-03-2023,28-02-2025,complete
+P169,River Bridge Construction,Jaipur,Priya Singh,04-05-2023,20-03-2025,complete
+P170,Smart City Road Project,Kolkata,Vikram Patel,16-05-2023,25-04-2025,complete
+P171,Shopping Mall Construction,Hydrabad,Vikram Patel,28-06-2023,30-05-2025,complete
+P172,IT Park Development,Nagpur,Neha Gupta,07-11-2023,06-12-2025,complete
+P173,Metro Station Development,Mumbai,Rahul Sharma,25-08-2023,18-07-2025,complete
+P174,City Flyover Construction,Delhi,Anuj Rahane,09-03-2023,30-08-2025,complete
+P175,Residential Tower A,Mumbai,Amit Verma,14-10-2023,09-05-2025,complete
+P176,Residential Tower B,Mumbai,Priya Singh,27-11-2023,20-10-2025,complete
+P177,Highway Expansion Project,Mumbai,Priya Singh,12-09-2023,15-11-2025,complete
+P178,River Bridge Construction,Banglore,Priya Singh,15-01-2024,20-12-2025,complete
+P179,Smart City Road Project,Banglore,Vikram Patel,28-02-2024,01-05-2026,complete
+P180,Shopping Mall Construction,Delhi,Vikram Patel,03-12-2024,15-02-2026,complete
+P181,IT Park Development,Jaipur,Neha Gupta,04-05-2024,28-03-2026,complete
+P182,Metro Station Development,Kolkata,Rahul Sharma,19-05-2024,04-10-2026,complete
+P183,City Flyover Construction,Hydrabad,Anuj Rahane,30-06-2024,22-05-2026,complete
+P184,Residential Tower A,Mumbai,Amit Verma,07-08-2024,30-06-2026,complete
+P185,Residential Tower B,Mumbai,Priya Singh,17-08-2024,18-07-2026,complete
+P186,Highway Expansion Project,Delhi,Priya Singh,26-09-2024,30-08-2026,complete
+P187,River Bridge Construction,Mumbai,Priya Singh,10-10-2024,15-09-2026,complete
+P188,Smart City Road Project,Mumbai,Vikram Patel,22-11-2024,28-10-2026,complete
+P189,Shopping Mall Construction,Mumbai,Vikram Patel,12-05-2024,11-10-2026,complete
+P190,IT Park Development,Banglore,Neha Gupta,14-01-2025,20-12-2026,complete
+P191,Metro Station Development,Banglore,Rahul Sharma,28-02-2025,01-10-2027,complete
+P192,City Flyover Construction,chennnai,Anuj Rahane,15-03-2025,20-02-2027,In Progress
+P193,Residential Tower A,Jaipur,Amit Verma,04-05-2025,15-03-2027,In Progress
+P194,Residential Tower B,Kolkata,Priya Singh,19-05-2025,28-04-2027,In Progress
+P195,Highway Expansion Project,Hydrabad,Priya Singh,30-06-2025,05-05-2027,In Progress
+P196,River Bridge Construction,Delhi,Priya Singh,07-08-2025,18-06-2027,In Progress
+P197,Smart City Road Project,Mumbai,Vikram Patel,17-08-2025,30-07-2027,In Progress
+P198,Shopping Mall Construction,Delhi,Vikram Patel,26-09-2025,08-10-2027,In Progress
+P199,IT Park Development,Mumbai,Neha Gupta,10-10-2025,18-09-2027,In Progress
+P200,Metro Station Development,Mumbai,Rahul Sharma,22-11-2025,28-10-2027,In Progress
+P201,City Flyover Construction,Mumbai,Anuj Rahane,12-05-2025,11-10-2027,In Progress
+P202,Residential Tower A,Banglore,Amit Verma,14-01-2021,20-08-2022,complete
+P203,Residential Tower B,Banglore,Priya Singh,28-02-2021,10-10-2022,complete
+P204,Highway Expansion Project,pune,Priya Singh,03-12-2021,18-11-2022,complete
+P205,River Bridge Construction,Jaipur,Priya Singh,04-05-2021,30-12-2022,complete
+P206,Smart City Road Project,Kolkata,Vikram Patel,19-05-2021,02-10-2023,complete
+P207,Shopping Mall Construction,Hydrabad,Vikram Patel,30-06-2021,18-03-2023,complete
+P208,IT Park Development,Chennnai,Neha Gupta,07-08-2021,25-04-2023,complete
+P209,Metro Station Development,Mumbai,Rahul Sharma,17-08-2021,05-10-2023,complete
+P210,City Flyover Construction,Delhi,Anuj Rahane,26-09-2021,18-06-2023,complete
+P211,Residential Tower A,Mumbai,Amit Verma,10-10-2021,25-07-2023,complete
+P212,Residential Tower B,Mumbai,Priya Singh,22-11-2021,15-08-2023,complete
+P213,Highway Expansion Project,Mumbai,Priya Singh,12-05-2021,20-09-2023,complete
+P214,River Bridge Construction,Banglore,Priya Singh,14-01-2022,30-10-2023,complete
+P215,Smart City Road Project,Banglore,Vikram Patel,28-02-2022,20-11-2023,complete
+P216,Shopping Mall Construction,wardha,Vikram Patel,03-12-2022,12-10-2023,complete
+P217,IT Park Development,Jaipur,Neha Gupta,04-05-2022,20-01-2024,complete
+P218,Metro Station Development,Kolkata,Rahul Sharma,19-05-2022,18-02-2024,complete
+P219,City Flyover Construction,Hydrabad,Anuj Rahane,30-06-2022,03-10-2024,complete
+P220,Residential Tower A,Pune,Amit Verma,07-08-2022,25-04-2024,complete
+P221,Residential Tower B,Mumbai,Priya Singh,17-08-2022,05-05-2024,complete
+P222,Highway Expansion Project,Delhi,Priya Singh,26-09-2022,18-06-2024,complete
+P223,River Bridge Construction,Mumbai,Priya Singh,10-10-2022,30-07-2024,complete
+P224,Smart City Road Project,Mumbai,Vikram Patel,22-11-2022,08-10-2024,complete
+P225,Shopping Mall Construction,Mumbai,Vikram Patel,12-05-2022,18-09-2024,complete
+P226,IT Park Development,Banglore,Neha Gupta,14-01-2023,25-10-2024,complete
+P227,Metro Station Development,Banglore,Rahul Sharma,28-02-2023,11-10-2024,complete
+P228,City Flyover Construction,nagpur,Anuj Rahane,03-12-2023,20-12-2024,complete
+P229,Residential Tower A,Jaipur,Amit Verma,04-05-2023,15-01-2025,complete
+P230,Residential Tower B,Kolkata,Priya Singh,19-05-2023,28-02-2025,complete
+P231,Highway Expansion Project,Hydrabad,Priya Singh,30-06-2023,03-10-2025,complete
+P232,River Bridge Construction,Wardha,Priya Singh,07-08-2023,18-04-2025,complete
+P233,Smart City Road Project,Mumbai,Vikram Patel,17-08-2023,25-05-2025,complete
+P234,Shopping Mall Construction,Delhi,Vikram Patel,26-09-2023,30-06-2025,complete
+P235,IT Park Development,Mumbai,Neha Gupta,10-10-2023,18-07-2025,complete
+P236,Metro Station Development,Mumbai,Rahul Sharma,22-11-2023,08-10-2025,complete
+P237,City Flyover Construction,Mumbai,Anuj Rahane,12-05-2023,18-09-2025,complete
+P238,Residential Tower A,Banglore,Amit Verma,05-07-2022,09-10-2022,complete
+P239,Residential Tower B,Banglore,Priya Singh,05-02-2023,18-10-2023,complete
+P240,Highway Expansion Project,mumbai,Priya Singh,25-03-2022,15-12-2023,complete
+P241,River Bridge Construction,Jaipur,Priya Singh,05-10-2021,20-01-2024,complete
+P242,Smart City Road Project,Kolkata,Vikram Patel,18-05-2022,06-07-2024,complete
+P243,Shopping Mall Construction,Hydrabad,Vikram Patel,06-02-2021,06-02-2025,complete
+P244,IT Park Development,Nagpur,Neha Gupta,20-07-2022,25-05-2024,complete
+P245,Metro Station Development,Mumbai,Rahul Sharma,14-08-2022,07-10-2023,complete
+P246,City Flyover Construction,Delhi,Anuj Rahane,30-09-2022,18-07-2024,complete
+P247,Residential Tower A,Mumbai,Amit Verma,09-11-2020,20-08-2024,complete
+P248,Residential Tower B,Mumbai,Priya Singh,10-05-2020,09-10-2023,complete
+P249,Highway Expansion Project,Mumbai,Priya Singh,19-12-2022,15-10-2024,complete
+P250,River Bridge Construction,Banglore,Priya Singh,02-08-2022,20-11-2024,complete
+P251,Smart City Road Project,Banglore,Vikram Patel,15-02-2023,02-05-2024,complete
+P252,Shopping Mall Construction,Delhi,Vikram Patel,28-03-2023,18-02-2025,complete
+P253,IT Park Development,Jaipur,Neha Gupta,05-06-2022,25-03-2025,complete
+P254,Metro Station Development,Kolkata,Rahul Sharma,17-05-2023,30-04-2025,complete
+P255,City Flyover Construction,Hydrabad,Anuj Rahane,06-01-2022,05-10-2024,complete
+P256,Residential Tower A,Mumbai,Amit Verma,22-07-2023,18-06-2025,complete
+P257,Residential Tower B,Mumbai,Priya Singh,09-09-2022,25-07-2025,complete
+P258,Highway Expansion Project,Delhi,Priya Singh,18-09-2023,15-08-2025,complete
+P259,River Bridge Construction,Mumbai,Priya Singh,11-02-2022,30-09-2025,complete
+P260,Smart City Road Project,Mumbai,Vikram Patel,14-11-2023,20-10-2025,complete
+P261,Shopping Mall Construction,Mumbai,Vikram Patel,29-12-2023,12-10-2024,complete
+P262,IT Park Development,Banglore,Neha Gupta,02-10-2023,20-12-2025,complete
+P263,Metro Station Development,Banglore,Rahul Sharma,18-02-2024,15-01-2026,complete
+P264,City Flyover Construction,chennnai,Anuj Rahane,22-03-2024,28-02-2026,complete
+P265,Residential Tower A,Jaipur,Amit Verma,05-05-2023,20-03-2026,complete
+P266,Residential Tower B,Kolkata,Priya Singh,16-05-2024,25-04-2026,complete
+P267,Highway Expansion Project,Hydrabad,Priya Singh,28-06-2024,30-05-2026,complete
+P268,River Bridge Construction,Delhi,Priya Singh,07-11-2023,06-12-2025,complete
+P269,Smart City Road Project,Mumbai,Vikram Patel,25-08-2024,18-07-2026,complete
+P270,Shopping Mall Construction,Delhi,Vikram Patel,10-03-2023,30-08-2026,complete
+P271,IT Park Development,Mumbai,Neha Gupta,14-10-2024,10-05-2025,complete
+P272,Metro Station Development,Mumbai,Rahul Sharma,27-11-2024,20-10-2026,complete
+P273,City Flyover Construction,Mumbai,Anuj Rahane,13-09-2023,15-11-2026,complete
+P274,Residential Tower A,Banglore,Amit Verma,15-01-2025,20-12-2026,complete
+P275,Residential Tower B,Banglore,Priya Singh,28-02-2025,02-05-2026,complete
+P276,Highway Expansion Project,pune,Priya Singh,04-10-2023,15-02-2027,In Progress
+P277,River Bridge Construction,Jaipur,Priya Singh,05-03-2023,28-03-2027,In Progress
+P278,Smart City Road Project,Kolkata,Vikram Patel,19-05-2025,05-10-2026,complete
+P279,Shopping Mall Construction,Hydrabad,Vikram Patel,30-06-2025,22-05-2027,In Progress
+P280,IT Park Development,Chennnai,Neha Gupta,08-08-2024,30-06-2027,In Progress
+P281,Metro Station Development,Mumbai,Rahul Sharma,17-08-2025,18-07-2027,In Progress
+P282,City Flyover Construction,Delhi,Anuj Rahane,26-09-2025,30-08-2027,In Progress
+P283,Residential Tower A,Mumbai,Amit Verma,11-10-2024,15-09-2027,In Progress
+P284,Residential Tower B,Mumbai,Priya Singh,22-11-2025,28-10-2027,In Progress
+P285,Highway Expansion Project,Mumbai,Priya Singh,12-05-2024,11-10-2026,complete
+P286,River Bridge Construction,Banglore,Priya Singh,14-01-2026,20-12-2027,In Progress
+P287,Smart City Road Project,Banglore,Vikram Patel,28-02-2026,02-10-2027,In Progress
+P288,Shopping Mall Construction,wardha,Vikram Patel,15-03-2026,20-02-2028,In Progress
+P289,IT Park Development,Jaipur,Neha Gupta,05-05-2025,15-03-2028,In Progress
+P290,Metro Station Development,Kolkata,Rahul Sharma,19-05-2026,28-04-2028,In Progress
+P291,City Flyover Construction,Hydrabad,Anuj Rahane,30-06-2026,06-05-2027,In Progress
+P292,Residential Tower A,Pune,Amit Verma,08-08-2025,18-06-2028,In Progress
+P293,Residential Tower B,Mumbai,Priya Singh,17-08-2026,30-07-2028,In Progress
+P294,Highway Expansion Project,Delhi,Priya Singh,26-09-2026,09-10-2027,In Progress
+P295,River Bridge Construction,Mumbai,Priya Singh,11-10-2025,18-09-2028,In Progress
+P296,Smart City Road Project,Mumbai,Vikram Patel,22-11-2026,28-10-2028,In Progress
+P297,Shopping Mall Construction,Mumbai,Vikram Patel,12-05-2025,11-10-2027,In Progress
+P298,IT Park Development,Banglore,Neha Gupta,14-01-2022,20-08-2023,complete
+P299,Metro Station Development,Banglore,Rahul Sharma,28-02-2022,11-10-2022,complete
+P300,City Flyover Construction,nagpur,Anuj Rahane,03-10-2020,18-11-2023,complete
+P301,Residential Tower A,Jaipur,Amit Verma,04-03-2020,30-12-2023,complete
+P302,Residential Tower B,Kolkata,Priya Singh,19-05-2022,03-10-2023,complete
+P303,Highway Expansion Project,Hydrabad,Priya Singh,30-06-2022,18-03-2024,complete
+P304,River Bridge Construction,Wardha,Priya Singh,08-08-2021,25-04-2024,complete
+P305,Smart City Road Project,Mumbai,Vikram Patel,17-08-2022,06-10-2023,complete
+P306,Shopping Mall Construction,Delhi,Vikram Patel,26-09-2022,18-06-2024,complete
+P307,IT Park Development,Mumbai,Neha Gupta,11-10-2021,25-07-2024,complete
+P308,Metro Station Development,Mumbai,Rahul Sharma,22-11-2022,15-08-2024,complete
+P309,City Flyover Construction,Mumbai,Anuj Rahane,13-05-2021,20-09-2024,complete
+P310,Residential Tower A,Banglore,Amit Verma,14-01-2023,30-10-2024,complete
+P311,Residential Tower B,Banglore,Priya Singh,28-02-2023,20-11-2024,complete
+P312,Highway Expansion Project,mumbai,Priya Singh,03-10-2021,12-10-2023,complete
+P313,River Bridge Construction,Jaipur,Priya Singh,04-03-2021,20-01-2025,complete
+P314,Smart City Road Project,Kolkata,Vikram Patel,19-05-2023,18-02-2025,complete
+P315,Shopping Mall Construction,Hydrabad,Vikram Patel,30-06-2023,04-10-2024,complete
+P316,IT Park Development,Nagpur,Neha Gupta,08-08-2022,25-04-2025,complete
+P317,Metro Station Development,Mumbai,Rahul Sharma,17-08-2023,06-05-2024,complete
+P318,City Flyover Construction,Delhi,Anuj Rahane,26-09-2023,18-06-2025,complete
+P319,Residential Tower A,Mumbai,Amit Verma,11-10-2022,30-07-2025,complete
+P320,Residential Tower B,Mumbai,Priya Singh,22-11-2023,09-10-2024,complete
+P321,Highway Expansion Project,Mumbai,Priya Singh,13-05-2022,18-09-2025,complete
+P322,River Bridge Construction,Banglore,Priya Singh,14-01-2024,25-10-2025,complete
+P323,Smart City Road Project,Banglore,Vikram Patel,28-02-2024,12-10-2024,complete
+P324,Shopping Mall Construction,Delhi,Vikram Patel,03-10-2022,20-12-2025,complete
+P325,IT Park Development,Jaipur,Neha Gupta,04-03-2022,15-01-2026,complete
+P326,Metro Station Development,Kolkata,Rahul Sharma,19-05-2024,28-02-2026,complete
+P327,City Flyover Construction,Hydrabad,Anuj Rahane,30-06-2024,04-10-2025,complete
+P328,Residential Tower A,Mumbai,Amit Verma,08-08-2023,18-04-2026,complete
+P329,Residential Tower B,Mumbai,Priya Singh,17-08-2024,25-05-2026,complete
+P330,Highway Expansion Project,Delhi,Priya Singh,26-09-2024,30-06-2026,complete
+P331,River Bridge Construction,Mumbai,Priya Singh,11-10-2023,18-07-2026,complete
+P332,Smart City Road Project,Mumbai,Vikram Patel,22-11-2024,09-10-2025,complete
+P333,Shopping Mall Construction,Mumbai,Vikram Patel,13-05-2023,18-09-2026,complete
+P334,IT Park Development,Banglore,Neha Gupta,08-09-2023,09-10-2022,complete
+P335,Metro Station Development,Banglore,Rahul Sharma,10-04-2024,18-10-2024,complete
+P336,City Flyover Construction,chennnai,Anuj Rahane,25-03-2023,15-12-2024,complete
+P337,Residential Tower A,Jaipur,Amit Verma,06-10-2021,20-01-2025,complete
+P338,Residential Tower B,Kolkata,Priya Singh,18-05-2023,09-09-2025,complete
+P339,Highway Expansion Project,Hydrabad,Priya Singh,06-02-2021,12-04-2026,complete
+P340,River Bridge Construction,Delhi,Priya Singh,20-07-2023,25-05-2025,complete
+P341,Smart City Road Project,Mumbai,Vikram Patel,14-08-2023,08-10-2023,complete
+P342,Shopping Mall Construction,Delhi,Vikram Patel,30-09-2023,18-07-2025,complete
+P343,IT Park Development,Mumbai,Neha Gupta,09-11-2019,20-08-2025,complete
+P344,Metro Station Development,Mumbai,Rahul Sharma,10-05-2019,09-10-2023,complete
+P345,City Flyover Construction,Mumbai,Anuj Rahane,19-12-2023,15-10-2025,complete
+P346,Residential Tower A,Banglore,Amit Verma,03-08-2022,20-11-2025,complete
+P347,Residential Tower B,Banglore,Priya Singh,15-02-2024,03-05-2024,complete
+P348,Highway Expansion Project,pune,Priya Singh,28-03-2024,18-02-2026,complete
+P349,City Flyover Construction,Jaipur,Priya Singh,06-06-2022,25-03-2026,complete
+P350,Residential Tower A,Kolkata,Vikram Patel,17-05-2024,30-04-2026,complete
+P351,Residential Tower B,Hydrabad,Vikram Patel,06-01-2022,05-10-2024,complete
+P352,Highway Expansion Project,Chennnai,Neha Gupta,22-07-2024,18-06-2026,complete
+P353,River Bridge Construction,Mumbai,Rahul Sharma,10-09-2022,25-07-2026,complete
+P354,Smart City Road Project,Delhi,Anuj Rahane,18-09-2024,15-08-2026,complete
+P355,Shopping Mall Construction,Mumbai,Amit Verma,12-02-2022,30-09-2026,complete
+P356,IT Park Development,Mumbai,Priya Singh,14-11-2024,20-10-2026,complete
+P357,Metro Station Development,Mumbai,Priya Singh,29-12-2024,13-10-2024,complete
+P358,City Flyover Construction,Banglore,Priya Singh,03-10-2023,20-12-2026,complete
+P359,Residential Tower A,Banglore,Vikram Patel,18-02-2025,15-01-2027,In Progress
+P360,Residential Tower B,wardha,Vikram Patel,22-03-2025,28-02-2027,In Progress
+P361,Highway Expansion Project,Jaipur,Neha Gupta,06-05-2023,20-03-2027,In Progress
+P362,City Flyover Construction,Kolkata,Rahul Sharma,16-05-2025,25-04-2027,In Progress
+P363,Residential Tower A,Hydrabad,Anuj Rahane,28-06-2025,30-05-2027,In Progress
+P364,Residential Tower B,Pune,Amit Verma,07-11-2023,06-12-2025,complete
+P365,Highway Expansion Project,Mumbai,Priya Singh,25-08-2025,18-07-2027,In Progress
+P366,River Bridge Construction,Delhi,Priya Singh,11-03-2023,30-08-2027,In Progress
+P367,Smart City Road Project,Mumbai,Priya Singh,14-10-2025,11-05-2025,complete
+P368,Shopping Mall Construction,Mumbai,Vikram Patel,27-11-2025,20-10-2027,In Progress
+P369,IT Park Development,Mumbai,Vikram Patel,14-09-2023,15-11-2027,In Progress
+P370,Metro Station Development,Banglore,Neha Gupta,15-01-2026,20-12-2027,In Progress
+P371,City Flyover Construction,Banglore,Rahul Sharma,28-02-2026,03-05-2026,complete
+P372,Residential Tower A,nagpur,Anuj Rahane,04-08-2022,15-02-2028,In Progress
+P373,Residential Tower B,Jaipur,Amit Verma,03-01-2022,28-03-2028,In Progress
+P374,Highway Expansion Project,Kolkata,Priya Singh,19-05-2026,06-10-2026,complete
+P375,City Flyover Construction,Hydrabad,Priya Singh,30-06-2026,22-05-2028,In Progress
+P376,Residential Tower A,Wardha,Priya Singh,09-08-2024,30-06-2028,In Progress
+P377,Residential Tower B,Mumbai,Vikram Patel,17-08-2026,18-07-2028,In Progress
+P378,Highway Expansion Project,Delhi,Vikram Patel,26-09-2026,30-08-2028,In Progress
+P379,River Bridge Construction,Mumbai,Neha Gupta,12-10-2024,15-09-2028,In Progress
+P380,Smart City Road Project,Mumbai,Rahul Sharma,22-11-2026,28-10-2028,In Progress
+P381,Shopping Mall Construction,Mumbai,Anuj Rahane,12-05-2024,11-10-2026,complete
+P382,IT Park Development,Banglore,Amit Verma,14-01-2027,20-12-2028,In Progress
+P383,Metro Station Development,Banglore,Priya Singh,28-02-2027,03-10-2027,In Progress
+P384,City Flyover Construction,mumbai,Priya Singh,15-03-2027,20-02-2029,In Progress
+P385,Residential Tower A,Jaipur,Priya Singh,06-05-2025,15-03-2029,In Progress
+P386,Residential Tower B,Kolkata,Vikram Patel,19-05-2027,28-04-2029,In Progress
+P387,Highway Expansion Project,Hydrabad,Vikram Patel,30-06-2027,07-05-2027,In Progress
+P388,City Flyover Construction,Nagpur,Neha Gupta,09-08-2025,18-06-2029,In Progress
+P389,Residential Tower A,Mumbai,Rahul Sharma,17-08-2027,30-07-2029,In Progress
+P390,Residential Tower B,Delhi,Anuj Rahane,26-09-2027,10-10-2027,In Progress
+P391,Highway Expansion Project,Mumbai,Amit Verma,12-10-2025,18-09-2029,In Progress
+P392,River Bridge Construction,Mumbai,Priya Singh,22-11-2027,28-10-2029,In Progress
+P393,Smart City Road Project,Mumbai,Priya Singh,12-05-2025,11-10-2027,In Progress
+P394,Shopping Mall Construction,Banglore,Priya Singh,14-01-2023,20-08-2024,complete
+P395,IT Park Development,Banglore,Vikram Patel,28-02-2023,12-10-2022,complete
+P396,Metro Station Development,Delhi,Vikram Patel,04-08-2019,18-11-2024,complete
+P397,City Flyover Construction,Jaipur,Neha Gupta,03-01-2019,30-12-2024,complete
+P398,Residential Tower A,Kolkata,Rahul Sharma,19-05-2023,04-10-2023,complete
+P399,Residential Tower B,Hydrabad,Anuj Rahane,30-06-2023,18-03-2025,complete
+P400,Highway Expansion Project,Mumbai,Amit Verma,09-08-2021,25-04-2025,complete
+P401,City Flyover Construction,Mumbai,Priya Singh,17-08-2023,07-10-2023,complete
+P402,Residential Tower A,Delhi,Priya Singh,26-09-2023,18-06-2025,complete
+P403,Residential Tower B,Mumbai,Priya Singh,12-10-2021,25-07-2025,complete
+P404,Highway Expansion Project,Mumbai,Vikram Patel,22-11-2023,15-08-2025,complete
+P405,River Bridge Construction,Mumbai,Vikram Patel,14-05-2021,20-09-2025,complete
+P406,Smart City Road Project,Banglore,Neha Gupta,14-01-2024,30-10-2025,complete
+P407,Shopping Mall Construction,Banglore,Rahul Sharma,28-02-2024,20-11-2025,complete
+P408,IT Park Development,chennnai,Anuj Rahane,03-08-2020,12-10-2023,complete
+P409,Metro Station Development,Jaipur,Amit Verma,03-01-2020,20-01-2026,complete
+P410,City Flyover Construction,Kolkata,Priya Singh,19-05-2024,18-02-2026,complete
+P411,Residential Tower A,Hydrabad,Priya Singh,30-06-2024,05-10-2024,complete
+P412,Residential Tower B,Delhi,Priya Singh,09-08-2022,25-04-2026,complete
+P413,Highway Expansion Project,Mumbai,Vikram Patel,17-08-2024,07-05-2024,complete
+P414,City Flyover Construction,Delhi,Vikram Patel,26-09-2024,18-06-2026,complete
+P415,Residential Tower A,Mumbai,Neha Gupta,12-10-2022,30-07-2026,complete
+P416,Residential Tower B,Mumbai,Rahul Sharma,22-11-2024,10-10-2024,complete
+P417,Highway Expansion Project,Mumbai,Anuj Rahane,14-05-2022,18-09-2026,complete
+P418,River Bridge Construction,Banglore,Amit Verma,14-01-2025,25-10-2026,complete
+P419,Smart City Road Project,Banglore,Priya Singh,28-02-2025,13-10-2024,complete
+P420,Shopping Mall Construction,pune,Priya Singh,03-08-2021,20-12-2026,complete
+P421,IT Park Development,Jaipur,Priya Singh,02-01-2021,15-01-2027,In Progress
+P422,Metro Station Development,Kolkata,Vikram Patel,19-05-2025,28-02-2027,In Progress
+P423,City Flyover Construction,Hydrabad,Vikram Patel,30-06-2025,05-10-2025,complete
+P424,Residential Tower A,Chennnai,Neha Gupta,09-08-2023,18-04-2027,In Progress
+P425,Residential Tower B,Mumbai,Rahul Sharma,17-08-2025,25-05-2027,In Progress
+P426,Highway Expansion Project,Delhi,Anuj Rahane,26-09-2025,30-06-2027,In Progress
+P427,City Flyover Construction,Mumbai,Amit Verma,12-10-2023,18-07-2027,In Progress
+P428,Residential Tower A,Mumbai,Priya Singh,22-11-2025,10-10-2025,complete
+P429,Residential Tower B,Mumbai,Priya Singh,14-05-2023,18-09-2027,In Progress
+P430,Highway Expansion Project,Banglore,Priya Singh,11-11-2024,09-10-2022,complete
+P431,River Bridge Construction,Banglore,Vikram Patel,14-06-2025,18-10-2025,complete
+P432,Smart City Road Project,wardha,Vikram Patel,25-03-2024,15-12-2025,complete
+P433,Shopping Mall Construction,Jaipur,Neha Gupta,07-10-2021,20-01-2026,complete
+P434,IT Park Development,Kolkata,Rahul Sharma,18-05-2024,13-11-2026,complete
+P435,Metro Station Development,Hydrabad,Anuj Rahane,06-02-2021,16-06-2027,In Progress
+P436,City Flyover Construction,Pune,Amit Verma,20-07-2024,25-05-2026,complete
+P437,Residential Tower A,Mumbai,Priya Singh,14-08-2024,09-10-2023,complete
+P438,Residential Tower B,Delhi,Priya Singh,30-09-2024,18-07-2026,complete
+P439,Highway Expansion Project,Mumbai,Priya Singh,08-11-2018,20-08-2026,complete
+P440,City Flyover Construction,Mumbai,Vikram Patel,09-05-2018,09-10-2023,complete
+P441,Residential Tower A,Mumbai,Vikram Patel,19-12-2024,15-10-2026,complete
+P442,Residential Tower B,Banglore,Neha Gupta,04-08-2022,20-11-2026,complete
+P443,Highway Expansion Project,Banglore,Rahul Sharma,15-02-2025,04-05-2024,complete
+P444,River Bridge Construction,nagpur,Anuj Rahane,28-03-2025,18-02-2027,In Progress
+P445,Smart City Road Project,Jaipur,Amit Verma,07-06-2022,25-03-2027,In Progress
+P446,Shopping Mall Construction,Kolkata,Priya Singh,17-05-2025,30-04-2027,In Progress
+P447,IT Park Development,Hydrabad,Priya Singh,06-01-2022,05-10-2024,complete
+P448,Metro Station Development,Wardha,Priya Singh,22-07-2025,18-06-2027,In Progress
+P449,City Flyover Construction,Mumbai,Vikram Patel,11-09-2022,25-07-2027,In Progress
+P450,Residential Tower A,Delhi,Vikram Patel,18-09-2025,15-08-2027,In Progress
+P451,Residential Tower B,Mumbai,Neha Gupta,13-02-2022,30-09-2027,In Progress
+P452,Highway Expansion Project,Mumbai,Rahul Sharma,14-11-2025,20-10-2027,In Progress
+P453,City Flyover Construction,Mumbai,Anuj Rahane,29-12-2025,14-10-2024,complete
+P454,Residential Tower A,Banglore,Amit Verma,04-10-2023,20-12-2027,In Progress
+P455,Residential Tower B,Banglore,Priya Singh,18-02-2026,15-01-2028,In Progress
+P456,Highway Expansion Project,mumbai,Priya Singh,22-03-2026,28-02-2028,In Progress
+P457,River Bridge Construction,Jaipur,Priya Singh,07-05-2023,20-03-2028,In Progress
+P458,Smart City Road Project,Kolkata,Vikram Patel,16-05-2026,25-04-2028,In Progress
+P459,Shopping Mall Construction,Hydrabad,Vikram Patel,28-06-2026,30-05-2028,In Progress
+P460,IT Park Development,Nagpur,Neha Gupta,07-11-2023,06-12-2025,complete
+P461,Metro Station Development,Mumbai,Rahul Sharma,25-08-2026,18-07-2028,In Progress
+P462,City Flyover Construction,Delhi,Anuj Rahane,12-03-2023,30-08-2028,In Progress
+P463,Residential Tower A,Mumbai,Amit Verma,14-10-2026,12-05-2025,complete
+P464,Residential Tower B,Mumbai,Priya Singh,27-11-2026,20-10-2028,In Progress
+P465,Highway Expansion Project,Mumbai,Priya Singh,15-09-2023,15-11-2028,In Progress
+P466,City Flyover Construction,Banglore,Priya Singh,15-01-2027,20-12-2028,In Progress
+P467,Residential Tower A,Banglore,Vikram Patel,28-02-2027,04-05-2026,complete
+P468,Residential Tower B,Delhi,Vikram Patel,04-06-2021,15-02-2029,In Progress
+P469,Highway Expansion Project,Jaipur,Neha Gupta,03-11-2020,28-03-2029,In Progress
+P470,River Bridge Construction,Kolkata,Rahul Sharma,19-05-2027,07-10-2026,complete
+P471,Smart City Road Project,Hydrabad,Anuj Rahane,30-06-2027,22-05-2029,In Progress
+P472,Shopping Mall Construction,Mumbai,Amit Verma,10-08-2024,30-06-2029,In Progress
+P473,IT Park Development,Mumbai,Priya Singh,17-08-2027,18-07-2029,In Progress
+P474,Metro Station Development,Delhi,Priya Singh,26-09-2027,30-08-2029,In Progress
+P475,City Flyover Construction,Mumbai,Priya Singh,13-10-2024,15-09-2029,In Progress
+P476,Residential Tower A,Mumbai,Vikram Patel,22-11-2027,28-10-2029,In Progress
+P477,Residential Tower B,Mumbai,Vikram Patel,12-05-2024,11-10-2026,complete
+P478,Highway Expansion Project,Banglore,Neha Gupta,14-01-2028,20-12-2029,In Progress
+P479,City Flyover Construction,Banglore,Rahul Sharma,28-02-2028,04-10-2027,In Progress
+P480,Residential Tower A,chennnai,Anuj Rahane,15-03-2028,20-02-2030,In Progress
+P481,Residential Tower B,Jaipur,Amit Verma,07-05-2025,15-03-2030,In Progress
+P482,Highway Expansion Project,Kolkata,Priya Singh,19-05-2028,28-04-2030,In Progress
+P483,River Bridge Construction,Hydrabad,Priya Singh,30-06-2028,08-05-2027,In Progress
+P484,Smart City Road Project,Delhi,Priya Singh,10-08-2025,18-06-2030,In Progress
+P485,Shopping Mall Construction,Mumbai,Vikram Patel,17-08-2028,30-07-2030,In Progress
+P486,IT Park Development,Delhi,Vikram Patel,26-09-2028,11-10-2027,In Progress
+P487,Metro Station Development,Mumbai,Neha Gupta,13-10-2025,18-09-2030,In Progress
+P488,City Flyover Construction,Mumbai,Rahul Sharma,22-11-2028,28-10-2030,In Progress
+P489,Residential Tower A,Mumbai,Anuj Rahane,12-05-2025,11-10-2027,In Progress
+P490,Residential Tower B,Banglore,Amit Verma,14-01-2024,20-08-2025,complete
+P491,Highway Expansion Project,Banglore,Priya Singh,28-02-2024,13-10-2022,complete
+P492,City Flyover Construction,pune,Priya Singh,04-06-2018,18-11-2025,complete
+P493,Residential Tower A,Jaipur,Priya Singh,03-11-2017,30-12-2025,complete
+P494,Residential Tower B,Kolkata,Vikram Patel,19-05-2024,05-10-2023,complete
+P495,Highway Expansion Project,Hydrabad,Vikram Patel,30-06-2024,18-03-2026,In Progress
+P496,River Bridge Construction,Chennnai,Neha Gupta,10-08-2021,25-04-2026,In Progress
+P497,Smart City Road Project,Mumbai,Rahul Sharma,17-08-2024,08-10-2023,complete
+P498,Shopping Mall Construction,Delhi,Anuj Rahane,26-09-2024,18-06-2026,In Progress
+P499,IT Park Development,Mumbai,Amit Verma,13-10-2021,25-07-2026,In Progress
+P500,Metro Station Development,Mumbai,Priya Singh,22-11-2024,15-08-2026,In Progress
+P501,City Flyover Construction,Mumbai,Priya Singh,15-05-2021,20-09-2026,In Progress
+P502,Residential Tower A,Banglore,Priya Singh,14-01-2025,30-10-2026,In Progress
+P503,Residential Tower B,Banglore,Vikram Patel,28-02-2025,20-11-2026,In Progress
+P504,Highway Expansion Project,wardha,Vikram Patel,04-06-2019,12-10-2023,complete
+P505,City Flyover Construction,Jaipur,Neha Gupta,03-11-2018,20-01-2027,In Progress
+P506,Residential Tower A,Kolkata,Rahul Sharma,19-05-2025,18-02-2027,In Progress
+P507,Residential Tower B,Hydrabad,Anuj Rahane,30-06-2025,06-10-2024,complete
+P508,Highway Expansion Project,Pune,Amit Verma,10-08-2022,25-04-2027,In Progress
+P509,River Bridge Construction,Mumbai,Priya Singh,17-08-2025,08-05-2024,complete
+P510,Smart City Road Project,Delhi,Priya Singh,26-09-2025,18-06-2027,In Progress
+P511,Shopping Mall Construction,Mumbai,Priya Singh,13-10-2022,30-07-2027,In Progress
+P512,IT Park Development,Mumbai,Vikram Patel,22-11-2025,11-10-2024,complete
+P513,Metro Station Development,Mumbai,Vikram Patel,15-05-2022,18-09-2027,In Progress
+P514,City Flyover Construction,Banglore,Neha Gupta,14-01-2026,25-10-2027,In Progress
+P515,Residential Tower A,Banglore,Rahul Sharma,28-02-2026,14-10-2024,complete
+P516,Residential Tower B,nagpur,Anuj Rahane,03-06-2020,20-12-2027,In Progress
+P517,Highway Expansion Project,Jaipur,Amit Verma,03-11-2019,15-01-2028,In Progress
+P518,City Flyover Construction,Kolkata,Priya Singh,19-05-2026,28-02-2028,In Progress
+P519,Residential Tower A,Hydrabad,Priya Singh,30-06-2026,06-10-2025,complete
+P520,Residential Tower B,Wardha,Priya Singh,10-08-2023,18-04-2028,In Progress
+P521,Highway Expansion Project,Mumbai,Vikram Patel,17-08-2026,25-05-2028,In Progress
+P522,River Bridge Construction,Delhi,Vikram Patel,26-09-2026,30-06-2028,In Progress
+P523,Smart City Road Project,Mumbai,Neha Gupta,13-10-2023,18-07-2028,In Progress
+P524,Shopping Mall Construction,Mumbai,Rahul Sharma,22-11-2026,11-10-2025,complete
+P525,IT Park Development,Mumbai,Anuj Rahane,15-05-2023,18-09-2028,In Progress
+P526,Metro Station Development,Banglore,Amit Verma,15-01-2026,09-10-2022,complete
+P527,City Flyover Construction,Banglore,Priya Singh,18-08-2026,18-10-2026,complete
+P528,Residential Tower A,mumbai,Priya Singh,25-03-2025,15-12-2026,complete
+P529,Residential Tower B,Jaipur,Priya Singh,08-10-2021,20-01-2027,In Progress
+P530,Highway Expansion Project,Kolkata,Vikram Patel,18-05-2025,17-01-2028,In Progress
+P531,City Flyover Construction,Hydrabad,Vikram Patel,06-02-2021,19-08-2028,In Progress
+P532,Residential Tower A,Nagpur,Neha Gupta,20-07-2025,25-05-2027,In Progress
+P533,Residential Tower B,Mumbai,Rahul Sharma,14-08-2025,10-10-2023,complete
+P534,Highway Expansion Project,Delhi,Anuj Rahane,30-09-2025,18-07-2027,In Progress
+P535,River Bridge Construction,Mumbai,Amit Verma,07-11-2017,20-08-2027,In Progress
+P536,Smart City Road Project,Mumbai,Priya Singh,08-05-2017,09-10-2023,complete
+P537,Shopping Mall Construction,Mumbai,Priya Singh,19-12-2025,15-10-2027,In Progress
+P538,IT Park Development,Banglore,Priya Singh,05-08-2022,20-11-2027,In Progress
+P539,Metro Station Development,Banglore,Vikram Patel,15-02-2026,05-05-2024,complete
+P540,City Flyover Construction,Delhi,Vikram Patel,28-03-2026,18-02-2028,In Progress
+P541,Residential Tower A,Jaipur,Neha Gupta,08-06-2022,25-03-2028,In Progress
+P542,Residential Tower B,Kolkata,Rahul Sharma,17-05-2026,30-04-2028,In Progress
+P543,Highway Expansion Project,Hydrabad,Anuj Rahane,06-01-2022,05-10-2024,complete
+P544,City Flyover Construction,Mumbai,Amit Verma,22-07-2026,18-06-2028,In Progress
+P545,Residential Tower A,Mumbai,Priya Singh,12-09-2022,25-07-2028,In Progress
+P546,Residential Tower B,Delhi,Priya Singh,18-09-2026,15-08-2028,In Progress
+P547,Highway Expansion Project,Mumbai,Priya Singh,14-02-2022,30-09-2028,In Progress
+P548,River Bridge Construction,Mumbai,Vikram Patel,14-11-2026,20-10-2028,In Progress
+P549,Smart City Road Project,Mumbai,Vikram Patel,29-12-2026,15-10-2024,complete
+P550,Shopping Mall Construction,Banglore,Neha Gupta,05-10-2023,20-12-2028,In Progress
+P551,IT Park Development,Banglore,Rahul Sharma,18-02-2027,15-01-2029,In Progress
+P552,Metro Station Development,chennnai,Anuj Rahane,22-03-2027,28-02-2029,In Progress
+P553,City Flyover Construction,Jaipur,Amit Verma,08-05-2023,20-03-2029,In Progress
+P554,Residential Tower A,Kolkata,Priya Singh,16-05-2027,25-04-2029,In Progress
+P555,Residential Tower B,Hydrabad,Priya Singh,28-06-2027,30-05-2029,In Progress
+P556,Highway Expansion Project,Delhi,Priya Singh,07-11-2023,06-12-2025,complete
+P557,City Flyover Construction,Mumbai,Vikram Patel,25-08-2027,18-07-2029,In Progress
+P558,Residential Tower A,Delhi,Vikram Patel,13-03-2023,30-08-2029,In Progress
+P559,Residential Tower B,Mumbai,Neha Gupta,14-10-2027,13-05-2025,complete
+P560,Highway Expansion Project,Mumbai,Rahul Sharma,27-11-2027,20-10-2029,In Progress
+P561,River Bridge Construction,Mumbai,Anuj Rahane,16-09-2023,15-11-2029,In Progress
+P562,Smart City Road Project,Banglore,Amit Verma,15-01-2028,20-12-2029,In Progress
+P563,Shopping Mall Construction,Banglore,Priya Singh,28-02-2028,05-05-2026,complete
+P564,IT Park Development,pune,Priya Singh,04-04-2020,15-02-2030,In Progress
+P565,Metro Station Development,Jaipur,Priya Singh,04-09-2019,28-03-2030,In Progress
+P566,City Flyover Construction,Kolkata,Vikram Patel,19-05-2028,08-10-2026,In Progress
+P567,Residential Tower A,Hydrabad,Vikram Patel,30-06-2028,22-05-2030,In Progress
+P568,Residential Tower B,Chennnai,Neha Gupta,11-08-2024,30-06-2030,In Progress
+P569,Highway Expansion Project,Mumbai,Rahul Sharma,17-08-2028,18-07-2030,In Progress
+P570,City Flyover Construction,Delhi,Anuj Rahane,26-09-2028,30-08-2030,In Progress
+P571,Residential Tower A,Mumbai,Amit Verma,14-10-2024,15-09-2030,In Progress
+P572,Residential Tower B,Mumbai,Priya Singh,22-11-2028,28-10-2030,In Progress
+P573,Highway Expansion Project,Mumbai,Priya Singh,12-05-2024,11-10-2026,In Progress
+P574,River Bridge Construction,Banglore,Priya Singh,14-01-2029,20-12-2030,In Progress
+P575,Smart City Road Project,Banglore,Vikram Patel,28-02-2029,05-10-2027,In Progress
+P576,Shopping Mall Construction,wardha,Vikram Patel,15-03-2029,20-02-2031,In Progress
+P577,IT Park Development,Jaipur,Neha Gupta,08-05-2025,15-03-2031,In Progress
+P578,Metro Station Development,Kolkata,Rahul Sharma,19-05-2029,28-04-2031,In Progress
+P579,City Flyover Construction,Hydrabad,Anuj Rahane,30-06-2029,09-05-2027,In Progress
+P580,Residential Tower A,Pune,Amit Verma,11-08-2025,18-06-2031,In Progress
+P581,Residential Tower B,Mumbai,Priya Singh,17-08-2029,30-07-2031,In Progress
+P582,Highway Expansion Project,Delhi,Priya Singh,26-09-2029,12-10-2027,In Progress
+P583,City Flyover Construction,Mumbai,Priya Singh,14-10-2025,18-09-2031,In Progress
+P584,Residential Tower A,Mumbai,Arjun Mehta,22-11-2029,28-10-2031,In Progress
+P585,Residential Tower B,Mumbai,Rahul Sharma,12-05-2025,11-10-2027,In Progress
+P586,Highway Expansion Project,Banglore,Anuj Rahane,14-01-2025,20-08-2026,complete
+P587,River Bridge Construction,Banglore,Amit Verma,28-02-2025,14-10-2022,complete
+P588,Smart City Road Project,nagpur,Priya Singh,04-04-2017,18-11-2026,In Progress
+P589,Shopping Mall Construction,Jaipur,Priya Singh,03-09-2016,30-12-2026,complete
+P590,IT Park Development,Kolkata,Priya Singh,19-05-2025,06-10-2023,complete
+P591,Metro Station Development,Hydrabad,Vikram Patel,30-06-2025,18-03-2027,In Progress
+P592,City Flyover Construction,Wardha,Vikram Patel,11-08-2021,25-04-2027,In Progress
+P593,Residential Tower A,Mumbai,Neha Gupta,17-08-2025,09-10-2023,complete
+P594,Residential Tower B,Delhi,Rahul Sharma,26-09-2025,18-06-2027,In Progress
+P595,Highway Expansion Project,Mumbai,Arjun Mehta,14-10-2021,25-07-2027,In Progress
+P596,City Flyover Construction,Mumbai,Rahul Sharma,22-11-2025,15-08-2027,In Progress
+P597,Residential Tower A,Mumbai,Anuj Rahane,16-05-2021,20-09-2027,In Progress
+P598,Residential Tower B,Banglore,Amit Verma,14-01-2026,30-10-2027,In Progress
+P599,Highway Expansion Project,Banglore,Priya Singh,28-02-2026,20-11-2027,In Progress
+P600,River Bridge Construction,mumbai,Priya Singh,04-04-2018,12-10-2023,complete
+P601,Smart City Road Project,Jaipur,Priya Singh,03-09-2017,20-01-2028,In Progress
+P602,Shopping Mall Construction,Kolkata,Vikram Patel,19-05-2026,18-02-2028,In Progress
+P603,IT Park Development,Hydrabad,Vikram Patel,30-06-2026,07-10-2024,complete
+P604,Metro Station Development,Nagpur,Neha Gupta,11-08-2022,25-04-2028,In Progress
+P605,City Flyover Construction,Mumbai,Rahul Sharma,17-08-2026,09-05-2024,complete
+P606,Residential Tower A,Delhi,Arjun Mehta,26-09-2026,18-06-2028,complete
+P607,Residential Tower B,Mumbai,Rahul Sharma,14-10-2022,30-07-2028,In Progress
+P608,Highway Expansion Project,Mumbai,Anuj Rahane,22-11-2026,12-10-2024,complete
+P609,City Flyover Construction,Mumbai,Amit Verma,16-05-2022,18-09-2028,In Progress
+P610,Residential Tower A,Banglore,Priya Singh,14-01-2027,25-10-2028,In Progress
+P611,Residential Tower B,Banglore,Priya Singh,28-02-2027,15-10-2024,complete
+P612,Highway Expansion Project,Delhi,Priya Singh,04-04-2019,20-12-2028,In Progress
+P613,River Bridge Construction,Jaipur,Vikram Patel,03-09-2018,15-01-2029,In Progress
+P614,Smart City Road Project,Kolkata,Vikram Patel,19-05-2027,28-02-2029,In Progress
+P615,Shopping Mall Construction,Hydrabad,Neha Gupta,30-06-2027,07-10-2025,complete
+P616,IT Park Development,Mumbai,Rahul Sharma,11-08-2023,18-04-2029,In Progress
+P617,Metro Station Development,Mumbai,Arjun Mehta,17-08-2027,25-05-2029,In Progress
+P618,City Flyover Construction,Delhi,Rahul Sharma,26-09-2027,30-06-2029,In Progress
+P619,Residential Tower A,Mumbai,Anuj Rahane,14-10-2023,18-07-2029,In Progress
+P620,Residential Tower B,Mumbai,Amit Verma,22-11-2027,12-10-2025,complete
+P621,Highway Expansion Project,Mumbai,Priya Singh,16-05-2023,18-09-2029,In Progress
+P622,City Flyover Construction,Banglore,Priya Singh,21-03-2027,09-10-2022,complete
+P623,Residential Tower A,Banglore,Priya Singh,22-10-2027,18-10-2027,In Progress
+P624,Residential Tower B,chennnai,Vikram Patel,25-03-2026,15-12-2027,In Progress
+P625,Highway Expansion Project,Jaipur,Vikram Patel,09-10-2021,20-01-2028,In Progress
+P626,River Bridge Construction,Kolkata,Rahul Sharma,18-05-2026,22-03-2029,In Progress
+P627,Smart City Road Project,Hydrabad,Arjun Mehta,06-02-2021,23-10-2029,In Progress
+P628,Shopping Mall Construction,Delhi,Rahul Sharma,20-07-2026,25-05-2028,In Progress
+P629,IT Park Development,Mumbai,Anuj Rahane,14-08-2026,11-10-2023,complete
+P630,Metro Station Development,Delhi,Amit Verma,30-09-2026,18-07-2028,In Progress
+P631,City Flyover Construction,Mumbai,Priya Singh,06-11-2016,20-08-2028,In Progress
+P632,Residential Tower A,Mumbai,Priya Singh,07-05-2016,09-10-2023,complete
+P633,Residential Tower B,Mumbai,Priya Singh,19-12-2026,15-10-2028,In Progress
+P634,Highway Expansion Project,Banglore,Vikram Patel,06-08-2022,20-11-2028,In Progress
+P635,City Flyover Construction,Banglore,Vikram Patel,15-02-2027,06-05-2024,complete
+P636,Residential Tower A,pune,Rahul Sharma,28-03-2027,18-02-2029,In Progress
+P637,Residential Tower B,Jaipur,Arjun Mehta,09-06-2022,25-03-2029,In Progress
+P638,Highway Expansion Project,Kolkata,Rahul Sharma,17-05-2027,30-04-2029,In Progress
+P639,River Bridge Construction,Hydrabad,Anuj Rahane,06-01-2022,05-10-2024,complete
+P640,Smart City Road Project,Chennnai,Amit Verma,22-07-2027,18-06-2029,In Progress
+P641,Shopping Mall Construction,Mumbai,Priya Singh,13-09-2022,25-07-2029,In Progress
+P642,IT Park Development,Delhi,Priya Singh,18-09-2027,15-08-2029,In Progress
+P643,Metro Station Development,Mumbai,Priya Singh,15-02-2022,30-09-2029,In Progress
+P644,City Flyover Construction,Mumbai,Vikram Patel,14-11-2027,20-10-2029,In Progress
+P645,Residential Tower A,Mumbai,Vikram Patel,29-12-2027,16-10-2024,complete
+P646,Residential Tower B,Banglore,Rahul Sharma,06-10-2023,20-12-2029,In Progress
+P647,Highway Expansion Project,Banglore,Arjun Mehta,18-02-2028,15-01-2030,In Progress
+P648,City Flyover Construction,wardha,Rahul Sharma,22-03-2028,28-02-2030,In Progress
+P649,Residential Tower A,Jaipur,Anuj Rahane,09-05-2023,20-03-2030,In Progress
+P650,Residential Tower B,Kolkata,Amit Verma,16-05-2028,25-04-2030,In Progress
+P651,Highway Expansion Project,Hydrabad,Priya Singh,28-06-2028,30-05-2030,complete
+P652,River Bridge Construction,Pune,Priya Singh,07-11-2023,06-12-2025,complete
+P653,Smart City Road Project,Mumbai,Priya Singh,25-08-2028,18-07-2030,In Progress
+P654,Shopping Mall Construction,Delhi,Vikram Patel,14-03-2023,30-08-2030,In Progress
+P655,IT Park Development,Mumbai,Vikram Patel,14-10-2028,14-05-2025,complete
+P656,Metro Station Development,Mumbai,Rahul Sharma,27-11-2028,20-10-2030,In Progress
+P657,City Flyover Construction,Mumbai,Arjun Mehta,17-09-2023,15-11-2030,In Progress
+P658,Residential Tower A,Banglore,Rahul Sharma,15-01-2029,20-12-2030,In Progress
+P659,Residential Tower B,Banglore,Anuj Rahane,28-02-2029,06-05-2026,complete
+P660,Highway Expansion Project,nagpur,Amit Verma,03-02-2019,15-02-2031,In Progress
+P661,City Flyover Construction,Jaipur,Priya Singh,05-07-2018,28-03-2031,In Progress
+P662,Residential Tower A,Kolkata,Priya Singh,19-05-2029,09-10-2026,complete
+P663,Residential Tower B,Hydrabad,Priya Singh,30-06-2029,22-05-2031,In Progress
+P664,Highway Expansion Project,Wardha,Vikram Patel,12-08-2024,30-06-2031,In Progress
+P665,River Bridge Construction,Mumbai,Vikram Patel,17-08-2029,18-07-2031,In Progress
+P666,Smart City Road Project,Delhi,Rahul Sharma,26-09-2029,30-08-2031,In Progress
+P667,Shopping Mall Construction,Mumbai,Arjun Mehta,15-10-2024,15-09-2031,In Progress
+P668,IT Park Development,Mumbai,Rahul Sharma,22-11-2029,28-10-2031,In Progress
+P669,Metro Station Development,Mumbai,Anuj Rahane,12-05-2024,11-10-2026,In Progress
+P670,City Flyover Construction,Banglore,Amit Verma,14-01-2030,20-12-2031,In Progress
+P671,Residential Tower A,Banglore,Priya Singh,28-02-2030,06-10-2027,In Progress
+P672,Residential Tower B,mumbai,Priya Singh,15-03-2030,20-02-2032,In Progress
+P673,Highway Expansion Project,Jaipur,Priya Singh,09-05-2025,15-03-2032,In Progress
+P674,City Flyover Construction,Kolkata,Vikram Patel,19-05-2030,28-04-2032,In Progress
+P675,Residential Tower A,Hydrabad,Vikram Patel,30-06-2030,10-05-2027,In Progress
+P676,Residential Tower B,Nagpur,Rahul Sharma,12-08-2025,18-06-2032,In Progress
+P677,Highway Expansion Project,Mumbai,Arjun Mehta,17-08-2030,30-07-2032,In Progress
+P678,River Bridge Construction,Delhi,Rahul Sharma,26-09-2030,13-10-2027,In Progress
+P679,Smart City Road Project,Mumbai,Anuj Rahane,15-10-2025,18-09-2032,In Progress
+P680,Shopping Mall Construction,Mumbai,Amit Verma,22-11-2030,28-10-2032,In Progress
+P681,IT Park Development,Mumbai,Priya Singh,12-05-2025,11-10-2027,In Progress
+P682,Metro Station Development,Banglore,Priya Singh,14-01-2026,20-08-2027,In Progress
+P683,City Flyover Construction,Banglore,Priya Singh,28-02-2026,15-10-2022,complete
+P684,Residential Tower A,Delhi,Vikram Patel,03-02-2016,18-11-2027,In Progress
+P685,Residential Tower B,Jaipur,Vikram Patel,05-07-2015,30-12-2027,In Progress
+P686,Highway Expansion Project,Kolkata,Rahul Sharma,19-05-2026,07-10-2023,complete
+P687,City Flyover Construction,Hydrabad,Arjun Mehta,30-06-2026,18-03-2028,In Progress
+P688,Residential Tower A,Mumbai,Rahul Sharma,12-08-2021,25-04-2028,In Progress
+P689,Residential Tower B,Mumbai,Anuj Rahane,17-08-2026,10-10-2023,complete
+P690,Highway Expansion Project,Delhi,Amit Verma,26-09-2026,18-06-2028,In Progress
+P691,River Bridge Construction,Mumbai,Priya Singh,15-10-2021,25-07-2028,In Progress
+P692,Smart City Road Project,Mumbai,Priya Singh,22-11-2026,15-08-2028,In Progress
+P693,Shopping Mall Construction,Mumbai,Priya Singh,17-05-2021,20-09-2028,In Progress
+P694,IT Park Development,Banglore,Vikram Patel,14-01-2027,30-10-2028,In Progress
+P695,Metro Station Development,Banglore,Vikram Patel,28-02-2027,20-11-2028,In Progress
+P696,City Flyover Construction,chennnai,Rahul Sharma,02-02-2017,12-10-2023,complete
+P697,Residential Tower A,Jaipur,Arjun Mehta,04-07-2016,20-01-2029,In Progress
+P698,Residential Tower B,Kolkata,Rahul Sharma,19-05-2027,18-02-2029,In Progress
+P699,Highway Expansion Project,Hydrabad,Anuj Rahane,30-06-2027,08-10-2024,complete
+P700,City Flyover Construction,Delhi,Amit Verma,12-08-2022,25-04-2029,In Progress
+P701,Residential Tower A,Mumbai,Priya Singh,17-08-2027,10-05-2024,complete
+P702,Residential Tower B,Delhi,Priya Singh,26-09-2027,18-06-2029,In Progress
+P703,Highway Expansion Project,Mumbai,Priya Singh,15-10-2022,30-07-2029,In Progress
+P704,River Bridge Construction,Mumbai,Vikram Patel,22-11-2027,13-10-2024,complete
+P705,Smart City Road Project,Mumbai,Vikram Patel,17-05-2022,18-09-2029,In Progress
+P706,Shopping Mall Construction,Banglore,Rahul Sharma,14-01-2028,25-10-2029,In Progress
+P707,IT Park Development,Banglore,Arjun Mehta,28-02-2028,16-10-2024,complete
+P708,Metro Station Development,pune,Rahul Sharma,02-02-2018,20-12-2029,In Progress
+P709,City Flyover Construction,Jaipur,Anuj Rahane,04-07-2017,15-01-2030,In Progress
+P710,Residential Tower A,Kolkata,Amit Verma,19-05-2028,28-02-2030,In Progress
+P711,Residential Tower B,Hydrabad,Priya Singh,30-06-2028,08-10-2025,complete
+P712,Highway Expansion Project,Chennnai,Priya Singh,12-08-2023,18-04-2030,In Progress
+P713,City Flyover Construction,Mumbai,Priya Singh,17-08-2028,25-05-2030,In Progress
+P714,Residential Tower A,Delhi,Vikram Patel,26-09-2028,30-06-2030,In Progress
+P715,Residential Tower B,Mumbai,Vikram Patel,15-10-2023,18-07-2030,In Progress
+P716,Highway Expansion Project,Mumbai,Rahul Sharma,22-11-2028,13-10-2025,complete
+P717,River Bridge Construction,Mumbai,Arjun Mehta,17-05-2023,18-09-2030,In Progress
+P718,Smart City Road Project,Banglore,Rahul Sharma,24-05-2028,09-10-2022,complete
+P719,Shopping Mall Construction,Banglore,Anuj Rahane,25-12-2028,18-10-2028,In Progress
+P720,IT Park Development,wardha,Amit Verma,25-03-2027,15-12-2028,In Progress
+P721,Metro Station Development,Jaipur,Priya Singh,10-10-2021,20-01-2029,In Progress
+P722,City Flyover Construction,Kolkata,Priya Singh,18-05-2027,26-05-2030,In Progress
+P723,Residential Tower A,Hydrabad,Priya Singh,06-02-2021,27-12-2030,In Progress
+P724,Residential Tower B,Pune,Vikram Patel,20-07-2027,25-05-2029,In Progress
+P725,Highway Expansion Project,Mumbai,Vikram Patel,14-08-2027,12-10-2023,complete
+P726,City Flyover Construction,Delhi,Rahul Sharma,30-09-2027,18-07-2029,In Progress
+P727,Residential Tower A,Mumbai,Arjun Mehta,06-11-2015,20-08-2029,In Progress
+P728,Residential Tower B,Mumbai,Rahul Sharma,07-05-2015,09-10-2023,complete
+P729,Highway Expansion Project,Mumbai,Anuj Rahane,19-12-2027,15-10-2029,In Progress
+P730,River Bridge Construction,Banglore,Amit Verma,07-08-2022,20-11-2029,In Progress
+P731,Smart City Road Project,Banglore,Priya Singh,15-02-2028,07-05-2024,complete
+P732,Shopping Mall Construction,nagpur,Priya Singh,28-03-2028,18-02-2030,In Progress
+P733,IT Park Development,Jaipur,Priya Singh,10-06-2022,25-03-2030,In Progress
+P734,Metro Station Development,Kolkata,Vikram Patel,17-05-2028,30-04-2030,In Progress
+P735,City Flyover Construction,Hydrabad,Vikram Patel,06-01-2022,05-10-2024,complete
+P736,Residential Tower A,Wardha,Rahul Sharma,22-07-2028,18-06-2030,In Progress
+P737,Residential Tower B,Mumbai,Arjun Mehta,14-09-2022,25-07-2030,In Progress
+P738,Highway Expansion Project,Delhi,Rahul Sharma,18-09-2028,15-08-2030,In Progress
+P739,City Flyover Construction,Mumbai,Anuj Rahane,16-02-2022,30-09-2030,In Progress
+P740,Residential Tower A,Mumbai,Amit Verma,14-11-2028,20-10-2030,In Progress
+P741,Residential Tower B,Mumbai,Priya Singh,29-12-2028,17-10-2024,complete
+P742,Highway Expansion Project,Banglore,Priya Singh,07-10-2023,20-12-2030,In Progress
+P743,River Bridge Construction,Banglore,Priya Singh,18-02-2029,15-01-2031,In Progress
+P744,Smart City Road Project,mumbai,Vikram Patel,22-03-2029,28-02-2031,In Progress
+P745,Shopping Mall Construction,Jaipur,Vikram Patel,10-05-2023,20-03-2031,In Progress
+P746,IT Park Development,Kolkata,Rahul Sharma,16-05-2029,25-04-2031,In Progress
+P747,Metro Station Development,Hydrabad,Arjun Mehta,28-06-2029,30-05-2031,In Progress
+P748,City Flyover Construction,Nagpur,Rahul Sharma,07-11-2023,06-12-2025,In Progress
+P749,Residential Tower A,Mumbai,Anuj Rahane,25-08-2029,18-07-2031,In Progress
+P750,Residential Tower B,Delhi,Amit Verma,15-03-2023,30-08-2031,In Progress
+P751,Highway Expansion Project,Mumbai,Anuj Rahane,14-10-2029,15-05-2025,complete
+P752,City Flyover Construction,Mumbai,Amit Verma,27-11-2029,20-10-2031,In Progress
+P753,Residential Tower A,Mumbai,Priya Singh,18-09-2023,15-11-2031,In Progress
+P754,Residential Tower B,Banglore,Priya Singh,15-01-2030,20-12-2031,In Progress
+P755,Highway Expansion Project,Banglore,Priya Singh,28-02-2030,07-05-2026,complete
+P756,River Bridge Construction,Delhi,Vikram Patel,04-12-2017,15-02-2032,In Progress
+P757,Smart City Road Project,Jaipur,Vikram Patel,05-05-2017,28-03-2032,In Progress
+P758,Shopping Mall Construction,Kolkata,Neha Gupta,19-05-2030,10-10-2026,In Progress
+P759,IT Park Development,Hydrabad,Anuj Rahane,30-06-2030,22-05-2032,In Progress
+P760,Metro Station Development,Mumbai,Amit Verma,13-08-2024,30-06-2032,In Progress
+P761,City Flyover Construction,Mumbai,Priya Singh,17-08-2030,18-07-2032,In Progress
+P762,Residential Tower A,Delhi,Priya Singh,26-09-2030,30-08-2032,In Progress
+P763,Residential Tower B,Mumbai,Priya Singh,16-10-2024,15-09-2032,In Progress
+P764,Highway Expansion Project,Mumbai,Vikram Patel,22-11-2030,28-10-2032,In Progress
+P765,City Flyover Construction,Mumbai,Vikram Patel,12-05-2024,11-10-2026,In Progress
+P766,Residential Tower A,Banglore,Neha Gupta,14-01-2031,20-12-2032,In Progress
+P767,Residential Tower B,Banglore,Anuj Rahane,28-02-2031,07-10-2027,In Progress
+P768,Highway Expansion Project,chennnai,Amit Verma,15-03-2031,20-02-2033,In Progress
+P769,River Bridge Construction,Jaipur,Priya Singh,10-05-2025,15-03-2033,In Progress
+P770,Smart City Road Project,Kolkata,Priya Singh,19-05-2031,28-04-2033,In Progress
+P771,Shopping Mall Construction,Hydrabad,Priya Singh,30-06-2031,11-05-2027,In Progress
+P772,IT Park Development,Delhi,Vikram Patel,13-08-2025,18-06-2033,In Progress
+P773,Metro Station Development,Mumbai,Vikram Patel,17-08-2031,30-07-2033,In Progress
+P774,City Flyover Construction,Delhi,Neha Gupta,26-09-2031,14-10-2027,In Progress
+P775,Residential Tower A,Mumbai,Anuj Rahane,16-10-2025,18-09-2033,In Progress
+P776,Residential Tower B,Mumbai,Amit Verma,22-11-2031,28-10-2033,In Progress
+P777,Highway Expansion Project,Mumbai,Priya Singh,12-05-2025,11-10-2027,In Progress
+P778,City Flyover Construction,Banglore,Priya Singh,14-01-2027,20-08-2028,In Progress
+P779,Residential Tower A,Banglore,Priya Singh,28-02-2027,16-10-2022,In Progress
+P780,Residential Tower B,pune,Vikram Patel,04-12-2014,18-11-2028,In Progress
+P781,Highway Expansion Project,Jaipur,Vikram Patel,05-05-2014,30-12-2028,In Progress
+P782,River Bridge Construction,Kolkata,Neha Gupta,19-05-2027,08-10-2023,complete
+P783,Smart City Road Project,Hydrabad,Anuj Rahane,30-06-2027,18-03-2029,In Progress
+P784,Shopping Mall Construction,Chennnai,Amit Verma,13-08-2021,25-04-2029,In Progress
+P785,IT Park Development,Mumbai,Priya Singh,17-08-2027,11-10-2023,complete
+P786,Metro Station Development,Delhi,Priya Singh,26-09-2027,18-06-2029,In Progress
+P787,City Flyover Construction,Mumbai,Priya Singh,16-10-2021,25-07-2029,In Progress
+P788,Residential Tower A,Mumbai,Vikram Patel,22-11-2027,15-08-2029,In Progress
+P789,Residential Tower B,Mumbai,Vikram Patel,18-05-2021,20-09-2029,In Progress
+P790,Highway Expansion Project,Banglore,Neha Gupta,14-01-2028,30-10-2029,In Progress
+P791,City Flyover Construction,Banglore,Anuj Rahane,28-02-2028,20-11-2029,In Progress
+P792,Residential Tower A,wardha,Amit Verma,04-12-2015,12-10-2023,complete
+P793,Residential Tower B,Jaipur,Priya Singh,05-05-2015,20-01-2030,In Progress
+P794,Highway Expansion Project,Kolkata,Priya Singh,19-05-2028,18-02-2030,In Progress
+P795,River Bridge Construction,Hydrabad,Priya Singh,30-06-2028,09-10-2024,complete
+P796,Smart City Road Project,Pune,Vikram Patel,13-08-2022,25-04-2030,In Progress
+P797,Shopping Mall Construction,Mumbai,Vikram Patel,17-08-2028,11-05-2024,complete
+P798,IT Park Development,Delhi,Neha Gupta,26-09-2028,18-06-2030,In Progress
+P799,Metro Station Development,Mumbai,Anuj Rahane,16-10-2022,30-07-2030,In Progress
+P800,City Flyover Construction,Mumbai,Amit Verma,22-11-2028,14-10-2024,complete
+P801,Residential Tower A,Mumbai,Priya Singh,18-05-2022,18-09-2030,In Progress
+P802,Residential Tower B,Banglore,Priya Singh,14-01-2029,25-10-2030,In Progress
+P803,Highway Expansion Project,Banglore,Priya Singh,28-02-2029,17-10-2024,complete
+P804,City Flyover Construction,nagpur,Vikram Patel,03-12-2016,20-12-2030,In Progress
+P805,Residential Tower A,Jaipur,Vikram Patel,04-05-2016,15-01-2031,In Progress
+P806,Residential Tower B,Kolkata,Neha Gupta,19-05-2029,28-02-2031,In Progress
+P807,Highway Expansion Project,Hydrabad,Anuj Rahane,30-06-2029,09-10-2025,complete
+P808,River Bridge Construction,Wardha,Amit Verma,13-08-2023,18-04-2031,In Progress
+P809,Smart City Road Project,Mumbai,Priya Singh,17-08-2029,25-05-2031,In Progress
+P810,Shopping Mall Construction,Delhi,Priya Singh,26-09-2029,30-06-2031,In Progress
+P811,IT Park Development,Mumbai,Priya Singh,16-10-2023,18-07-2031,In Progress
+P812,Metro Station Development,Mumbai,Vikram Patel,22-11-2029,14-10-2025,complete
+P813,City Flyover Construction,Mumbai,Vikram Patel,18-05-2023,18-09-2031,In Progress
+P814,Residential Tower A,Banglore,Neha Gupta,28-07-2029,09-10-2022,complete
+P815,Residential Tower B,Banglore,Anuj Rahane,28-02-2030,18-10-2029,In Progress
+P816,Highway Expansion Project,mumbai,Amit Verma,25-03-2028,15-12-2029,In Progress
+P817,City Flyover Construction,Jaipur,Priya Singh,11-10-2021,20-01-2030,In Progress
+P818,Residential Tower A,Kolkata,Priya Singh,18-05-2028,30-07-2031,In Progress
+P819,Residential Tower B,Hydrabad,Priya Singh,06-02-2021,01-03-2032,In Progress
+P820,Highway Expansion Project,Nagpur,Vikram Patel,20-07-2028,25-05-2030,In Progress
+P821,River Bridge Construction,Mumbai,Vikram Patel,14-08-2028,13-10-2023,complete
+P822,Smart City Road Project,Delhi,Neha Gupta,30-09-2028,18-07-2030,In Progress
+P823,Shopping Mall Construction,Mumbai,Anuj Rahane,05-11-2014,20-08-2030,In Progress
+P824,IT Park Development,Mumbai,Amit Verma,06-05-2014,09-10-2023,complete
+P825,Metro Station Development,Mumbai,Priya Singh,19-12-2028,15-10-2030,In Progress
+P826,City Flyover Construction,Banglore,Priya Singh,08-08-2022,20-11-2030,In Progress
+P827,Residential Tower A,Banglore,Priya Singh,15-02-2029,08-05-2024,complete
+P828,Residential Tower B,Delhi,Vikram Patel,28-03-2029,18-02-2031,In Progress
+P829,Highway Expansion Project,Jaipur,Vikram Patel,11-06-2022,25-03-2031,In Progress
+P830,City Flyover Construction,Kolkata,Neha Gupta,17-05-2029,30-04-2031,In Progress
+P831,Residential Tower A,Hydrabad,Anuj Rahane,06-01-2022,05-10-2024,complete
+P832,Residential Tower B,Mumbai,Amit Verma,22-07-2029,18-06-2031,In Progress
+P833,Highway Expansion Project,Mumbai,Priya Singh,15-09-2022,25-07-2031,In Progress
+P834,River Bridge Construction,Delhi,Priya Singh,18-09-2029,15-08-2031,In Progress
+P835,Smart City Road Project,Mumbai,Priya Singh,17-02-2022,30-09-2031,In Progress
+P836,Shopping Mall Construction,Mumbai,Vikram Patel,14-11-2029,20-10-2031,In Progress
+P837,IT Park Development,Mumbai,Vikram Patel,29-12-2029,18-10-2024,complete
+P838,Metro Station Development,Banglore,Neha Gupta,08-10-2023,20-12-2031,In Progress
+P839,City Flyover Construction,Banglore,Anuj Rahane,18-02-2030,15-01-2032,In Progress
+P840,Residential Tower A,chennnai,Amit Verma,22-03-2030,28-02-2032,In Progress
+P841,Residential Tower B,Jaipur,Priya Singh,11-05-2023,20-03-2032,In Progress
+P842,Highway Expansion Project,Kolkata,Priya Singh,16-05-2030,25-04-2032,In Progress
+P843,City Flyover Construction,Hydrabad,Priya Singh,28-06-2030,30-05-2032,In Progress
+P844,Residential Tower A,Delhi,Vikram Patel,07-11-2023,06-12-2025,complete
+P845,Residential Tower B,Mumbai,Vikram Patel,25-08-2030,18-07-2032,In Progress
+P846,Highway Expansion Project,Delhi,Neha Gupta,16-03-2023,30-08-2032,In Progress
+P847,River Bridge Construction,Mumbai,Anuj Rahane,14-10-2030,16-05-2025,complete
+P848,Smart City Road Project,Mumbai,Amit Verma,27-11-2030,20-10-2032,In Progress
+P849,Shopping Mall Construction,Mumbai,Priya Singh,19-09-2023,15-11-2032,In Progress
+P850,IT Park Development,Banglore,Priya Singh,15-01-2031,20-12-2032,In Progress
+P851,Metro Station Development,Banglore,Priya Singh,28-02-2031,08-05-2026,In Progress
+P852,City Flyover Construction,pune,Vikram Patel,04-10-2016,15-02-2033,In Progress
+P853,Residential Tower A,Jaipur,Vikram Patel,05-03-2016,28-03-2033,In Progress
+P854,Residential Tower B,Kolkata,Neha Gupta,19-05-2031,11-10-2026,complete
+P855,Highway Expansion Project,Hydrabad,Anuj Rahane,30-06-2031,22-05-2033,In Progress
+P856,City Flyover Construction,Chennnai,Amit Verma,14-08-2024,30-06-2033,In Progress
+P857,Residential Tower A,Mumbai,Priya Singh,17-08-2031,18-07-2033,In Progress
+P858,Residential Tower B,Delhi,Priya Singh,26-09-2031,30-08-2033,In Progress
+P859,Highway Expansion Project,Mumbai,Priya Singh,17-10-2024,15-09-2033,In Progress
+P860,River Bridge Construction,Mumbai,Vikram Patel,22-11-2031,28-10-2033,In Progress
+P861,Smart City Road Project,Mumbai,Vikram Patel,12-05-2024,11-10-2026,complete
+P862,Shopping Mall Construction,Banglore,Neha Gupta,14-01-2032,20-12-2033,In Progress
+P863,IT Park Development,Banglore,Anuj Rahane,28-02-2032,08-10-2027,In Progress
+P864,Metro Station Development,wardha,Amit Verma,15-03-2032,20-02-2034,In Progress
+P865,City Flyover Construction,Jaipur,Priya Singh,11-05-2025,15-03-2034,In Progress
+P866,Residential Tower A,Kolkata,Priya Singh,19-05-2032,28-04-2034,In Progress
+P867,Residential Tower B,Hydrabad,Priya Singh,30-06-2032,12-05-2027,In Progress
+P868,Highway Expansion Project,Pune,Vikram Patel,14-08-2025,18-06-2034,In Progress
+P869,City Flyover Construction,Mumbai,Vikram Patel,17-08-2032,30-07-2034,In Progress
+P870,Residential Tower A,Delhi,Neha Gupta,26-09-2032,15-10-2027,In Progress
+P871,Residential Tower B,Mumbai,Anuj Rahane,17-10-2025,18-09-2034,In Progress
+P872,Highway Expansion Project,Mumbai,Amit Verma,22-11-2032,28-10-2034,In Progress
+P873,River Bridge Construction,Mumbai,Priya Singh,12-05-2025,11-10-2027,In Progress
+P874,Smart City Road Project,Banglore,Priya Singh,14-01-2028,20-08-2029,In Progress
+P875,Shopping Mall Construction,Banglore,Priya Singh,28-02-2028,17-10-2022,In Progress
+P876,IT Park Development,nagpur,Vikram Patel,04-10-2013,18-11-2029,In Progress
+P877,Metro Station Development,Jaipur,Vikram Patel,05-03-2013,30-12-2029,In Progress
+P878,City Flyover Construction,Kolkata,Neha Gupta,19-05-2028,09-10-2023,In Progress
+P879,Residential Tower A,Hydrabad,Anuj Rahane,30-06-2028,18-03-2030,In Progress
+P880,Residential Tower B,Wardha,Amit Verma,14-08-2021,25-04-2030,In Progress
+P881,Highway Expansion Project,Mumbai,Priya Singh,17-08-2028,12-10-2023,complete
+P882,City Flyover Construction,Delhi,Priya Singh,26-09-2028,18-06-2030,In Progress
+P883,Residential Tower A,Mumbai,Priya Singh,17-10-2021,25-07-2030,In Progress
+P884,Residential Tower B,Mumbai,Vikram Patel,22-11-2028,15-08-2030,In Progress
+P885,Highway Expansion Project,Mumbai,Vikram Patel,19-05-2021,20-09-2030,In Progress
+P886,River Bridge Construction,Banglore,Neha Gupta,14-01-2029,30-10-2030,In Progress
+P887,Smart City Road Project,Banglore,Anuj Rahane,28-02-2029,20-11-2030,In Progress
+P888,Shopping Mall Construction,mumbai,Amit Verma,04-10-2014,12-10-2023,In Progress
+P889,IT Park Development,Jaipur,Priya Singh,05-03-2014,20-01-2031,In Progress
+P890,Metro Station Development,Kolkata,Priya Singh,19-05-2029,18-02-2031,In Progress
+P891,City Flyover Construction,Hydrabad,Priya Singh,30-06-2029,10-10-2024,complete
+P892,Residential Tower A,Nagpur,Vikram Patel,14-08-2022,25-04-2031,In Progress
+P893,Residential Tower B,Mumbai,Vikram Patel,17-08-2029,12-05-2024,complete
+P894,Highway Expansion Project,Delhi,Neha Gupta,26-09-2029,18-06-2031,In Progress
+P895,City Flyover Construction,Mumbai,Anuj Rahane,17-10-2022,30-07-2031,In Progress
+P896,Residential Tower A,Mumbai,Amit Verma,22-11-2029,15-10-2024,complete
+P897,Residential Tower B,Mumbai,Priya Singh,19-05-2022,18-09-2031,In Progress
+P898,Highway Expansion Project,Banglore,Priya Singh,14-01-2030,25-10-2031,In Progress
+P899,River Bridge Construction,Banglore,Priya Singh,28-02-2030,18-10-2024,complete
+P900,Smart City Road Project,Delhi,Vikram Patel,04-10-2015,20-12-2031,In Progress
+P901,Shopping Mall Construction,Jaipur,Vikram Patel,05-03-2015,15-01-2032,In Progress
+P902,IT Park Development,Kolkata,Neha Gupta,19-05-2030,28-02-2032,In Progress
+P903,Metro Station Development,Hydrabad,Anuj Rahane,30-06-2030,10-10-2025,In Progress
+P904,City Flyover Construction,Mumbai,Amit Verma,14-08-2023,18-04-2032,In Progress
+P905,Residential Tower A,Mumbai,Priya Singh,17-08-2030,25-05-2032,In Progress
+P906,Residential Tower B,Delhi,Priya Singh,26-09-2030,30-06-2032,In Progress
+P907,Highway Expansion Project,Mumbai,Priya Singh,17-10-2023,18-07-2032,In Progress
+P908,City Flyover Construction,Mumbai,Vikram Patel,22-11-2030,15-10-2025,complete
+P909,Residential Tower A,Mumbai,Vikram Patel,19-05-2023,18-09-2032,In Progress
+P910,Residential Tower B,Banglore,Neha Gupta,01-10-2030,09-10-2022,complete
+P911,Highway Expansion Project,Banglore,Anuj Rahane,04-05-2031,18-10-2030,In Progress
+P912,River Bridge Construction,chennnai,Amit Verma,25-03-2029,15-12-2030,In Progress
+P913,Smart City Road Project,Jaipur,Priya Singh,12-10-2021,20-01-2031,In Progress
+P914,Shopping Mall Construction,Kolkata,Priya Singh,18-05-2029,02-10-2032,In Progress
+P915,IT Park Development,Hydrabad,Priya Singh,06-02-2021,05-05-2033,In Progress
+P916,Metro Station Development,Delhi,Vikram Patel,20-07-2029,25-05-2031,In Progress
+P917,City Flyover Construction,Mumbai,Vikram Patel,14-08-2029,14-10-2023,In Progress
+P918,Residential Tower A,Delhi,Neha Gupta,30-09-2029,18-07-2031,In Progress
+P919,Residential Tower B,Mumbai,Anuj Rahane,04-11-2013,20-08-2031,In Progress
+P920,Highway Expansion Project,Mumbai,Amit Verma,05-05-2013,09-10-2023,complete
+P921,City Flyover Construction,Mumbai,Priya Singh,19-12-2029,15-10-2031,In Progress
+P922,Residential Tower A,Banglore,Priya Singh,09-08-2022,20-11-2031,In Progress
+P923,Residential Tower B,Banglore,Priya Singh,15-02-2030,09-05-2024,complete
+P924,Highway Expansion Project,pune,Vikram Patel,28-03-2030,18-02-2032,In Progress
+P925,River Bridge Construction,Jaipur,Vikram Patel,12-06-2022,25-03-2032,In Progress
+P926,Smart City Road Project,Kolkata,Neha Gupta,17-05-2030,30-04-2032,In Progress
+P927,Shopping Mall Construction,Hydrabad,Anuj Rahane,06-01-2022,05-10-2024,complete
+P928,IT Park Development,Chennnai,Amit Verma,22-07-2030,18-06-2032,In Progress
+P929,Metro Station Development,Mumbai,Priya Singh,16-09-2022,25-07-2032,In Progress
+P930,City Flyover Construction,Delhi,Priya Singh,18-09-2030,15-08-2032,In Progress
+P931,Residential Tower A,Mumbai,Priya Singh,18-02-2022,30-09-2032,In Progress
+P932,Residential Tower B,Mumbai,Vikram Patel,14-11-2030,20-10-2032,In Progress
+P933,Highway Expansion Project,Mumbai,Vikram Patel,29-12-2030,19-10-2024,complete
+P934,City Flyover Construction,Banglore,Neha Gupta,09-10-2023,20-12-2032,In Progress
+P935,Residential Tower A,Banglore,Anuj Rahane,18-02-2031,15-01-2033,In Progress
+P936,Residential Tower B,wardha,Amit Verma,22-03-2031,28-02-2033,In Progress
+P937,Highway Expansion Project,Jaipur,Priya Singh,12-05-2023,20-03-2033,In Progress
+P938,River Bridge Construction,Kolkata,Priya Singh,16-05-2031,25-04-2033,In Progress
+P939,Smart City Road Project,Hydrabad,Priya Singh,28-06-2031,30-05-2033,In Progress
+P940,Shopping Mall Construction,Pune,Vikram Patel,07-11-2023,06-12-2025,complete
+P941,IT Park Development,Mumbai,Vikram Patel,25-08-2031,18-07-2033,In Progress
+P942,Metro Station Development,Delhi,Neha Gupta,17-03-2023,30-08-2033,In Progress
+P943,City Flyover Construction,Mumbai,Anuj Rahane,14-10-2031,17-05-2025,complete
+P944,Residential Tower A,Mumbai,Amit Verma,27-11-2031,20-10-2033,In Progress
+P945,Residential Tower B,Mumbai,Priya Singh,20-09-2023,15-11-2033,In Progress
+P946,Highway Expansion Project,Banglore,Priya Singh,15-01-2032,20-12-2033,In Progress
+P947,City Flyover Construction,Banglore,Priya Singh,28-02-2032,09-05-2026,In Progress
+P948,Residential Tower A,nagpur,Vikram Patel,05-08-2015,15-02-2034,In Progress
+P949,Residential Tower B,Jaipur,Vikram Patel,04-01-2015,28-03-2034,In Progress
+P950,Highway Expansion Project,Kolkata,Neha Gupta,19-05-2032,12-10-2026,In Progress
+P951,River Bridge Construction,Hydrabad,Anuj Rahane,30-06-2032,22-05-2034,In Progress
+P952,Smart City Road Project,Wardha,Amit Verma,15-08-2024,30-06-2034,In Progress
+P953,Shopping Mall Construction,Mumbai,Priya Singh,17-08-2032,18-07-2034,In Progress
+P954,IT Park Development,Delhi,Priya Singh,26-09-2032,30-08-2034,In Progress
+P955,Metro Station Development,Mumbai,Priya Singh,18-10-2024,15-09-2034,In Progress
+P956,City Flyover Construction,Mumbai,Vikram Patel,22-11-2032,28-10-2034,In Progress
+P957,Residential Tower A,Mumbai,Rahul Sharma,15-02-2021,11-10-2022,complete
+P958,Residential Tower B,Banglore,Rahul Sharma,06-05-2021,20-01-2023,complete
+P959,Highway Expansion Project,Banglore,Rahul Sharma,09-10-2022,15-05-2023,complete
+P960,City Flyover Construction,mumbai,Rahul Sharma,18-01-2022,30-08-2023,complete
+P961,Residential Tower A,Jaipur,Rahul Sharma,22-03-2023,25-12-2024,complete
+P962,Residential Tower B,Kolkata,Rahul Sharma,05-05-2023,03-10-2025,complete
+P963,Highway Expansion Project,Hydrabad,Rahul Sharma,07-12-2024,15-06-2025,complete
+P964,River Bridge Construction,Nagpur,Rahul Sharma,20-09-2024,30-11-2025,complete
+P965,Smart City Road Project,Mumbai,Rahul Sharma,01-10-2025,15-08-2026,complete
+P966,Shopping Mall Construction,Delhi,Rahul Sharma,25-03-2025,20-12-2026,complete
+P967,IT Park Development,Mumbai,Rahul Sharma,15-02-2022,12-10-2022,complete
+P968,Metro Station Development,Mumbai,Rahul Sharma,13-03-2024,20-01-2024,complete
+P969,City Flyover Construction,Mumbai,Rahul Sharma,16-08-2025,15-05-2024,complete
+P970,Residential Tower A,Banglore,Rahul Sharma,18-01-2023,30-08-2024,complete
+P971,Residential Tower B,Banglore,Rahul Sharma,22-03-2024,25-12-2025,complete
+P972,Highway Expansion Project,Delhi,Rahul Sharma,12-07-2026,04-10-2025,complete
+P973,City Flyover Construction,Jaipur,Rahul Sharma,14-02-2028,15-06-2026,complete
+P974,Residential Tower A,Kolkata,Rahul Sharma,20-09-2025,30-11-2026,complete
+P975,Residential Tower B,Hydrabad,Rahul Sharma,02-10-2025,15-08-2027,In Progress
+P976,Highway Expansion Project,Mumbai,Rahul Sharma,25-03-2026,20-12-2027,In Progress
+P977,River Bridge Construction,Mumbai,Rahul Sharma,15-02-2023,13-10-2022,complete
+P978,Smart City Road Project,Delhi,Rahul Sharma,19-01-2027,20-01-2025,complete
+P979,Shopping Mall Construction,Mumbai,Rahul Sharma,23-06-2028,15-05-2025,complete
+P980,IT Park Development,Mumbai,Rahul Sharma,18-01-2024,30-08-2025,complete
+P981,Metro Station Development,Mumbai,Rahul Sharma,22-03-2025,25-12-2026,complete
+P982,City Flyover Construction,Banglore,Rahul Sharma,18-09-2029,05-10-2025,complete
+P983,Residential Tower A,Banglore,Rahul Sharma,23-04-2031,15-06-2027,In Progress
+P984,Residential Tower B,chennnai,Rahul Sharma,20-09-2026,30-11-2027,In Progress
+P985,Highway Expansion Project,Jaipur,Rahul Sharma,03-10-2025,15-08-2028,In Progress
+P986,City Flyover Construction,Kolkata,Rahul Sharma,25-03-2027,20-12-2028,In Progress
+P987,Residential Tower A,Hydrabad,Rahul Sharma,15-02-2024,14-10-2022,complete
+P988,Residential Tower B,Delhi,Rahul Sharma,26-11-2029,20-01-2026,complete
+P989,Highway Expansion Project,Mumbai,Rahul Sharma,01-05-2031,15-05-2026,complete
+P990,River Bridge Construction,Delhi,Rahul Sharma,15-02-2022,12-10-2022,complete
+P991,Smart City Road Project,Mumbai,Rahul Sharma,13-03-2024,20-01-2024,complete
+P992,Shopping Mall Construction,Mumbai,Rahul Sharma,16-08-2025,15-05-2024,complete
+P993,IT Park Development,Mumbai,Rahul Sharma,18-01-2023,30-08-2024,complete
+P994,Metro Station Development,Banglore,Rahul Sharma,22-03-2024,25-12-2025,complete
+P995,City Flyover Construction,Banglore,Rahul Sharma,12-07-2026,03-10-2025,complete
+P996,Residential Tower A,pune,Rahul Sharma,14-02-2028,15-06-2026,complete
+P997,Residential Tower B,Jaipur,Rahul Sharma,20-09-2025,30-11-2026,complete
+P998,Highway Expansion Project,Kolkata,Rahul Sharma,02-10-2025,15-08-2027,In Progress
+P999,City Flyover Construction,Hydrabad,Rahul Sharma,25-03-2026,20-12-2027,In Progress
+P1000,Residential Tower A,Chennnai,Rahul Sharma,15-02-2023,13-10-2022,complete
+P1001,Residential Tower B,Mumbai,Rahul Sharma,19-01-2027,20-01-2025,complete
+P1002,Highway Expansion Project,Delhi,Rahul Sharma,23-06-2028,15-05-2025,complete
+P1003,River Bridge Construction,Mumbai,Rahul Sharma,18-01-2024,30-08-2025,complete
+P1004,Smart City Road Project,Mumbai,Rahul Sharma,22-03-2025,25-12-2026,complete
+P1005,Shopping Mall Construction,Mumbai,Rahul Sharma,18-09-2029,04-10-2025,complete
+P1006,IT Park Development,Banglore,Rahul Sharma,23-04-2031,15-06-2027,In Progress
+P1007,Metro Station Development,Banglore,Rahul Sharma,20-09-2026,30-11-2027,In Progress
+P1008,City Flyover Construction,wardha,Rahul Sharma,03-10-2025,15-08-2028,In Progress
+P1009,Residential Tower A,Jaipur,Rahul Sharma,25-03-2027,20-12-2028,In Progress
+P1010,Residential Tower B,Kolkata,Rahul Sharma,15-02-2024,14-10-2022,complete
+P1011,Highway Expansion Project,Hydrabad,Rahul Sharma,26-11-2029,20-01-2026,complete
+P1012,City Flyover Construction,Pune,Rahul Sharma,01-05-2031,15-05-2026,complete
+P1013,Residential Tower A,Mumbai,Rahul Sharma,18-01-2025,30-08-2026,complete
+P1014,Residential Tower B,Delhi,Rahul Sharma,22-03-2026,25-12-2027,In Progress
+P1015,Highway Expansion Project,Mumbai,Rahul Sharma,25-11-2032,05-10-2025,complete
+P1016,River Bridge Construction,Mumbai,Rahul Sharma,30-06-2034,15-06-2028,In Progress
+P1017,Smart City Road Project,Mumbai,Rahul Sharma,20-09-2027,30-11-2028,In Progress
+P1018,Shopping Mall Construction,Banglore,Rahul Sharma,04-10-2025,15-08-2029,In Progress
+P1019,IT Park Development,Banglore,Rahul Sharma,25-03-2028,20-12-2029,In Progress
+P1020,Metro Station Development,nagpur,Rahul Sharma,15-02-2025,15-10-2022,complete
+P1021,City Flyover Construction,Jaipur,Rahul Sharma,03-10-2032,20-01-2027,In Progress
+P1022,Residential Tower A,Kolkata,Rahul Sharma,08-03-2034,15-05-2027,In Progress
+P1023,Residential Tower B,Hydrabad,Rahul Sharma,15-02-2023,13-10-2022,complete
+P1024,Highway Expansion Project,Wardha,Rahul Sharma,19-01-2027,20-01-2025,complete
+P1025,City Flyover Construction,Mumbai,Rahul Sharma,23-06-2028,15-05-2025,complete
+P1026,Residential Tower A,Delhi,Rahul Sharma,18-01-2024,30-08-2025,complete
+P1027,Residential Tower B,Mumbai,Rahul Sharma,22-03-2025,25-12-2026,complete
+P1028,Highway Expansion Project,Mumbai,Rahul Sharma,18-09-2029,03-10-2025,complete
+P1029,River Bridge Construction,Mumbai,Rahul Sharma,23-04-2031,15-06-2027,In Progress
+P1030,Smart City Road Project,Banglore,Rahul Sharma,20-09-2026,30-11-2027,In Progress
+P1031,Shopping Mall Construction,Banglore,Rahul Sharma,03-10-2025,15-08-2028,In Progress
+P1032,IT Park Development,mumbai,Rahul Sharma,25-03-2027,20-12-2028,In Progress
+P1033,Metro Station Development,Jaipur,Rahul Sharma,15-02-2024,14-10-2022,complete
+P1034,City Flyover Construction,Kolkata,Rahul Sharma,26-11-2029,20-01-2026,complete
+P1035,Residential Tower A,Hydrabad,Rahul Sharma,01-05-2031,15-05-2026,complete
+P1036,Residential Tower B,Nagpur,Rahul Sharma,18-01-2025,30-08-2026,complete
+P1037,Highway Expansion Project,Mumbai,Rahul Sharma,22-03-2026,25-12-2027,In Progress
+P1038,City Flyover Construction,Delhi,Rahul Sharma,25-11-2032,04-10-2025,complete
+P1039,Residential Tower A,Mumbai,Rahul Sharma,30-06-2034,15-06-2028,In Progress
+P1040,Residential Tower B,Mumbai,Rahul Sharma,20-09-2027,30-11-2028,In Progress
+P1041,Highway Expansion Project,Mumbai,Rahul Sharma,04-10-2025,15-08-2029,In Progress
+P1042,River Bridge Construction,Banglore,Rahul Sharma,25-03-2028,20-12-2029,In Progress
+P1043,Smart City Road Project,Banglore,Rahul Sharma,15-02-2025,15-10-2022,complete
+P1044,Shopping Mall Construction,Delhi,Rahul Sharma,03-10-2032,20-01-2027,In Progress
+P1045,IT Park Development,Jaipur,Rahul Sharma,08-03-2034,15-05-2027,In Progress
+P1046,Metro Station Development,Kolkata,Rahul Sharma,18-01-2026,30-08-2027,In Progress
+P1047,City Flyover Construction,Hydrabad,Rahul Sharma,22-03-2027,25-12-2028,In Progress
+P1048,Residential Tower A,Mumbai,Rahul Sharma,02-02-2036,05-10-2025,In Progress
+P1049,Residential Tower B,Mumbai,Rahul Sharma,06-09-2037,15-06-2029,In Progress
+P1050,Highway Expansion Project,Delhi,Rahul Sharma,20-09-2028,30-11-2029,In Progress
+P1051,City Flyover Construction,Mumbai,Rahul Sharma,05-10-2025,15-08-2030,In Progress
+P1052,Residential Tower A,Mumbai,Rahul Sharma,25-03-2029,20-12-2030,In Progress
+P1053,Residential Tower B,Mumbai,Rahul Sharma,15-02-2026,16-10-2022,complete
+P1054,Highway Expansion Project,Banglore,Rahul Sharma,11-08-2035,20-01-2028,In Progress
+P1055,River Bridge Construction,Banglore,Rahul Sharma,13-01-2037,15-05-2028,In Progress
+P1056,Smart City Road Project,chennnai,Rahul Sharma,15-02-2024,14-10-2022,complete
+P1057,Shopping Mall Construction,Jaipur,Rahul Sharma,26-11-2029,20-01-2026,In Progress
+P1058,IT Park Development,Kolkata,Rahul Sharma,01-05-2031,15-05-2026,In Progress
+P1059,Metro Station Development,Hydrabad,Rahul Sharma,18-01-2025,30-08-2026,In Progress
+P1060,City Flyover Construction,Delhi,Rahul Sharma,22-03-2026,25-12-2027,In Progress
+P1061,Residential Tower A,Mumbai,Rahul Sharma,25-11-2032,03-10-2025,complete
+P1062,Residential Tower B,Delhi,Rahul Sharma,30-06-2034,15-06-2028,In Progress
+P1063,Highway Expansion Project,Mumbai,Rahul Sharma,20-09-2027,30-11-2028,In Progress
+P1064,City Flyover Construction,Mumbai,Rahul Sharma,04-10-2025,15-08-2029,In Progress
+P1065,Residential Tower A,Mumbai,Rahul Sharma,25-03-2028,20-12-2029,In Progress
+P1066,Residential Tower B,Banglore,Rahul Sharma,15-02-2025,15-10-2022,complete
+P1067,Highway Expansion Project,Banglore,Rahul Sharma,03-10-2032,20-01-2027,In Progress
+P1068,River Bridge Construction,pune,Rahul Sharma,08-03-2034,15-05-2027,In Progress
+P1069,Smart City Road Project,Jaipur,Rahul Sharma,18-01-2026,30-08-2027,In Progress
+P1070,Shopping Mall Construction,Kolkata,Rahul Sharma,22-03-2027,25-12-2028,In Progress
+P1071,IT Park Development,Hydrabad,Rahul Sharma,02-02-2036,04-10-2025,complete
+P1072,Metro Station Development,Chennnai,Rahul Sharma,06-09-2037,15-06-2029,In Progress
+P1073,City Flyover Construction,Mumbai,Rahul Sharma,20-09-2028,30-11-2029,In Progress
+P1074,Residential Tower A,Delhi,Rahul Sharma,05-10-2025,15-08-2030,In Progress
+P1075,Residential Tower B,Mumbai,Rahul Sharma,25-03-2029,20-12-2030,In Progress
+P1076,Highway Expansion Project,Mumbai,Rahul Sharma,15-02-2026,16-10-2022,complete
+P1077,City Flyover Construction,Mumbai,Rahul Sharma,11-08-2035,20-01-2028,In Progress
+P1078,Residential Tower A,Banglore,Rahul Sharma,13-01-2037,15-05-2028,In Progress
+P1079,Residential Tower B,Banglore,Rahul Sharma,18-01-2027,30-08-2028,In Progress
+P1080,Highway Expansion Project,wardha,Anuj Rahane,22-03-2028,25-12-2029,In Progress
+P1081,River Bridge Construction,Jaipur,Anuj Rahane,11-04-2039,05-10-2025,complete
+P1082,Smart City Road Project,Kolkata,Anuj Rahane,13-11-2040,15-06-2030,In Progress
+P1083,Shopping Mall Construction,Hydrabad,Anuj Rahane,20-09-2029,30-11-2030,In Progress
+P1084,IT Park Development,Pune,Anuj Rahane,06-10-2025,15-08-2031,In Progress
+P1085,Metro Station Development,Mumbai,Anuj Rahane,25-03-2030,20-12-2031,In Progress
+P1086,City Flyover Construction,Delhi,Anuj Rahane,15-02-2027,17-10-2022,complete
+P1087,Residential Tower A,Mumbai,Anuj Rahane,18-06-2038,20-01-2029,In Progress
+P1088,Residential Tower B,Mumbai,Anuj Rahane,21-11-2039,15-05-2029,In Progress
+P1089,Highway Expansion Project,Mumbai,Anuj Rahane,15-02-2025,15-10-2022,complete
+P1090,City Flyover Construction,Banglore,Anuj Rahane,03-10-2032,20-01-2027,In Progress
+P1091,Residential Tower A,Banglore,Anuj Rahane,08-03-2034,15-05-2027,In Progress
+P1092,Residential Tower B,nagpur,Anuj Rahane,18-01-2026,30-08-2027,In Progress
+P1093,Highway Expansion Project,Jaipur,Anuj Rahane,22-03-2027,25-12-2028,In Progress
+P1094,River Bridge Construction,Kolkata,Anuj Rahane,02-02-2036,03-10-2025,complete
+P1095,Smart City Road Project,Hydrabad,Anuj Rahane,06-09-2037,15-06-2029,In Progress
+P1096,Shopping Mall Construction,Wardha,Anuj Rahane,20-09-2028,30-11-2029,In Progress
+P1097,IT Park Development,Mumbai,Anuj Rahane,05-10-2025,15-08-2030,In Progress
+P1098,Metro Station Development,Delhi,Anuj Rahane,25-03-2029,20-12-2030,In Progress
+P1099,City Flyover Construction,Mumbai,Priya Singh,15-02-2026,16-10-2022,complete
+P1100,Residential Tower A,Mumbai,Priya Singh,11-08-2035,20-01-2028,In Progress
+P1101,Residential Tower B,Mumbai,Priya Singh,13-01-2037,15-05-2028,In Progress
+P1102,Highway Expansion Project,Banglore,Priya Singh,18-01-2027,30-08-2028,In Progress
+P1103,City Flyover Construction,Banglore,Priya Singh,22-03-2028,25-12-2029,In Progress
+P1104,Residential Tower A,mumbai,Priya Singh,11-04-2039,04-10-2025,complete
+P1105,Residential Tower B,Jaipur,Priya Singh,13-11-2040,15-06-2030,In Progress
+P1106,Highway Expansion Project,Kolkata,Priya Singh,20-09-2029,30-11-2030,In Progress
+P1107,River Bridge Construction,Hydrabad,Priya Singh,06-10-2025,15-08-2031,In Progress
+P1108,Smart City Road Project,Nagpur,Priya Singh,25-03-2030,20-12-2031,In Progress
+P1109,Shopping Mall Construction,Mumbai,Priya Singh,15-02-2027,17-10-2022,complete
+P1110,IT Park Development,Delhi,Priya Singh,18-06-2038,20-01-2029,In Progress
+P1111,Metro Station Development,Mumbai,Priya Singh,21-11-2039,15-05-2029,In Progress
+P1112,City Flyover Construction,Mumbai,Priya Singh,18-01-2028,30-08-2029,In Progress
+P1113,Residential Tower A,Mumbai,Priya Singh,22-03-2029,25-12-2030,In Progress
+P1114,Residential Tower B,Banglore,Priya Singh,18-06-2042,05-10-2025,complete
+P1115,Highway Expansion Project,Banglore,Priya Singh,21-01-2044,15-06-2031,In Progress
+P1116,City Flyover Construction,Delhi,Priya Singh,20-09-2030,30-11-2031,In Progress
+P1117,Residential Tower A,Jaipur,Priya Singh,07-10-2025,15-08-2032,In Progress
+P1118,Residential Tower B,Kolkata,Priya Singh,25-03-2031,20-12-2032,In Progress
+P1119,Highway Expansion Project,Hydrabad,Priya Singh,15-02-2028,18-10-2022,In Progress
+P1120,River Bridge Construction,Mumbai,Priya Singh,25-04-2041,20-01-2030,In Progress
+P1121,Smart City Road Project,Mumbai,Priya Singh,28-09-2042,15-05-2030,In Progress
+P1122,Shopping Mall Construction,Delhi,Priya Singh,15-02-2026,16-10-2022,complete
+P1123,IT Park Development,Mumbai,Priya Singh,11-08-2035,20-01-2028,In Progress
+P1124,Metro Station Development,Mumbai,Priya Singh,13-01-2037,15-05-2028,In Progress
+P1125,City Flyover Construction,Mumbai,Priya Singh,18-01-2027,30-08-2028,In Progress
+P1126,Residential Tower A,Banglore,Priya Singh,22-03-2028,25-12-2029,In Progress
+P1127,Residential Tower B,Banglore,Priya Singh,11-04-2039,03-10-2025,complete
+P1128,Highway Expansion Project,chennnai,Priya Singh,13-11-2040,15-06-2030,In Progress
+P1129,City Flyover Construction,Jaipur,Priya Singh,20-09-2029,30-11-2030,In Progress
+P1130,Residential Tower A,Kolkata,Priya Singh,06-10-2025,15-08-2031,In Progress
+P1131,Residential Tower B,Hydrabad,Priya Singh,25-03-2030,20-12-2031,In Progress
+P1132,Highway Expansion Project,Delhi,Priya Singh,15-02-2027,17-10-2022,complete
+P1133,River Bridge Construction,Mumbai,Priya Singh,18-06-2038,20-01-2029,In Progress
+P1134,Smart City Road Project,Delhi,Priya Singh,21-11-2039,15-05-2029,In Progress
+P1135,Shopping Mall Construction,Mumbai,Priya Singh,18-01-2028,30-08-2029,In Progress
+P1136,IT Park Development,Mumbai,Priya Singh,22-03-2029,25-12-2030,In Progress
+P1137,Metro Station Development,Mumbai,Priya Singh,18-06-2042,04-10-2025,complete
+P1138,City Flyover Construction,Banglore,Priya Singh,21-01-2044,15-06-2031,In Progress
+P1139,Residential Tower A,Banglore,Priya Singh,20-09-2030,30-11-2031,In Progress
+P1140,Residential Tower B,pune,Priya Singh,07-10-2025,15-08-2032,In Progress
+P1141,Highway Expansion Project,Jaipur,Priya Singh,25-03-2031,20-12-2032,In Progress
+P1142,City Flyover Construction,Kolkata,Priya Singh,15-02-2028,18-10-2022,complete
+P1143,Residential Tower A,Hydrabad,Priya Singh,25-04-2041,20-01-2030,In Progress
+P1144,Residential Tower B,Chennnai,Priya Singh,28-09-2042,15-05-2030,In Progress
+P1145,Highway Expansion Project,Mumbai,Priya Singh,18-01-2029,30-08-2030,In Progress
+P1146,River Bridge Construction,Delhi,Priya Singh,22-03-2030,25-12-2031,In Progress
+P1147,Smart City Road Project,Mumbai,Priya Singh,25-08-2045,05-10-2025,complete
+P1148,Shopping Mall Construction,Mumbai,Priya Singh,30-03-2047,15-06-2032,In Progress
+P1149,IT Park Development,Mumbai,Priya Singh,20-09-2031,30-11-2032,In Progress
+P1150,Metro Station Development,Banglore,Priya Singh,08-10-2025,15-08-2033,In Progress
+P1151,City Flyover Construction,Banglore,Priya Singh,25-03-2032,20-12-2033,In Progress
+P1152,Residential Tower A,wardha,Priya Singh,15-02-2029,19-10-2022,In Progress
+P1153,Residential Tower B,Jaipur,Priya Singh,02-03-2044,20-01-2031,In Progress
+P1154,Highway Expansion Project,Kolkata,Priya Singh,05-08-2045,15-05-2031,In Progress
+P1155,City Flyover Construction,Hydrabad,Priya Singh,15-02-2027,17-10-2022,In Progress
+P1156,Residential Tower A,Pune,Priya Singh,18-06-2038,20-01-2029,In Progress
+P1157,Residential Tower B,Mumbai,Priya Singh,21-11-2039,15-05-2029,In Progress
+P1158,Highway Expansion Project,Delhi,Priya Singh,18-01-2028,30-08-2029,In Progress
+P1159,River Bridge Construction,Mumbai,Priya Singh,22-03-2029,25-12-2030,In Progress
+P1160,Smart City Road Project,Mumbai,Priya Singh,18-06-2042,03-10-2025,complete
+P1161,Shopping Mall Construction,Mumbai,Priya Singh,21-01-2044,15-06-2031,In Progress
+P1162,IT Park Development,Banglore,Priya Singh,20-09-2030,30-11-2031,In Progress
+P1163,Metro Station Development,Banglore,Priya Singh,07-10-2025,15-08-2032,In Progress
+P1164,City Flyover Construction,nagpur,Priya Singh,25-03-2031,20-12-2032,In Progress
+P1165,Residential Tower A,Jaipur,Priya Singh,15-02-2028,18-10-2022,complete
+P1166,Residential Tower B,Kolkata,Priya Singh,25-04-2041,20-01-2030,In Progress
+P1167,Highway Expansion Project,Hydrabad,Priya Singh,28-09-2042,15-05-2030,In Progress
+P1168,City Flyover Construction,Wardha,Priya Singh,18-01-2029,30-08-2030,In Progress
+P1169,Residential Tower A,Mumbai,Priya Singh,22-03-2030,25-12-2031,In Progress
+P1170,Residential Tower B,Delhi,Priya Singh,25-08-2045,04-10-2025,complete
+P1171,Highway Expansion Project,Mumbai,Priya Singh,30-03-2047,15-06-2032,In Progress
+P1172,River Bridge Construction,Mumbai,Priya Singh,20-09-2031,30-11-2032,In Progress
+P1173,Smart City Road Project,Mumbai,Priya Singh,08-10-2025,15-08-2033,In Progress
+P1174,Shopping Mall Construction,Banglore,Priya Singh,25-03-2032,20-12-2033,In Progress
+P1175,IT Park Development,Banglore,Priya Singh,15-02-2029,19-10-2022,complete
+P1176,Metro Station Development,mumbai,Priya Singh,02-03-2044,20-01-2031,In Progress
+P1177,City Flyover Construction,Jaipur,Priya Singh,05-08-2045,15-05-2031,In Progress
+P1178,Residential Tower A,Kolkata,Priya Singh,18-01-2030,30-08-2031,In Progress
+P1179,Residential Tower B,Hydrabad,Priya Singh,22-03-2031,25-12-2032,In Progress
+P1180,Highway Expansion Project,Nagpur,Priya Singh,01-11-2048,05-10-2025,complete
+P1181,City Flyover Construction,Mumbai,Priya Singh,06-06-2050,15-06-2033,In Progress
+P1182,Residential Tower A,Delhi,Priya Singh,20-09-2032,30-11-2033,In Progress
+P1183,Residential Tower B,Mumbai,Priya Singh,09-10-2025,15-08-2034,In Progress
+P1184,Highway Expansion Project,Mumbai,Priya Singh,25-03-2033,20-12-2034,In Progress
+P1185,River Bridge Construction,Mumbai,Priya Singh,15-02-2030,20-10-2022,complete
+P1186,Smart City Road Project,Banglore,Priya Singh,08-01-2047,20-01-2032,In Progress
+P1187,Shopping Mall Construction,Banglore,Priya Singh,12-06-2048,15-05-2032,In Progress
+P1188,IT Park Development,Delhi,Priya Singh,15-02-2028,18-10-2022,In Progress
+P1189,Metro Station Development,Jaipur,Priya Singh,25-04-2041,20-01-2030,In Progress
+P1190,City Flyover Construction,Kolkata,Priya Singh,28-09-2042,15-05-2030,In Progress
+P1191,Residential Tower A,Hydrabad,Priya Singh,18-01-2029,30-08-2030,In Progress
+P1192,Residential Tower B,Mumbai,Priya Singh,22-03-2030,25-12-2031,In Progress
+P1193,Highway Expansion Project,Mumbai,Priya Singh,25-08-2045,03-10-2025,complete
+P1194,City Flyover Construction,Delhi,Priya Singh,30-03-2047,15-06-2032,In Progress
+P1195,Residential Tower A,Mumbai,Priya Singh,20-09-2031,30-11-2032,In Progress
+P1196,Residential Tower B,Mumbai,Priya Singh,08-10-2025,15-08-2033,In Progress
+P1197,Highway Expansion Project,Mumbai,Priya Singh,25-03-2032,20-12-2033,In Progress
+P1198,River Bridge Construction,Banglore,Priya Singh,15-02-2029,19-10-2022,complete
+P1199,Smart City Road Project,Banglore,Priya Singh,02-03-2044,20-01-2031,In Progress
+P1200,Shopping Mall Construction,chennnai,Priya Singh,05-08-2045,15-05-2031,In Progress
+P1201,IT Park Development,Jaipur,Priya Singh,18-01-2030,30-08-2031,In Progress
+P1202,Metro Station Development,Kolkata,Priya Singh,22-03-2031,25-12-2032,In Progress
+P1203,City Flyover Construction,Hydrabad,Priya Singh,01-11-2048,04-10-2025,complete
+P1204,Residential Tower A,Delhi,Priya Singh,06-06-2050,15-06-2033,In Progress
+P1205,Residential Tower B,Mumbai,Priya Singh,20-09-2032,30-11-2033,In Progress
+P1206,Highway Expansion Project,Delhi,Priya Singh,09-10-2025,15-08-2034,In Progress
+P1207,City Flyover Construction,Mumbai,Priya Singh,25-03-2033,20-12-2034,In Progress
+P1208,Residential Tower A,Mumbai,Priya Singh,15-02-2030,20-10-2022,complete
+P1209,Residential Tower B,Mumbai,Priya Singh,08-01-2047,20-01-2032,In Progress
+P1210,Highway Expansion Project,Banglore,Priya Singh,12-06-2048,15-05-2032,In Progress
+P1211,River Bridge Construction,Banglore,Priya Singh,18-01-2031,30-08-2032,In Progress
+P1212,Smart City Road Project,pune,Priya Singh,22-03-2032,25-12-2033,In Progress
+P1213,Shopping Mall Construction,Jaipur,Priya Singh,09-01-2052,05-10-2025,complete
+P1214,IT Park Development,Kolkata,Priya Singh,13-08-2053,15-06-2034,In Progress
+P1215,Metro Station Development,Hydrabad,Priya Singh,20-09-2033,30-11-2034,In Progress
+P1216,City Flyover Construction,Chennnai,Priya Singh,10-10-2025,15-08-2035,In Progress
+P1217,Residential Tower A,Mumbai,Priya Singh,25-03-2034,20-12-2035,In Progress
+P1218,Residential Tower B,Delhi,Priya Singh,15-02-2031,21-10-2022,complete
+P1219,Highway Expansion Project,Mumbai,Priya Singh,15-11-2049,20-01-2033,In Progress
+P1220,City Flyover Construction,Mumbai,Priya Singh,20-04-2051,15-05-2033,In Progress
+P1221,Residential Tower A,Mumbai,Priya Singh,15-02-2029,19-10-2022,complete
+P1222,Residential Tower B,Banglore,Priya Singh,02-03-2044,20-01-2031,In Progress
+P1223,Highway Expansion Project,Banglore,Priya Singh,05-08-2045,15-05-2031,In Progress
+P1224,River Bridge Construction,wardha,Priya Singh,18-01-2030,30-08-2031,In Progress
+P1225,Smart City Road Project,Jaipur,Priya Singh,22-03-2031,25-12-2032,In Progress
+P1226,Shopping Mall Construction,Kolkata,Priya Singh,01-11-2048,03-10-2025,complete
+P1227,IT Park Development,Hydrabad,Priya Singh,06-06-2050,15-06-2033,In Progress
+P1228,Metro Station Development,Pune,Priya Singh,20-09-2032,30-11-2033,In Progress
+P1229,City Flyover Construction,Mumbai,Priya Singh,09-10-2025,15-08-2034,In Progress
+P1230,Residential Tower A,Delhi,Priya Singh,25-03-2033,20-12-2034,In Progress
+P1231,Residential Tower B,Mumbai,Priya Singh,15-02-2030,20-10-2022,complete
+P1232,Highway Expansion Project,Mumbai,Priya Singh,08-01-2047,20-01-2032,In Progress
+P1233,City Flyover Construction,Mumbai,Priya Singh,12-06-2048,15-05-2032,In Progress
+P1234,Residential Tower A,Banglore,Priya Singh,18-01-2031,30-08-2032,In Progress
+P1235,Residential Tower B,Banglore,Priya Singh,22-03-2032,25-12-2033,In Progress
+P1236,Highway Expansion Project,nagpur,Priya Singh,09-01-2052,04-10-2025,complete
+P1237,River Bridge Construction,Jaipur,Priya Singh,13-08-2053,15-06-2034,In Progress
+P1238,Smart City Road Project,Kolkata,Priya Singh,20-09-2033,30-11-2034,In Progress
+P1239,Shopping Mall Construction,Hydrabad,Priya Singh,10-10-2025,15-08-2035,In Progress
+P1240,IT Park Development,Wardha,Priya Singh,25-03-2034,20-12-2035,In Progress
+P1241,Metro Station Development,Mumbai,Priya Singh,15-02-2031,21-10-2022,complete
+P1242,City Flyover Construction,Delhi,Priya Singh,15-11-2049,20-01-2033,In Progress
+P1243,Residential Tower A,Mumbai,Priya Singh,20-04-2051,15-05-2033,In Progress
+P1244,Residential Tower B,Mumbai,Priya Singh,18-01-2032,30-08-2033,In Progress
+P1245,Highway Expansion Project,Mumbai,Priya Singh,22-03-2033,25-12-2034,In Progress
+P1246,City Flyover Construction,Banglore,Priya Singh,18-03-2055,05-10-2025,complete
+P1247,Residential Tower A,Banglore,Priya Singh,20-10-2056,15-06-2035,In Progress
+P1248,Residential Tower B,mumbai,Priya Singh,20-09-2034,30-11-2035,In Progress
+P1249,Highway Expansion Project,Jaipur,Priya Singh,11-10-2025,15-08-2036,In Progress
+P1250,River Bridge Construction,Kolkata,Priya Singh,25-03-2035,20-12-2036,In Progress
+P1251,Smart City Road Project,Hydrabad,Priya Singh,15-02-2032,22-10-2022,complete
+P1252,Shopping Mall Construction,Nagpur,Priya Singh,22-09-2052,20-01-2034,In Progress
+P1253,IT Park Development,Mumbai,Priya Singh,25-02-2054,15-05-2034,In Progress
+P1254,Metro Station Development,Delhi,Priya Singh,15-02-2030,20-10-2022,complete
+P1255,City Flyover Construction,Mumbai,Priya Singh,08-01-2047,20-01-2032,In Progress
+P1256,Residential Tower A,Mumbai,Priya Singh,12-06-2048,15-05-2032,In Progress
+P1257,Residential Tower B,Mumbai,Priya Singh,18-01-2031,30-08-2032,In Progress
+P1258,Highway Expansion Project,Banglore,Priya Singh,22-03-2032,25-12-2033,In Progress
+P1259,City Flyover Construction,Banglore,Priya Singh,09-01-2052,03-10-2025,complete
+P1260,Residential Tower A,Delhi,Priya Singh,13-08-2053,15-06-2034,In Progress
+P1261,Residential Tower B,Jaipur,Priya Singh,20-09-2033,30-11-2034,In Progress
+P1262,Highway Expansion Project,Kolkata,Priya Singh,10-10-2025,15-08-2035,In Progress
+P1263,River Bridge Construction,Hydrabad,Priya Singh,25-03-2034,20-12-2035,In Progress
+P1264,Smart City Road Project,Mumbai,Priya Singh,15-02-2031,21-10-2022,In Progress
+P1265,Shopping Mall Construction,Mumbai,Priya Singh,15-11-2049,20-01-2033,In Progress
+P1266,IT Park Development,Delhi,Priya Singh,20-04-2051,15-05-2033,In Progress
+P1267,Metro Station Development,Mumbai,Priya Singh,18-01-2032,30-08-2033,In Progress
+P1268,City Flyover Construction,Mumbai,Priya Singh,22-03-2033,25-12-2034,In Progress
+P1269,Residential Tower A,Mumbai,Priya Singh,18-03-2055,04-10-2025,In Progress
+P1270,Residential Tower B,Banglore,Priya Singh,20-10-2056,15-06-2035,In Progress
+P1271,Highway Expansion Project,Banglore,Priya Singh,20-09-2034,30-11-2035,In Progress
+P1272,City Flyover Construction,chennnai,Priya Singh,11-10-2025,15-08-2036,In Progress
+P1273,Residential Tower A,Jaipur,Priya Singh,25-03-2035,20-12-2036,In Progress
+P1274,Residential Tower B,Kolkata,Priya Singh,15-02-2032,22-10-2022,In Progress
+P1275,Highway Expansion Project,Hydrabad,Priya Singh,22-09-2052,20-01-2034,In Progress
+P1276,River Bridge Construction,Delhi,Priya Singh,25-02-2054,15-05-2034,In Progress
+P1277,Smart City Road Project,Mumbai,Priya Singh,18-01-2033,30-08-2034,In Progress
+P1278,Shopping Mall Construction,Delhi,Priya Singh,22-03-2034,25-12-2035,In Progress
+P1279,IT Park Development,Mumbai,Priya Singh,25-05-2058,05-10-2025,In Progress
+P1280,Metro Station Development,Mumbai,Priya Singh,28-12-2059,15-06-2036,In Progress
+P1281,City Flyover Construction,Mumbai,Priya Singh,20-09-2035,30-11-2036,In Progress
+P1282,Residential Tower A,Banglore,Priya Singh,12-10-2025,15-08-2037,In Progress
+P1283,Residential Tower B,Banglore,Priya Singh,25-03-2036,20-12-2037,In Progress
+P1284,Highway Expansion Project,pune,Priya Singh,15-02-2033,23-10-2022,complete
+P1285,City Flyover Construction,Jaipur,Priya Singh,31-07-2055,20-01-2035,In Progress
+P1286,Residential Tower A,Kolkata,Priya Singh,02-01-2057,15-05-2035,In Progress
+P1287,Residential Tower B,Hydrabad,Priya Singh,15-02-2031,21-10-2022,In Progress
+P1288,Highway Expansion Project,Chennnai,Priya Singh,15-11-2049,20-01-2033,In Progress
+P1289,River Bridge Construction,Mumbai,Priya Singh,20-04-2051,15-05-2033,In Progress
+P1290,Smart City Road Project,Delhi,Priya Singh,18-01-2032,30-08-2033,In Progress
+P1291,Shopping Mall Construction,Mumbai,Priya Singh,22-03-2033,25-12-2034,In Progress
+P1292,IT Park Development,Mumbai,Priya Singh,18-03-2055,03-10-2025,In Progress
+P1293,Metro Station Development,Mumbai,Priya Singh,20-10-2056,15-06-2035,In Progress
+P1294,City Flyover Construction,Banglore,Priya Singh,20-09-2034,30-11-2035,In Progress
+P1295,Residential Tower A,Banglore,Priya Singh,11-10-2025,15-08-2036,In Progress
+P1296,Residential Tower B,wardha,Priya Singh,25-03-2035,20-12-2036,In Progress
+P1297,Highway Expansion Project,Jaipur,Priya Singh,15-02-2032,22-10-2022,In Progress
+P1298,City Flyover Construction,Kolkata,Priya Singh,22-09-2052,20-01-2034,In Progress
+P1299,Residential Tower A,Hydrabad,Priya Singh,25-02-2054,15-05-2034,In Progress
+P1300,Residential Tower B,Pune,Priya Singh,18-01-2033,30-08-2034,In Progress
+P1301,Highway Expansion Project,Mumbai,Priya Singh,22-03-2034,25-12-2035,In Progress
+P1302,River Bridge Construction,Delhi,Priya Singh,25-05-2058,04-10-2025,In Progress
+P1303,Smart City Road Project,Mumbai,Priya Singh,28-12-2059,15-06-2036,In Progress
+P1304,Shopping Mall Construction,Mumbai,Priya Singh,20-09-2035,30-11-2036,In Progress
+P1305,IT Park Development,Mumbai,Priya Singh,12-10-2025,15-08-2037,In Progress
+P1306,Metro Station Development,Banglore,Priya Singh,25-03-2036,20-12-2037,In Progress
+P1307,City Flyover Construction,Banglore,Priya Singh,15-02-2033,23-10-2022,In Progress
+P1308,Residential Tower A,nagpur,Priya Singh,31-07-2055,20-01-2035,In Progress
+P1309,Residential Tower B,Jaipur,Priya Singh,02-01-2057,15-05-2035,In Progress
+P1310,Highway Expansion Project,Kolkata,Priya Singh,18-01-2034,30-08-2035,In Progress
+P1311,City Flyover Construction,Hydrabad,Priya Singh,22-03-2035,25-12-2036,In Progress
+P1312,Residential Tower A,Wardha,Priya Singh,01-08-2061,05-10-2025,In Progress
+P1313,Residential Tower B,Mumbai,Priya Singh,06-03-2063,15-06-2037,In Progress
+P1314,Highway Expansion Project,Delhi,Priya Singh,20-09-2036,30-11-2037,In Progress
+P1315,River Bridge Construction,Mumbai,Priya Singh,13-10-2025,15-08-2038,In Progress
+P1316,Smart City Road Project,Mumbai,Priya Singh,25-03-2037,20-12-2038,In Progress
+P1317,Shopping Mall Construction,Mumbai,Priya Singh,15-02-2034,24-10-2022,In Progress
+P1318,IT Park Development,Banglore,Priya Singh,07-06-2058,20-01-2036,In Progress
+P1319,Metro Station Development,Banglore,Priya Singh,10-11-2059,15-05-2036,In Progress
+P1320,City Flyover Construction,mumbai,Priya Singh,15-02-2032,22-10-2022,In Progress
+P1321,Residential Tower A,Jaipur,Priya Singh,22-09-2052,20-01-2034,In Progress
+P1322,Residential Tower B,Kolkata,Priya Singh,25-02-2054,15-05-2034,In Progress
+P1323,Highway Expansion Project,Hydrabad,Priya Singh,18-01-2033,30-08-2034,In Progress
+P1324,City Flyover Construction,Nagpur,Priya Singh,22-03-2034,25-12-2035,In Progress
+P1325,Residential Tower A,Mumbai,Priya Singh,25-05-2058,03-10-2025,In Progress
+P1326,Residential Tower B,Delhi,Priya Singh,28-12-2059,15-06-2036,In Progress
+P1327,Highway Expansion Project,Mumbai,Priya Singh,20-09-2035,30-11-2036,In Progress
+P1328,River Bridge Construction,Mumbai,Priya Singh,12-10-2025,15-08-2037,In Progress
+P1329,Smart City Road Project,Mumbai,Priya Singh,25-03-2036,20-12-2037,In Progress
+P1330,Shopping Mall Construction,Banglore,Priya Singh,15-02-2033,23-10-2022,In Progress
+P1331,IT Park Development,Banglore,Priya Singh,31-07-2055,20-01-2035,In Progress
+P1332,Metro Station Development,Delhi,Priya Singh,02-01-2057,15-05-2035,In Progress
+P1333,City Flyover Construction,Jaipur,Priya Singh,18-01-2034,30-08-2035,In Progress
+P1334,Residential Tower A,Kolkata,Priya Singh,22-03-2035,25-12-2036,In Progress
+P1335,Residential Tower B,Hydrabad,Priya Singh,01-08-2061,04-10-2025,In Progress
+P1336,Highway Expansion Project,Mumbai,Priya Singh,06-03-2063,15-06-2037,In Progress
+P1337,City Flyover Construction,Mumbai,Priya Singh,20-09-2036,30-11-2037,In Progress
+P1338,Residential Tower A,Delhi,Priya Singh,13-10-2025,15-08-2038,In Progress
+P1339,Residential Tower B,Mumbai,Priya Singh,25-03-2037,20-12-2038,In Progress
+P1340,Highway Expansion Project,Mumbai,Priya Singh,15-02-2034,24-10-2022,In Progress
+P1341,River Bridge Construction,Mumbai,Priya Singh,07-06-2058,20-01-2036,In Progress
+P1342,Smart City Road Project,Banglore,Priya Singh,10-11-2059,15-05-2036,In Progress
+P1343,Shopping Mall Construction,Banglore,Priya Singh,18-01-2035,30-08-2036,In Progress
+P1344,IT Park Development,chennnai,Priya Singh,22-03-2036,25-12-2037,In Progress
+P1345,Metro Station Development,Jaipur,Priya Singh,08-10-2064,05-10-2025,In Progress
+P1346,City Flyover Construction,Kolkata,Priya Singh,13-05-2066,15-06-2038,In Progress
+P1347,Residential Tower A,Hydrabad,Priya Singh,20-09-2037,30-11-2038,In Progress
+P1348,Residential Tower B,Delhi,Priya Singh,14-10-2025,15-08-2039,In Progress
+P1349,Highway Expansion Project,Mumbai,Priya Singh,25-03-2038,20-12-2039,In Progress
+P1350,City Flyover Construction,Delhi,Priya Singh,15-02-2035,25-10-2022,In Progress
+P1351,Residential Tower A,Mumbai,Priya Singh,14-04-2061,20-01-2037,In Progress
+P1352,Residential Tower B,Mumbai,Priya Singh,17-09-2062,15-05-2037,In Progress
+P1353,Highway Expansion Project,Mumbai,Priya Singh,15-02-2033,23-10-2022,In Progress
+P1354,River Bridge Construction,Banglore,Priya Singh,31-07-2055,20-01-2035,In Progress
+P1355,Smart City Road Project,Banglore,Priya Singh,02-01-2057,15-05-2035,In Progress
+P1356,Shopping Mall Construction,pune,Priya Singh,18-01-2034,30-08-2035,In Progress
+P1357,IT Park Development,Jaipur,Priya Singh,22-03-2035,25-12-2036,In Progress
+P1358,Metro Station Development,Kolkata,Priya Singh,01-08-2061,03-10-2025,In Progress
+P1359,City Flyover Construction,Hydrabad,Priya Singh,06-03-2063,15-06-2037,In Progress
+P1360,Residential Tower A,Chennnai,Priya Singh,20-09-2036,30-11-2037,In Progress
+P1361,Residential Tower B,Mumbai,Priya Singh,13-10-2025,15-08-2038,In Progress
+P1362,Highway Expansion Project,Delhi,Priya Singh,25-03-2037,20-12-2038,In Progress
+P1363,City Flyover Construction,Mumbai,Priya Singh,15-02-2034,24-10-2022,complete
+P1364,Residential Tower A,Mumbai,Priya Singh,07-06-2058,20-01-2036,In Progress
+P1365,Residential Tower B,Mumbai,Priya Singh,10-11-2059,15-05-2036,In Progress
+P1366,Highway Expansion Project,Banglore,Priya Singh,18-01-2035,30-08-2036,In Progress
+P1367,River Bridge Construction,Banglore,Priya Singh,22-03-2036,25-12-2037,In Progress
+P1368,Smart City Road Project,wardha,Priya Singh,08-10-2064,04-10-2025,complete
+P1369,Shopping Mall Construction,Jaipur,Priya Singh,13-05-2066,15-06-2038,In Progress
+P1370,IT Park Development,Kolkata,Priya Singh,20-09-2037,30-11-2038,In Progress
+P1371,Metro Station Development,Hydrabad,Priya Singh,14-10-2025,15-08-2039,In Progress
+P1372,City Flyover Construction,Pune,Priya Singh,25-03-2038,20-12-2039,In Progress
+P1373,Residential Tower A,Mumbai,Priya Singh,15-02-2035,25-10-2022,In Progress
+P1374,Residential Tower B,Delhi,Priya Singh,14-04-2061,20-01-2037,In Progress
+P1375,Highway Expansion Project,Mumbai,Priya Singh,17-09-2062,15-05-2037,In Progress
+P1376,City Flyover Construction,Mumbai,Priya Singh,18-01-2036,30-08-2037,In Progress
+P1377,Residential Tower A,Mumbai,Priya Singh,22-03-2037,25-12-2038,In Progress
+P1378,Residential Tower B,Banglore,Priya Singh,16-12-2067,05-10-2025,In Progress
+P1379,Highway Expansion Project,Banglore,Priya Singh,20-07-2069,15-06-2039,In Progress
+P1380,River Bridge Construction,nagpur,Priya Singh,20-09-2038,30-11-2039,In Progress
+P1381,Smart City Road Project,Jaipur,Priya Singh,15-10-2025,15-08-2040,In Progress
+P1382,Shopping Mall Construction,Kolkata,Priya Singh,25-03-2039,20-12-2040,In Progress
+P1383,IT Park Development,Hydrabad,Priya Singh,15-02-2036,26-10-2022,In Progress
+P1384,Metro Station Development,Wardha,Priya Singh,20-02-2064,20-01-2038,In Progress
+P1385,City Flyover Construction,Mumbai,Priya Singh,25-07-2065,15-05-2038,In Progress
+P1386,Residential Tower A,Delhi,Priya Singh,15-02-2034,24-10-2022,In Progress
+P1387,Residential Tower B,Mumbai,Priya Singh,07-06-2058,20-01-2036,In Progress
+P1388,Highway Expansion Project,Mumbai,Priya Singh,10-11-2059,15-05-2036,In Progress
+P1389,City Flyover Construction,Mumbai,Priya Singh,18-01-2035,30-08-2036,In Progress
+P1390,Residential Tower A,Banglore,Priya Singh,22-03-2036,25-12-2037,In Progress
+P1391,Residential Tower B,Banglore,Priya Singh,08-10-2064,03-10-2025,In Progress
+P1392,Highway Expansion Project,mumbai,Priya Singh,13-05-2066,15-06-2038,In Progress
+P1393,River Bridge Construction,Jaipur,Priya Singh,20-09-2037,30-11-2038,In Progress
+P1394,Smart City Road Project,Kolkata,Priya Singh,14-10-2025,15-08-2039,In Progress
+P1395,Shopping Mall Construction,Hydrabad,Priya Singh,25-03-2038,20-12-2039,In Progress
+P1396,IT Park Development,Nagpur,Priya Singh,15-02-2035,25-10-2022,In Progress
+P1397,Metro Station Development,Mumbai,Priya Singh,14-04-2061,20-01-2037,In Progress
+P1398,City Flyover Construction,Delhi,Priya Singh,17-09-2062,15-05-2037,In Progress
+P1399,Residential Tower A,Mumbai,Priya Singh,18-01-2036,30-08-2037,In Progress
+P1400,Residential Tower B,Mumbai,Priya Singh,22-03-2037,25-12-2038,In Progress
+P1401,Highway Expansion Project,Mumbai,Priya Singh,16-12-2067,04-10-2025,In Progress
+P1402,City Flyover Construction,Banglore,Priya Singh,20-07-2069,15-06-2039,In Progress
+P1403,Residential Tower A,Banglore,Priya Singh,20-09-2038,30-11-2039,In Progress
+P1404,Residential Tower B,Delhi,Priya Singh,15-10-2025,15-08-2040,In Progress
+P1405,Highway Expansion Project,Jaipur,Priya Singh,25-03-2039,20-12-2040,In Progress
+P1406,River Bridge Construction,Kolkata,Priya Singh,15-02-2036,26-10-2022,In Progress
+P1407,Smart City Road Project,Hydrabad,Priya Singh,20-02-2064,20-01-2038,In Progress
+P1408,Shopping Mall Construction,Mumbai,Priya Singh,25-07-2065,15-05-2038,In Progress
+P1409,IT Park Development,Mumbai,Priya Singh,18-01-2037,30-08-2038,In Progress
+P1410,Metro Station Development,Delhi,Priya Singh,22-03-2038,25-12-2039,In Progress
+P1411,City Flyover Construction,Mumbai,Priya Singh,22-02-2071,05-10-2025,In Progress
+P1412,Residential Tower A,Mumbai,Priya Singh,26-09-2072,15-06-2040,In Progress
+P1413,Residential Tower B,Mumbai,Priya Singh,20-09-2039,30-11-2040,In Progress
+P1414,Highway Expansion Project,Banglore,Priya Singh,16-10-2025,15-08-2041,In Progress
+P1415,City Flyover Construction,Banglore,Priya Singh,25-03-2040,20-12-2041,In Progress
+P1416,Residential Tower A,chennnai,Priya Singh,15-02-2037,27-10-2022,In Progress
+P1417,Residential Tower B,Jaipur,Priya Singh,01-03-2021,15-08-2022,In Progress
+P1418,Highway Expansion Project,Kolkata,Priya Singh,14-02-2021,20-09-2022,In Progress
+P1419,River Bridge Construction,Hydrabad,Priya Singh,28-03-2021,30-10-2022,In Progress
+P1420,Smart City Road Project,Delhi,Priya Singh,04-09-2021,12-12-2022,In Progress
+P1421,Shopping Mall Construction,Mumbai,Priya Singh,17-05-2021,02-05-2023,In Progress
+P1422,IT Park Development,Delhi,Priya Singh,26-06-2021,20-03-2023,In Progress
+P1423,Metro Station Development,Mumbai,Priya Singh,07-11-2021,28-04-2023,In Progress
+P1424,City Flyover Construction,Mumbai,Priya Singh,23-08-2021,15-05-2023,In Progress
+P1425,Residential Tower A,Mumbai,Priya Singh,09-05-2021,22-06-2023,In Progress
+P1426,Residential Tower B,Banglore,Priya Singh,16-10-2021,30-07-2023,In Progress
+P1427,Highway Expansion Project,Banglore,Priya Singh,27-11-2021,08-12-2023,In Progress
+P1428,City Flyover Construction,pune,Priya Singh,12-08-2021,20-09-2023,In Progress
+P1429,Residential Tower A,Jaipur,Priya Singh,19-01-2022,11-05-2023,In Progress
+P1430,Residential Tower B,Kolkata,Priya Singh,02-02-2022,18-12-2023,In Progress
+P1431,Highway Expansion Project,Hydrabad,Priya Singh,14-03-2022,01-10-2024,In Progress
+P1432,River Bridge Construction,Chennnai,Priya Singh,25-04-2022,20-02-2024,In Progress
+P1433,Smart City Road Project,Mumbai,Priya Singh,05-07-2022,28-03-2024,In Progress
+P1434,Shopping Mall Construction,Delhi,Priya Singh,18-06-2022,04-12-2024,In Progress
+P1435,IT Park Development,Mumbai,Priya Singh,29-07-2022,25-05-2024,In Progress
+P1436,Metro Station Development,Mumbai,Priya Singh,08-10-2022,30-06-2024,In Progress
+P1437,City Flyover Construction,Mumbai,Priya Singh,21-09-2022,18-07-2024,In Progress
+P1438,Residential Tower A,Banglore,Priya Singh,10-03-2022,08-05-2024,In Progress
+P1439,Residential Tower B,Banglore,Priya Singh,15-11-2022,20-09-2024,In Progress
+P1440,Highway Expansion Project,wardha,Priya Singh,26-12-2022,28-10-2024,In Progress
+P1441,City Flyover Construction,Jaipur,Priya Singh,01-06-2023,11-10-2024,In Progress
+P1442,Residential Tower A,Kolkata,Priya Singh,18-02-2023,15-12-2024,In Progress
+P1443,Residential Tower B,Hydrabad,Priya Singh,03-02-2023,01-10-2025,In Progress
+P1444,Highway Expansion Project,Pune,Priya Singh,13-04-2023,18-02-2025,In Progress
+P1445,River Bridge Construction,Mumbai,Priya Singh,25-05-2023,30-03-2025,In Progress
+P1446,Smart City Road Project,Delhi,Priya Singh,06-07-2023,15-04-2025,In Progress
+P1447,Shopping Mall Construction,Mumbai,Priya Singh,19-07-2023,25-05-2025,In Progress
+P1448,IT Park Development,Mumbai,Priya Singh,30-08-2023,06-10-2025,In Progress
+P1449,Metro Station Development,Mumbai,Priya Singh,09-11-2023,18-07-2025,In Progress
+P1450,City Flyover Construction,Banglore,Priya Singh,22-10-2023,25-08-2025,In Progress
+P1451,Residential Tower A,Banglore,Priya Singh,11-04-2023,09-10-2025,In Progress
+P1452,Residential Tower B,nagpur,Priya Singh,15-12-2023,20-10-2025,In Progress
+P1453,Highway Expansion Project,Jaipur,Priya Singh,27-01-2024,15-11-2025,In Progress
+P1454,City Flyover Construction,Kolkata,Priya Singh,02-08-2024,20-12-2025,In Progress
+P1455,Residential Tower A,Hydrabad,Priya Singh,20-03-2024,01-05-2026,In Progress
+P1456,Residential Tower B,Wardha,Priya Singh,04-01-2024,18-02-2026,In Progress
+P1457,Highway Expansion Project,Mumbai,Priya Singh,13-05-2024,30-03-2026,In Progress
+P1458,River Bridge Construction,Delhi,Priya Singh,24-06-2024,04-10-2026,In Progress
+P1459,Smart City Road Project,Mumbai,Priya Singh,07-06-2024,18-05-2026,In Progress
+P1460,Shopping Mall Construction,Mumbai,Priya Singh,18-08-2024,25-06-2026,In Progress
+P1461,IT Park Development,Mumbai,Priya Singh,29-09-2024,07-10-2026,In Progress
+P1462,Metro Station Development,Banglore,Priya Singh,10-11-2024,18-08-2026,In Progress
+P1463,City Flyover Construction,Banglore,Priya Singh,23-11-2024,25-09-2026,In Progress
+P1464,Residential Tower A,mumbai,Priya Singh,12-04-2024,10-10-2026,In Progress
+P1465,Residential Tower B,Jaipur,Priya Singh,16-01-2025,20-11-2026,In Progress
+P1466,Highway Expansion Project,Kolkata,Priya Singh,27-02-2025,30-12-2026,In Progress
+P1467,City Flyover Construction,Hydrabad,Priya Singh,03-10-2025,01-05-2027,In Progress
+P1468,Residential Tower A,Nagpur,Priya Singh,22-04-2025,18-02-2027,In Progress
+P1469,Residential Tower B,Mumbai,Priya Singh,05-03-2025,25-03-2027,In Progress
+P1470,Highway Expansion Project,Delhi,Priya Singh,15-06-2025,04-10-2027,In Progress
+P1471,River Bridge Construction,Mumbai,Priya Singh,27-07-2025,18-05-2027,In Progress
+P1472,Smart City Road Project,Mumbai,Priya Singh,08-08-2025,30-06-2027,In Progress
+P1473,Shopping Mall Construction,Mumbai,Priya Singh,20-09-2025,07-10-2027,In Progress
+P1474,IT Park Development,Banglore,Priya Singh,10-02-2025,18-08-2027,In Progress
+P1475,Metro Station Development,Banglore,Priya Singh,14-11-2025,25-09-2027,In Progress
+P1476,City Flyover Construction,Delhi,Priya Singh,26-12-2025,10-10-2027,complete
+P1477,Residential Tower A,Jaipur,Priya Singh,01-07-2021,15-07-2022,complete
+P1478,Residential Tower B,Kolkata,Priya Singh,19-02-2021,22-08-2022,complete
+P1479,Highway Expansion Project,Hydrabad,Priya Singh,03-03-2021,30-09-2022,complete
+P1480,City Flyover Construction,Mumbai,Priya Singh,14-04-2021,10-12-2022,complete
+P1481,Residential Tower A,Mumbai,Priya Singh,26-05-2021,20-11-2022,complete
+P1482,Residential Tower B,Delhi,Priya Singh,06-07-2021,28-12-2022,complete
+P1483,Highway Expansion Project,Mumbai,Priya Singh,19-07-2021,15-01-2023,complete
+P1484,River Bridge Construction,Mumbai,Priya Singh,30-08-2021,20-02-2023,complete
+P1485,Smart City Road Project,Mumbai,Priya Singh,09-11-2021,28-03-2023,complete
+P1486,Shopping Mall Construction,Banglore,Priya Singh,23-10-2021,04-12-2023,complete
+P1487,IT Park Development,Banglore,Priya Singh,11-04-2021,25-05-2023,complete
+P1488,Metro Station Development,chennnai,Priya Singh,16-12-2021,30-06-2023,complete
+P1489,City Flyover Construction,Jaipur,Priya Singh,28-01-2022,18-07-2023,complete
+P1490,Residential Tower A,Kolkata,Priya Singh,02-08-2022,08-05-2023,complete
+P1491,Residential Tower B,Hydrabad,Priya Singh,20-03-2022,20-09-2023,complete
+P1492,Highway Expansion Project,Delhi,Priya Singh,04-01-2022,28-10-2023,complete
+P1493,City Flyover Construction,Mumbai,Priya Singh,13-05-2022,11-10-2023,complete
+P1494,Residential Tower A,Delhi,Priya Singh,24-06-2022,20-12-2023,complete
+P1495,Residential Tower B,Mumbai,Priya Singh,07-06-2022,01-10-2024,complete
+P1496,Highway Expansion Project,Mumbai,Priya Singh,18-08-2022,18-02-2024,complete
+P1497,River Bridge Construction,Mumbai,Priya Singh,29-09-2022,30-03-2024,complete
+P1498,Smart City Road Project,Banglore,Priya Singh,10-11-2022,04-10-2024,complete
+P1499,Shopping Mall Construction,Banglore,Priya Singh,23-11-2022,18-05-2024,complete
+P1500,IT Park Development,pune,Priya Singh,12-04-2022,25-06-2024,complete
+P1501,Metro Station Development,Jaipur,Priya Singh,16-01-2023,07-10-2024,complete
+P1502,City Flyover Construction,Kolkata,Priya Singh,27-02-2023,18-08-2024,complete
+P1503,Residential Tower A,Hydrabad,Priya Singh,03-10-2023,25-09-2024,complete
+P1504,Residential Tower B,Chennnai,Priya Singh,22-04-2023,10-10-2024,complete
+P1505,Highway Expansion Project,Mumbai,Priya Singh,05-03-2023,20-11-2024,complete
+P1506,City Flyover Construction,Delhi,Priya Singh,15-06-2023,30-12-2024,complete
+P1507,Residential Tower A,Mumbai,Priya Singh,27-07-2023,01-05-2025,complete
+P1508,Residential Tower B,Mumbai,Priya Singh,08-08-2023,18-02-2025,complete
+P1509,Highway Expansion Project,Mumbai,Priya Singh,20-09-2023,25-03-2025,complete
+P1510,River Bridge Construction,Banglore,Priya Singh,10-02-2023,04-10-2025,complete
+P1511,Smart City Road Project,Banglore,Priya Singh,14-11-2023,18-05-2025,complete
+P1512,Shopping Mall Construction,wardha,Priya Singh,26-12-2023,30-06-2025,complete
+P1513,IT Park Development,Jaipur,Priya Singh,01-07-2024,07-10-2025,complete
+P1514,Metro Station Development,Kolkata,Priya Singh,19-02-2024,18-08-2025,complete
+P1515,City Flyover Construction,Hydrabad,Priya Singh,03-03-2024,25-09-2025,complete
+P1516,Residential Tower A,Pune,Priya Singh,02-03-2021,15-08-2023,complete
+P1517,Residential Tower B,Mumbai,Priya Singh,14-02-2022,20-09-2023,complete
+P1518,Highway Expansion Project,Delhi,Priya Singh,28-03-2022,30-10-2023,complete
+P1519,City Flyover Construction,Mumbai,Priya Singh,04-09-2021,20-09-2023,complete
+P1520,Residential Tower A,Mumbai,Priya Singh,17-05-2022,08-02-2024,complete
+P1521,Residential Tower B,Mumbai,Priya Singh,26-06-2022,20-03-2024,complete
+P1522,Highway Expansion Project,Banglore,Priya Singh,08-11-2021,28-04-2024,complete
+P1523,River Bridge Construction,Banglore,Priya Singh,23-08-2022,15-05-2024,complete
+P1524,Smart City Road Project,nagpur,Priya Singh,10-05-2021,22-06-2024,complete
+P1525,Shopping Mall Construction,Jaipur,Priya Singh,16-10-2022,30-07-2024,complete
+P1526,IT Park Development,Kolkata,Priya Singh,27-11-2022,09-12-2023,complete
+P1527,Metro Station Development,Hydrabad,Priya Singh,13-08-2021,20-09-2024,complete
+P1528,City Flyover Construction,Wardha,Priya Singh,19-01-2023,12-05-2023,complete
+P1529,Residential Tower A,Mumbai,Priya Singh,03-02-2022,18-12-2024,complete
+P1530,Residential Tower B,Delhi,Priya Singh,14-03-2023,02-10-2024,complete
+P1531,Highway Expansion Project,Mumbai,Priya Singh,25-04-2023,20-02-2025,complete
+P1532,City Flyover Construction,Mumbai,Priya Singh,06-07-2022,28-03-2025,complete
+P1533,Residential Tower A,Mumbai,Priya Singh,18-06-2023,05-12-2024,complete
+P1534,Residential Tower B,Banglore,Priya Singh,29-07-2023,25-05-2025,complete
+P1535,Highway Expansion Project,Banglore,Priya Singh,09-10-2022,30-06-2025,complete
+P1536,River Bridge Construction,mumbai,Priya Singh,21-09-2023,18-07-2025,complete
+P1537,Smart City Road Project,Jaipur,Priya Singh,10-03-2022,08-05-2024,complete
+P1538,Shopping Mall Construction,Kolkata,Priya Singh,15-11-2023,20-09-2025,complete
+P1539,IT Park Development,Hydrabad,Priya Singh,26-12-2023,28-10-2025,complete
+P1540,Metro Station Development,Nagpur,Priya Singh,01-06-2023,11-10-2024,complete
+P1541,City Flyover Construction,Mumbai,Priya Singh,18-02-2024,15-12-2025,complete
+P1542,Residential Tower A,Delhi,Priya Singh,03-02-2023,01-10-2025,complete
+P1543,Residential Tower B,Mumbai,Priya Singh,13-04-2024,18-02-2026,complete
+P1544,Highway Expansion Project,Mumbai,Priya Singh,25-05-2024,30-03-2026,complete
+P1545,City Flyover Construction,Mumbai,Priya Singh,07-07-2023,15-04-2026,complete
+P1546,Residential Tower A,Banglore,Priya Singh,19-07-2024,25-05-2026,complete
+P1547,Residential Tower B,Banglore,Priya Singh,30-08-2024,07-10-2025,complete
+P1548,Highway Expansion Project,Delhi,Priya Singh,10-11-2023,18-07-2026,complete
+P1549,River Bridge Construction,Jaipur,Priya Singh,22-10-2024,25-08-2026,complete
+P1550,Smart City Road Project,Kolkata,Priya Singh,11-04-2023,09-10-2025,complete
+P1551,Shopping Mall Construction,Hydrabad,Priya Singh,15-12-2024,20-10-2026,complete
+P1552,IT Park Development,Mumbai,Priya Singh,27-01-2025,15-11-2026,complete
+P1553,Metro Station Development,Mumbai,Priya Singh,03-08-2024,20-12-2026,complete
+P1554,City Flyover Construction,Delhi,Priya Singh,20-03-2025,02-05-2026,complete
+P1555,Residential Tower A,Mumbai,Priya Singh,05-01-2024,18-02-2027,complete
+P1556,Residential Tower B,Mumbai,Priya Singh,13-05-2025,30-03-2027,complete
+P1557,Highway Expansion Project,Mumbai,Priya Singh,24-06-2025,05-10-2026,complete
+P1558,City Flyover Construction,Banglore,Priya Singh,08-06-2024,18-05-2027,complete
+P1559,Residential Tower A,Banglore,Priya Singh,18-08-2025,25-06-2027,complete
+P1560,Residential Tower B,chennnai,Priya Singh,29-09-2025,08-10-2026,complete
+P1561,Highway Expansion Project,Jaipur,Priya Singh,11-11-2024,18-08-2027,complete
+P1562,River Bridge Construction,Kolkata,Priya Singh,23-11-2025,25-09-2027,complete
+P1563,Smart City Road Project,Hydrabad,Priya Singh,12-04-2024,10-10-2026,complete
+P1564,Shopping Mall Construction,Delhi,Priya Singh,16-01-2026,20-11-2027,complete
+P1565,IT Park Development,Mumbai,Priya Singh,27-02-2026,30-12-2027,complete
+P1566,Metro Station Development,Delhi,Priya Singh,03-10-2025,01-05-2027,complete
+P1567,City Flyover Construction,Mumbai,Priya Singh,22-04-2026,18-02-2028,complete
+P1568,Residential Tower A,Mumbai,Priya Singh,06-03-2025,25-03-2028,complete
+P1569,Residential Tower B,Mumbai,Priya Singh,15-06-2026,05-10-2027,complete
+P1570,Highway Expansion Project,Banglore,Priya Singh,27-07-2026,18-05-2028,complete
+P1571,City Flyover Construction,Banglore,Priya Singh,09-08-2025,30-06-2028,complete
+P1572,Residential Tower A,pune,Priya Singh,20-09-2026,08-10-2027,complete
+P1573,Residential Tower B,Jaipur,Priya Singh,11-02-2025,18-08-2028,complete
+P1574,Highway Expansion Project,Kolkata,Priya Singh,14-11-2026,25-09-2028,complete
+P1575,River Bridge Construction,Hydrabad,Priya Singh,26-12-2026,11-10-2027,complete
+P1576,Smart City Road Project,Chennnai,Priya Singh,02-07-2021,15-07-2023,complete
+P1577,Shopping Mall Construction,Mumbai,Priya Singh,19-02-2022,22-08-2023,complete
+P1578,IT Park Development,Delhi,Priya Singh,04-03-2021,30-09-2023,complete
+P1579,Metro Station Development,Mumbai,Priya Singh,14-04-2022,11-12-2022,complete
+P1580,City Flyover Construction,Mumbai,Priya Singh,26-05-2022,20-11-2023,complete
+P1581,Residential Tower A,Mumbai,Priya Singh,07-07-2021,28-12-2023,complete
+P1582,Residential Tower B,Banglore,Priya Singh,19-07-2022,15-01-2024,complete
+P1583,Highway Expansion Project,Banglore,Priya Singh,30-08-2022,20-02-2024,complete
+P1584,City Flyover Construction,Kolkata,Priya Singh,10-11-2021,28-03-2024,complete
+P1585,Residential Tower A,Hydrabad,Priya Singh,23-10-2022,05-12-2023,complete
+P1586,Residential Tower B,Chennnai,Priya Singh,12-04-2021,25-05-2024,complete
+P1587,Highway Expansion Project,Mumbai,Priya Singh,16-12-2022,30-06-2024,complete
+P1588,River Bridge Construction,Kolkata,Priya Singh,28-01-2023,18-07-2024,complete
+P1589,Smart City Road Project,Hydrabad,Priya Singh,02-08-2022,08-05-2023,complete
+P1590,Shopping Mall Construction,Chennnai,Priya Singh,20-03-2023,20-09-2024,complete
+P1591,IT Park Development,Mumbai,Priya Singh,05-01-2022,28-10-2024,complete
+P1592,Metro Station Development,Banglore,Priya Singh,13-05-2023,12-10-2023,complete
+P1593,City Flyover Construction,Kolkata,Priya Singh,24-06-2023,20-12-2024,complete
+P1594,Residential Tower A,Hydrabad,Priya Singh,07-06-2022,01-10-2024,complete
+P1595,Residential Tower B,Wardha,Priya Singh,18-08-2023,18-02-2025,complete
+P1596,Highway Expansion Project,Chennnai,Priya Singh,29-09-2023,30-03-2025,complete
+P1597,City Flyover Construction,Kolkata,Priya Singh,10-11-2022,04-10-2024,complete
+P1598,Residential Tower A,Hydrabad,Priya Singh,23-11-2023,18-05-2025,complete
+P1599,Residential Tower B,Wardha,Priya Singh,13-04-2022,25-06-2025,complete
+P1600,Highway Expansion Project,Chennnai,Priya Singh,16-01-2024,08-10-2024,complete
+P1601,River Bridge Construction,Banglore,Priya Singh,27-02-2024,18-08-2025,complete
+P1602,Smart City Road Project,Kolkata,Priya Singh,04-10-2023,25-09-2025,complete
+P1603,Shopping Mall Construction,Hydrabad,Priya Singh,22-04-2024,11-10-2024,complete
+P1604,IT Park Development,Mumbai,Priya Singh,06-03-2023,20-11-2025,complete
+P1605,Metro Station Development,Wardha,Priya Singh,15-06-2024,30-12-2025,complete
+P1606,City Flyover Construction,Kolkata,Priya Singh,27-07-2024,02-05-2025,complete
+P1607,Residential Tower A,Hydrabad,Priya Singh,09-08-2023,18-02-2026,complete
+P1608,Residential Tower B,Mumbai,Priya Singh,20-09-2024,25-03-2026,complete
+P1609,Highway Expansion Project,Wardha,Priya Singh,10-02-2023,04-10-2025,complete
+P1610,City Flyover Construction,Banglore,Priya Singh,14-11-2024,18-05-2026,complete
+P1611,Residential Tower A,Kolkata,Priya Singh,26-12-2024,30-06-2026,complete
+P1612,Residential Tower B,Hydrabad,Priya Singh,01-07-2024,07-10-2025,complete
+P1613,Highway Expansion Project,Chennnai,Priya Singh,19-02-2025,18-08-2026,complete
+P1614,River Bridge Construction,Mumbai,Priya Singh,04-03-2024,25-09-2026,complete
+P1615,Smart City Road Project,Kolkata,Priya Singh,03-03-2021,15-08-2024,complete
+P1616,Shopping Mall Construction,Hydrabad,Priya Singh,14-02-2023,20-09-2024,complete
+P1617,IT Park Development,Chennnai,Priya Singh,28-03-2023,30-10-2024,complete
+P1618,Metro Station Development,Mumbai,Priya Singh,04-09-2021,28-06-2024,complete
+P1619,City Flyover Construction,Banglore,Priya Singh,17-05-2023,16-11-2024,complete
+P1620,Residential Tower A,Kolkata,Priya Singh,26-06-2023,20-03-2025,complete
+P1621,Residential Tower B,Hydrabad,Priya Singh,09-11-2021,28-04-2025,complete
+P1622,Highway Expansion Project,Wardha,Priya Singh,23-08-2023,15-05-2025,complete
+P1623,City Flyover Construction,Chennnai,Priya Singh,11-05-2021,22-06-2025,complete
+P1624,Residential Tower A,Kolkata,Priya Singh,16-10-2023,30-07-2025,complete
+P1625,Residential Tower B,Hydrabad,Priya Singh,27-11-2023,10-12-2023,complete
+P1626,Highway Expansion Project,Wardha,Priya Singh,14-08-2021,20-09-2025,complete
+P1627,River Bridge Construction,Chennnai,Priya Singh,19-01-2024,13-05-2023,complete
+P1628,Smart City Road Project,Banglore,Priya Singh,04-02-2022,18-12-2025,complete
+P1629,Shopping Mall Construction,Kolkata,Priya Singh,14-03-2024,03-10-2024,complete
+P1630,IT Park Development,Hydrabad,Priya Singh,25-04-2024,20-02-2026,complete
+P1631,Metro Station Development,Mumbai,Priya Singh,07-07-2022,28-03-2026,complete
+P1632,City Flyover Construction,Wardha,Priya Singh,18-06-2024,06-12-2024,complete
+P1633,Residential Tower A,Kolkata,Priya Singh,29-07-2024,25-05-2026,complete
+P1634,Residential Tower B,Hydrabad,Priya Singh,10-10-2022,30-06-2026,complete
+P1635,Highway Expansion Project,Mumbai,Priya Singh,21-09-2024,18-07-2026,complete
+P1636,City Flyover Construction,Wardha,Priya Singh,10-03-2022,08-05-2024,complete
+P1637,Residential Tower A,Banglore,Priya Singh,15-11-2024,20-09-2026,complete
+P1638,Residential Tower B,Kolkata,Priya Singh,26-12-2024,28-10-2026,complete
+P1639,Highway Expansion Project,Hydrabad,Priya Singh,01-06-2023,11-10-2024,complete
+P1640,River Bridge Construction,Chennnai,Priya Singh,18-02-2025,15-12-2026,complete
+P1641,Smart City Road Project,Mumbai,Priya Singh,03-02-2023,01-10-2025,complete
+P1642,Shopping Mall Construction,Kolkata,Priya Singh,13-04-2025,18-02-2027,In progress
+P1643,IT Park Development,Hydrabad,Priya Singh,25-05-2025,30-03-2027,In progress
+P1644,Metro Station Development,Chennnai,Priya Singh,08-07-2023,15-04-2027,In progress
+P1645,City Flyover Construction,Mumbai,Priya Singh,19-07-2025,25-05-2027,In progress
+P1646,Residential Tower A,Banglore,Priya Singh,30-08-2025,08-10-2025,In progress
+P1647,Residential Tower B,Kolkata,Priya Singh,11-11-2023,18-07-2027,In progress
+P1648,Highway Expansion Project,Hydrabad,Priya Singh,22-10-2025,25-08-2027,In progress
+P1649,City Flyover Construction,Wardha,Priya Singh,11-04-2023,09-10-2025,In progress
+P1650,Residential Tower A,Chennnai,Priya Singh,15-12-2025,20-10-2027,In progress
+P1651,Residential Tower B,Kolkata,Priya Singh,27-01-2026,15-11-2027,In progress
+P1652,Highway Expansion Project,Hydrabad,Priya Singh,04-08-2024,20-12-2027,In progress
+P1653,River Bridge Construction,Wardha,Priya Singh,20-03-2026,03-05-2026,In progress
+P1654,Smart City Road Project,Chennnai,Priya Singh,06-01-2024,18-02-2028,In progress
+P1655,Shopping Mall Construction,Banglore,Priya Singh,13-05-2026,30-03-2028,In progress
+P1656,IT Park Development,Kolkata,Priya Singh,24-06-2026,06-10-2026,In progress
+P1657,Metro Station Development,Hydrabad,Priya Singh,09-06-2024,18-05-2028,In progress
+P1658,City Flyover Construction,Mumbai,Priya Singh,18-08-2026,25-06-2028,In progress
+P1659,Residential Tower A,Wardha,Priya Singh,29-09-2026,09-10-2026,In progress
+P1660,Residential Tower B,Kolkata,Priya Singh,12-11-2024,18-08-2028,In progress
+P1661,Highway Expansion Project,Hydrabad,Priya Singh,23-11-2026,25-09-2028,In progress
+P1662,City Flyover Construction,Mumbai,Priya Singh,12-04-2024,10-10-2026,In progress
+P1663,Residential Tower A,Wardha,Priya Singh,16-01-2027,20-11-2028,In progress
+P1664,Residential Tower B,Banglore,Priya Singh,27-02-2027,30-12-2028,In progress
+P1665,Highway Expansion Project,Kolkata,Priya Singh,03-10-2025,01-05-2027,In progress
+P1666,River Bridge Construction,Hydrabad,Priya Singh,22-04-2027,18-02-2029,In progress
+P1667,Smart City Road Project,Chennnai,Priya Singh,07-03-2025,25-03-2029,In progress
+P1668,Shopping Mall Construction,Mumbai,Priya Singh,15-06-2027,06-10-2027,In progress
+P1669,IT Park Development,Kolkata,Priya Singh,27-07-2027,18-05-2029,In progress
+P1670,Metro Station Development,Hydrabad,Priya Singh,10-08-2025,30-06-2029,In progress
+P1671,City Flyover Construction,Chennnai,Priya Singh,20-09-2027,09-10-2027,In progress
+P1672,Residential Tower A,Mumbai,Priya Singh,12-02-2025,18-08-2029,In progress
+P1673,Residential Tower B,Banglore,Priya Singh,14-11-2027,25-09-2029,In progress
+P1674,Highway Expansion Project,Kolkata,Priya Singh,26-12-2027,12-10-2027,In progress
+P1675,City Flyover Construction,Hydrabad,Priya Singh,03-07-2021,15-07-2024,In progress
+P1676,Residential Tower A,Wardha,Priya Singh,19-02-2023,22-08-2024,In progress
+P1677,Residential Tower B,Chennnai,Priya Singh,05-03-2021,30-09-2024,In progress
+P1678,Highway Expansion Project,Kolkata,Priya Singh,14-04-2023,12-12-2022,In progress
+P1679,River Bridge Construction,Hydrabad,Priya Singh,26-05-2023,20-11-2024,In progress
+P1680,Smart City Road Project,Wardha,Priya Singh,08-07-2021,28-12-2024,In progress
+P1681,Shopping Mall Construction,Chennnai,Priya Singh,19-07-2023,15-01-2025,In progress
+P1682,IT Park Development,Banglore,Priya Singh,30-08-2023,20-02-2025,In progress
+P1683,Metro Station Development,Kolkata,Priya Singh,11-11-2021,28-03-2025,In progress
+P1684,City Flyover Construction,Hydrabad,Priya Singh,23-10-2023,06-12-2023,In progress
+P1685,Residential Tower A,Mumbai,Priya Singh,13-04-2021,25-05-2025,In progress
+P1686,Residential Tower B,Wardha,Priya Singh,16-12-2023,30-06-2025,In progress
+P1687,Highway Expansion Project,Kolkata,Priya Singh,28-01-2024,18-07-2025,In progress
+P1688,City Flyover Construction,Hydrabad,Priya Singh,02-08-2022,08-05-2023,In progress
+P1689,Residential Tower A,Mumbai,Priya Singh,20-03-2024,20-09-2025,In progress
+P1690,Residential Tower B,Wardha,Priya Singh,06-01-2022,28-10-2025,In progress
+P1691,Highway Expansion Project,Banglore,Priya Singh,13-05-2024,13-10-2023,In progress
+P1692,River Bridge Construction,Kolkata,Priya Singh,24-06-2024,20-12-2025,In progress
+P1693,Smart City Road Project,Hydrabad,Priya Singh,07-06-2022,01-10-2024,In progress
+P1694,Shopping Mall Construction,Chennnai,Priya Singh,18-08-2024,18-02-2026,In progress
+P1695,IT Park Development,Mumbai,Priya Singh,29-09-2024,30-03-2026,In progress
+P1696,Metro Station Development,Kolkata,Priya Singh,10-11-2022,04-10-2024,In progress
+P1697,City Flyover Construction,Hydrabad,Priya Singh,23-11-2024,18-05-2026,In progress
+P1698,Residential Tower A,Chennnai,Priya Singh,14-04-2022,25-06-2026,In progress
+P1699,Residential Tower B,Mumbai,Priya Singh,16-01-2025,09-10-2024,In progress
+P1700,Highway Expansion Project,Banglore,Priya Singh,27-02-2025,18-08-2026,In progress
+P1701,City Flyover Construction,Kolkata,Priya Singh,05-10-2023,25-09-2026,In progress
+P1702,Residential Tower A,Hydrabad,Priya Singh,22-04-2025,12-10-2024,In progress
+P1703,Residential Tower B,Wardha,Priya Singh,07-03-2023,20-11-2026,In progress
+P1704,Highway Expansion Project,Chennnai,Priya Singh,15-06-2025,30-12-2026,In progress
+P1705,River Bridge Construction,Kolkata,Priya Singh,27-07-2025,03-05-2025,In progress
+P1706,Smart City Road Project,Hydrabad,Priya Singh,10-08-2023,18-02-2027,In progress
+P1707,Shopping Mall Construction,Wardha,Priya Singh,20-09-2025,25-03-2027,In progress
+P1708,IT Park Development,Chennnai,Priya Singh,10-02-2023,04-10-2025,In progress
+P1709,Metro Station Development,Banglore,Priya Singh,14-11-2025,18-05-2027,In progress
+P1710,City Flyover Construction,Kolkata,vikram Patel,26-12-2025,30-06-2027,In progress
+P1711,Residential Tower A,Hydrabad,vikram Patel,01-07-2024,07-10-2025,In progress
+P1712,Residential Tower B,Mumbai,vikram Patel,19-02-2026,18-08-2027,In progress
+P1713,Highway Expansion Project,Wardha,vikram Patel,05-03-2024,25-09-2027,In progress
+P1714,City Flyover Construction,Kolkata,vikram Patel,04-03-2021,15-08-2025,In progress
+P1715,Residential Tower A,Hydrabad,Priya Singh,14-02-2024,20-09-2025,In progress
+P1716,Residential Tower B,Mumbai,Priya Singh,28-03-2024,30-10-2025,In progress
+P1717,Highway Expansion Project,Wardha,Priya Singh,04-09-2021,06-04-2025,In progress
+P1718,River Bridge Construction,Banglore,vikram Patel,17-05-2024,25-08-2025,In progress
+P1719,Smart City Road Project,Kolkata,vikram Patel,26-06-2024,20-03-2026,In progress
+P1720,Shopping Mall Construction,Hydrabad,vikram Patel,10-11-2021,28-04-2026,In progress
+P1721,IT Park Development,Chennnai,vikram Patel,23-08-2024,15-05-2026,In progress
+P1722,Metro Station Development,Mumbai,vikram Patel,12-05-2021,22-06-2026,In progress
+P1723,City Flyover Construction,Kolkata,Priya Singh,16-10-2024,30-07-2026,In progress
+P1724,Residential Tower A,Hydrabad,Priya Singh,27-11-2024,11-12-2023,In progress
+P1725,Residential Tower B,Chennnai,Priya Singh,15-08-2021,20-09-2026,In progress
+P1726,Highway Expansion Project,Mumbai,vikram Patel,19-01-2025,14-05-2023,In progress
+P1727,City Flyover Construction,Banglore,vikram Patel,05-02-2022,18-12-2026,In progress
+P1728,Residential Tower A,Kolkata,vikram Patel,14-03-2025,04-10-2024,In progress
+P1729,Residential Tower B,Hydrabad,vikram Patel,25-04-2025,20-02-2027,In progress
+P1730,Highway Expansion Project,Wardha,vikram Patel,08-07-2022,28-03-2027,In progress
+P1731,River Bridge Construction,Chennnai,Priya Singh,18-06-2025,07-12-2024,In progress
+P1732,Smart City Road Project,Kolkata,Priya Singh,29-07-2025,25-05-2027,In progress
+P1733,Shopping Mall Construction,Hydrabad,Priya Singh,11-10-2022,30-06-2027,In progress
+P1734,IT Park Development,Wardha,vikram Patel,21-09-2025,18-07-2027,In progress
+P1735,Metro Station Development,Chennnai,vikram Patel,10-03-2022,08-05-2024,In progress
+P1736,City Flyover Construction,Banglore,vikram Patel,15-11-2025,20-09-2027,In progress
+P1737,Residential Tower A,Kolkata,vikram Patel,26-12-2025,28-10-2027,In progress
+P1738,Residential Tower B,Hydrabad,Rahul Sharma,01-06-2023,11-10-2024,In progress
+P1739,Highway Expansion Project,Mumbai,Anuj Rahane,18-02-2026,15-12-2027,In progress
+P1740,City Flyover Construction,Wardha,Amit Verma,03-02-2023,01-10-2025,In progress
+P1741,Residential Tower A,Kolkata,Priya Singh,13-04-2026,18-02-2028,In progress
+P1742,Residential Tower B,Hydrabad,Priya Singh,25-05-2026,30-03-2028,In progress
+P1743,Highway Expansion Project,Mumbai,Priya Singh,09-07-2023,15-04-2028,In progress
+P1744,River Bridge Construction,Wardha,Vikram Patel,19-07-2026,25-05-2028,In progress
+P1745,Smart City Road Project,Banglore,Vikram Patel,30-08-2026,09-10-2025,In progress
+P1746,Shopping Mall Construction,Kolkata,Neha Gupta,12-11-2023,18-07-2028,In progress
+P1747,IT Park Development,Hydrabad,Rahul Sharma,22-10-2026,25-08-2028,In progress
+P1748,Metro Station Development,Chennnai,Amit Verma,11-04-2023,09-10-2025,In progress
+P1749,City Flyover Construction,Mumbai,Priya Singh,15-12-2026,20-10-2028,In progress
+P1750,Residential Tower A,Kolkata,Priya Singh,27-01-2027,15-11-2028,In progress
+P1751,Residential Tower B,Hydrabad,Priya Singh,05-08-2024,20-12-2028,In progress
+P1752,Highway Expansion Project,Chennnai,Vikram Patel,20-03-2027,04-05-2026,In progress
+P1753,City Flyover Construction,Mumbai,Vikram Patel,07-01-2024,18-02-2029,In progress
+P1754,Residential Tower A,Banglore,Neha Gupta,13-05-2027,30-03-2029,In progress
+P1755,Residential Tower B,Kolkata,Rahul Sharma,24-06-2027,07-10-2026,In progress
+P1756,Highway Expansion Project,Hydrabad,Amit Verma,10-06-2024,18-05-2029,In progress
+P1757,River Bridge Construction,Wardha,Priya Singh,18-08-2027,25-06-2029,In progress
+P1758,Smart City Road Project,Chennnai,Priya Singh,29-09-2027,10-10-2026,In progress
+P1759,Shopping Mall Construction,Kolkata,Priya Singh,13-11-2024,18-08-2029,In progress
+P1760,IT Park Development,Hydrabad,Vikram Patel,23-11-2027,25-09-2029,In progress
+P1761,Metro Station Development,Wardha,Vikram Patel,12-04-2024,10-10-2026,In progress
+P1762,City Flyover Construction,Chennnai,Neha Gupta,16-01-2028,20-11-2029,In progress
+P1763,Residential Tower A,Banglore,Rahul Sharma,27-02-2028,30-12-2029,In progress
+P1764,Residential Tower B,Kolkata,Amit Verma,03-10-2025,01-05-2027,In progress
+P1765,Highway Expansion Project,Hydrabad,Priya Singh,22-04-2028,18-02-2030,In progress
+P1766,City Flyover Construction,Mumbai,Priya Singh,08-03-2025,25-03-2030,In progress
+P1767,Residential Tower A,Wardha,Priya Singh,15-06-2028,07-10-2027,In progress
+P1768,Residential Tower B,Kolkata,Vikram Patel,27-07-2028,18-05-2030,In progress
+P1769,Highway Expansion Project,Hydrabad,Vikram Patel,11-08-2025,30-06-2030,In progress
+P1770,River Bridge Construction,Mumbai,Neha Gupta,20-09-2028,10-10-2027,In progress
+P1771,Smart City Road Project,Wardha,Rahul Sharma,13-02-2025,18-08-2030,In progress
+P1772,Shopping Mall Construction,Banglore,Amit Verma,14-11-2028,25-09-2030,In progress
+P1773,IT Park Development,Kolkata,Priya Singh,26-12-2028,13-10-2027,In progress
+P1774,Metro Station Development,Hydrabad,Priya Singh,04-07-2021,15-07-2025,In progress
+P1775,City Flyover Construction,Chennnai,Priya Singh,19-02-2024,22-08-2025,In progress
+P1776,Residential Tower A,Mumbai,Vikram Patel,06-03-2021,30-09-2025,In progress
+P1777,Residential Tower B,Kolkata,Vikram Patel,14-04-2024,13-12-2022,In progress
+P1778,Highway Expansion Project,Hydrabad,Neha Gupta,26-05-2024,20-11-2025,In progress
+P1779,City Flyover Construction,Chennnai,Rahul Sharma,09-07-2021,28-12-2025,In progress
+P1780,Residential Tower A,Mumbai,Amit Verma,19-07-2024,15-01-2026,In progress
+P1781,Residential Tower B,Banglore,Priya Singh,30-08-2024,20-02-2026,In progress
+P1782,Highway Expansion Project,Kolkata,Priya Singh,12-11-2021,28-03-2026,In progress
+P1783,River Bridge Construction,Hydrabad,Priya Singh,23-10-2024,07-12-2023,In progress
+P1784,Smart City Road Project,Wardha,Vikram Patel,14-04-2021,25-05-2026,In progress
+P1785,Shopping Mall Construction,Chennnai,Vikram Patel,16-12-2024,30-06-2026,In progress
+P1786,IT Park Development,Kolkata,Neha Gupta,28-01-2025,18-07-2026,In progress
+P1787,Metro Station Development,Hydrabad,Rahul Sharma,02-08-2022,08-05-2023,In progress
+P1788,City Flyover Construction,Wardha,Amit Verma,20-03-2025,20-09-2026,In progress
+P1789,Residential Tower A,Chennnai,Priya Singh,07-01-2022,28-10-2026,In progress
+P1790,Residential Tower B,Banglore,Priya Singh,13-05-2025,14-10-2023,In progress
+P1791,Highway Expansion Project,Kolkata,Priya Singh,24-06-2025,20-12-2026,In progress
+P1792,City Flyover Construction,Hydrabad,Vikram Patel,07-06-2022,01-10-2024,In progress
+P1793,Residential Tower A,Mumbai,Vikram Patel,18-08-2025,18-02-2027,In progress
+P1794,Residential Tower B,Wardha,Neha Gupta,29-09-2025,30-03-2027,In progress
+P1795,Highway Expansion Project,Kolkata,Rahul Sharma,10-11-2022,04-10-2024,In progress
+P1796,River Bridge Construction,Hydrabad,Amit Verma,23-11-2025,18-05-2027,In progress
+P1797,Smart City Road Project,Mumbai,Priya Singh,15-04-2022,25-06-2027,In progress
+P1798,Shopping Mall Construction,Wardha,Priya Singh,16-01-2026,10-10-2024,In progress
+P1799,IT Park Development,Banglore,Priya Singh,27-02-2026,18-08-2027,In progress
+P1800,Metro Station Development,Kolkata,Vikram Patel,06-10-2023,25-09-2027,In progress
+P1801,City Flyover Construction,Hydrabad,Vikram Patel,22-04-2026,13-10-2024,In progress
+P1802,Residential Tower A,Chennnai,Neha Gupta,08-03-2023,20-11-2027,In progress
+P1803,Residential Tower B,Mumbai,Rahul Sharma,15-06-2026,30-12-2027,In progress
+P1804,Highway Expansion Project,Kolkata,Amit Verma,27-07-2026,04-05-2025,In progress
+P1805,City Flyover Construction,Hydrabad,Priya Singh,11-08-2023,18-02-2028,In progress
+P1806,Residential Tower A,Chennnai,Priya Singh,20-09-2026,25-03-2028,In progress
+P1807,Residential Tower B,Mumbai,Priya Singh,10-02-2023,04-10-2025,In progress
+P1808,Highway Expansion Project,Banglore,Vikram Patel,14-11-2026,18-05-2028,In progress
+P1809,River Bridge Construction,Kolkata,Vikram Patel,26-12-2026,30-06-2028,In progress
+P1810,Smart City Road Project,Hydrabad,Neha Gupta,01-07-2024,07-10-2025,In progress
+P1811,Shopping Mall Construction,Wardha,Rahul Sharma,19-02-2027,18-08-2028,In progress
+P1812,IT Park Development,Chennnai,Amit Verma,06-03-2024,25-09-2028,In progress
+P1813,Metro Station Development,Kolkata,Priya Singh,05-03-2021,15-08-2026,In progress
+P1814,City Flyover Construction,Hydrabad,Priya Singh,14-02-2025,20-09-2026,In progress
+P1815,Residential Tower A,Wardha,Priya Singh,28-03-2025,30-10-2026,In progress
+P1816,Residential Tower B,Chennnai,Vikram Patel,04-09-2021,13-01-2026,In progress
+P1817,Highway Expansion Project,Banglore,Vikram Patel,17-05-2025,03-06-2026,In progress
+P1818,City Flyover Construction,Kolkata,Neha Gupta,26-06-2025,20-03-2027,In progress
+P1819,Residential Tower A,Hydrabad,Rahul Sharma,11-11-2021,28-04-2027,In progress
+P1820,Residential Tower B,Mumbai,Amit Verma,23-08-2025,15-05-2027,In progress
+P1821,Highway Expansion Project,Wardha,Priya Singh,13-05-2021,22-06-2027,In progress
+P1822,River Bridge Construction,Kolkata,Priya Singh,16-10-2025,30-07-2027,In progress
+P1823,Smart City Road Project,Hydrabad,Priya Singh,27-11-2025,12-12-2023,In progress
+P1824,Shopping Mall Construction,Mumbai,Vikram Patel,16-08-2021,20-09-2027,In progress
+P1825,IT Park Development,Wardha,Vikram Patel,19-01-2026,15-05-2023,In progress
+P1826,Metro Station Development,Banglore,Neha Gupta,06-02-2022,18-12-2027,In progress
+P1827,City Flyover Construction,Kolkata,Rahul Sharma,14-03-2026,05-10-2024,In progress
+P1828,Residential Tower A,Hydrabad,Amit Verma,25-04-2026,20-02-2028,In progress
+P1829,Residential Tower B,Chennnai,Priya Singh,09-07-2022,28-03-2028,In progress
+P1830,Highway Expansion Project,Mumbai,Priya Singh,18-06-2026,08-12-2024,In progress
+P1831,City Flyover Construction,Kolkata,Priya Singh,29-07-2026,25-05-2028,In progress
+P1832,Residential Tower A,Hydrabad,Vikram Patel,12-10-2022,30-06-2028,In progress
+P1833,Residential Tower B,Chennnai,Vikram Patel,21-09-2026,18-07-2028,In progress
+P1834,Highway Expansion Project,Mumbai,Neha Gupta,10-03-2022,08-05-2024,In progress
+P1835,River Bridge Construction,Banglore,Rahul Sharma,15-11-2026,20-09-2028,In progress
+P1836,Smart City Road Project,Kolkata,Amit Verma,26-12-2026,28-10-2028,In progress
+P1837,Shopping Mall Construction,Hydrabad,Priya Singh,01-06-2023,11-10-2024,In progress
+P1838,IT Park Development,Wardha,Priya Singh,18-02-2027,15-12-2028,In progress
+P1839,Metro Station Development,Chennnai,Priya Singh,03-02-2023,01-10-2025,In progress
+P1840,City Flyover Construction,Kolkata,Vikram Patel,13-04-2027,18-02-2029,In progress
+P1841,Residential Tower A,Hydrabad,Vikram Patel,25-05-2027,30-03-2029,In progress
+P1842,Residential Tower B,Wardha,Neha Gupta,10-07-2023,15-04-2029,In progress
+P1843,Highway Expansion Project,Chennnai,Rahul Sharma,19-07-2027,25-05-2029,In progress
+P1844,City Flyover Construction,Banglore,Amit Verma,30-08-2027,10-10-2025,In progress
+P1845,Residential Tower A,Kolkata,Priya Singh,13-11-2023,18-07-2029,In progress
+P1846,Residential Tower B,Hydrabad,Priya Singh,22-10-2027,25-08-2029,In progress
+P1847,Highway Expansion Project,Mumbai,Priya Singh,11-04-2023,09-10-2025,In progress
+P1848,River Bridge Construction,Wardha,Vikram Patel,15-12-2027,20-10-2029,In progress
+P1849,Smart City Road Project,Kolkata,Vikram Patel,27-01-2028,15-11-2029,In progress
+P1850,Shopping Mall Construction,Hydrabad,Neha Gupta,06-08-2024,20-12-2029,In progress
+P1851,IT Park Development,Mumbai,Rahul Sharma,20-03-2028,05-05-2026,In progress
+P1852,Metro Station Development,Wardha,Amit Verma,08-01-2024,18-02-2030,In progress
+P1853,City Flyover Construction,Banglore,Priya Singh,13-05-2028,30-03-2030,In progress
+P1854,Residential Tower A,Kolkata,Priya Singh,24-06-2028,08-10-2026,In progress
+P1855,Residential Tower B,Hydrabad,Priya Singh,11-06-2024,18-05-2030,In progress
+P1856,Highway Expansion Project,Chennnai,Vikram Patel,18-08-2028,25-06-2030,In progress
+P1857,City Flyover Construction,Mumbai,Vikram Patel,29-09-2028,11-10-2026,In progress
+P1858,Residential Tower A,Kolkata,Neha Gupta,14-11-2024,18-08-2030,In progress
+P1859,Residential Tower B,Hydrabad,Rahul Sharma,23-11-2028,25-09-2030,In progress
+P1860,Highway Expansion Project,Chennnai,Amit Verma,12-04-2024,10-10-2026,In progress
+P1861,River Bridge Construction,Mumbai,Priya Singh,16-01-2029,20-11-2030,In progress
+P1862,Smart City Road Project,Banglore,Priya Singh,27-02-2029,30-12-2030,In progress
+P1863,Shopping Mall Construction,Kolkata,Priya Singh,03-10-2025,01-05-2027,In progress
+P1864,IT Park Development,Hydrabad,Vikram Patel,22-04-2029,18-02-2031,In progress
+P1865,Metro Station Development,Wardha,Vikram Patel,09-03-2025,25-03-2031,In progress
+P1866,City Flyover Construction,Chennnai,Neha Gupta,15-06-2029,08-10-2027,In progress
+P1867,Residential Tower A,Kolkata,Rahul Sharma,27-07-2029,18-05-2031,In progress
+P1868,Residential Tower B,Hydrabad,Amit Verma,12-08-2025,30-06-2031,In progress
+P1869,Highway Expansion Project,Wardha,Priya Singh,20-09-2029,11-10-2027,In progress
+P1870,City Flyover Construction,Chennnai,Priya Singh,14-02-2025,18-08-2031,In progress
+P1871,Residential Tower A,Banglore,Priya Singh,14-11-2029,25-09-2031,In progress
+P1872,Residential Tower B,Kolkata,Vikram Patel,26-12-2029,14-10-2027,In progress
+P1873,Highway Expansion Project,Hydrabad,Vikram Patel,05-07-2021,15-07-2026,In progress
+P1874,River Bridge Construction,Mumbai,Neha Gupta,19-02-2025,22-08-2026,In progress
+P1875,Smart City Road Project,Wardha,Rahul Sharma,07-03-2021,30-09-2026,In progress
+P1876,Shopping Mall Construction,Kolkata,Amit Verma,14-04-2025,14-12-2022,In progress
+P1877,IT Park Development,Hydrabad,Priya Singh,26-05-2025,20-11-2026,In progress
+P1878,Metro Station Development,Mumbai,Priya Singh,10-07-2021,28-12-2026,In progress
+P1879,City Flyover Construction,Wardha,Priya Singh,19-07-2025,15-01-2027,In progress
+P1880,Residential Tower A,Banglore,Vikram Patel,30-08-2025,20-02-2027,In progress
+P1881,Residential Tower B,Kolkata,Vikram Patel,13-11-2021,28-03-2027,In progress
+P1882,Highway Expansion Project,Hydrabad,Neha Gupta,23-10-2025,08-12-2023,In progress
+P1883,City Flyover Construction,Chennnai,Rahul Sharma,15-04-2021,25-05-2027,In progress
+P1884,Residential Tower A,Mumbai,Amit Verma,16-12-2025,30-06-2027,In progress
+P1885,Residential Tower B,Kolkata,Priya Singh,28-01-2026,18-07-2027,In progress
+P1886,Highway Expansion Project,Hydrabad,Priya Singh,02-08-2022,08-05-2023,In progress
+P1887,River Bridge Construction,Chennnai,Priya Singh,20-03-2026,20-09-2027,In progress
+P1888,Smart City Road Project,Mumbai,Vikram Patel,08-01-2022,28-10-2027,In progress
+P1889,Shopping Mall Construction,Banglore,Vikram Patel,13-05-2026,15-10-2023,In progress
+P1890,IT Park Development,Kolkata,Neha Gupta,24-06-2026,20-12-2027,In progress
+P1891,Metro Station Development,Hydrabad,Rahul Sharma,07-06-2022,01-10-2024,In progress
+P1892,City Flyover Construction,Wardha,Amit Verma,18-08-2026,18-02-2028,In progress
+P1893,Residential Tower A,Chennnai,Priya Singh,29-09-2026,30-03-2028,In progress
+P1894,Residential Tower B,Kolkata,Priya Singh,10-11-2022,04-10-2024,In progress
+P1895,Highway Expansion Project,Hydrabad,Priya Singh,23-11-2026,18-05-2028,In progress
+P1896,City Flyover Construction,Wardha,Vikram Patel,16-04-2022,25-06-2028,In progress
+P1897,Residential Tower A,Chennnai,Vikram Patel,16-01-2027,11-10-2024,In progress
+P1898,Residential Tower B,Banglore,Neha Gupta,27-02-2027,18-08-2028,In progress
+P1899,Highway Expansion Project,Kolkata,Rahul Sharma,07-10-2023,25-09-2028,In progress
+P1900,River Bridge Construction,Hydrabad,Amit Verma,22-04-2027,14-10-2024,In progress
+P1901,Smart City Road Project,Mumbai,Priya Singh,09-03-2023,20-11-2028,In progress
+P1902,Shopping Mall Construction,Wardha,Priya Singh,15-06-2027,30-12-2028,In progress
+P1903,IT Park Development,Kolkata,Priya Singh,27-07-2027,05-05-2025,In progress
+P1904,Metro Station Development,Hydrabad,Vikram Patel,12-08-2023,18-02-2029,In progress
+P1905,City Flyover Construction,Mumbai,Vikram Patel,20-09-2027,25-03-2029,In progress
+P1906,Residential Tower A,Wardha,Neha Gupta,10-02-2023,04-10-2025,In progress
+P1907,Residential Tower B,Banglore,Rahul Sharma,14-11-2027,18-05-2029,In progress
+P1908,Highway Expansion Project,Kolkata,Amit Verma,26-12-2027,30-06-2029,In progress
+P1909,City Flyover Construction,Hydrabad,Priya Singh,01-07-2024,07-10-2025,In progress
+P1910,Residential Tower A,Chennnai,Priya Singh,19-02-2028,18-08-2029,In progress
+P1911,Residential Tower B,Mumbai,Priya Singh,07-03-2024,25-09-2029,In progress
+P1912,Highway Expansion Project,Kolkata,Vikram Patel,06-03-2021,15-08-2027,In progress
+P1913,River Bridge Construction,Hydrabad,Vikram Patel,14-02-2026,20-09-2027,In progress
+P1914,Smart City Road Project,Chennnai,Neha Gupta,28-03-2026,30-10-2027,In progress
+P1915,Shopping Mall Construction,Mumbai,Rahul Sharma,04-09-2021,22-10-2026,In progress
+P1916,IT Park Development,Banglore,Amit Verma,17-05-2026,12-03-2027,In progress
+P1917,Metro Station Development,Kolkata,Priya Singh,26-06-2026,20-03-2028,In progress
+P1918,City Flyover Construction,Hydrabad,Priya Singh,12-11-2021,28-04-2028,In progress
+P1919,Residential Tower A,Wardha,Priya Singh,23-08-2026,15-05-2028,In progress
+P1920,Residential Tower B,Chennnai,Vikram Patel,14-05-2021,22-06-2028,In progress
+P1921,Highway Expansion Project,Kolkata,Vikram Patel,16-10-2026,30-07-2028,In progress
+P1922,City Flyover Construction,Hydrabad,Neha Gupta,27-11-2026,13-12-2023,In progress
+P1923,Residential Tower A,Wardha,Rahul Sharma,17-08-2021,20-09-2028,In progress
+P1924,Residential Tower B,Chennnai,Amit Verma,19-01-2027,16-05-2023,In progress
+P1925,Highway Expansion Project,Banglore,Priya Singh,07-02-2022,18-12-2028,In progress
+P1926,River Bridge Construction,Kolkata,Priya Singh,14-03-2027,06-10-2024,In progress
+P1927,Smart City Road Project,Hydrabad,Priya Singh,25-04-2027,20-02-2029,In progress
+P1928,Shopping Mall Construction,Mumbai,Vikram Patel,10-07-2022,28-03-2029,In progress
+P1929,IT Park Development,Wardha,Vikram Patel,18-06-2027,09-12-2024,In progress
+P1930,Metro Station Development,Kolkata,Neha Gupta,29-07-2027,25-05-2029,In progress
+P1931,City Flyover Construction,Hydrabad,Rahul Sharma,13-10-2022,30-06-2029,In progress
+P1932,Residential Tower A,Mumbai,Amit Verma,21-09-2027,18-07-2029,In progress
+P1933,Residential Tower B,Wardha,Priya Singh,10-03-2022,08-05-2024,In progress
+P1934,Highway Expansion Project,Banglore,Priya Singh,15-11-2027,20-09-2029,In progress
+P1935,City Flyover Construction,Kolkata,Priya Singh,26-12-2027,28-10-2029,In progress
+P1936,Residential Tower A,Hydrabad,Vikram Patel,01-06-2023,11-10-2024,In progress
+P1937,Residential Tower B,Chennnai,Vikram Patel,18-02-2028,15-12-2029,In progress
+P1938,Highway Expansion Project,Mumbai,Neha Gupta,03-02-2023,01-10-2025,In progress
+P1939,River Bridge Construction,Kolkata,Rahul Sharma,13-04-2028,18-02-2030,In progress
+P1940,Smart City Road Project,Hydrabad,Amit Verma,25-05-2028,30-03-2030,In progress
+P1941,Shopping Mall Construction,Chennnai,Priya Singh,11-07-2023,15-04-2030,In progress
+P1942,IT Park Development,Mumbai,Priya Singh,19-07-2028,25-05-2030,In progress
+P1943,Metro Station Development,Banglore,Priya Singh,30-08-2028,11-10-2025,In progress
+P1944,City Flyover Construction,Kolkata,Vikram Patel,14-11-2023,18-07-2030,In progress
+P1945,Residential Tower A,Hydrabad,Vikram Patel,22-10-2028,25-08-2030,In progress
+P1946,Residential Tower B,Wardha,Neha Gupta,11-04-2023,09-10-2025,In progress
+P1947,Highway Expansion Project,Chennnai,Rahul Sharma,15-12-2028,20-10-2030,In progress
+P1948,City Flyover Construction,Kolkata,Amit Verma,27-01-2029,15-11-2030,In progress
+P1949,Residential Tower A,Hydrabad,Priya Singh,07-08-2024,20-12-2030,In progress
+P1950,Residential Tower B,Wardha,Priya Singh,20-03-2029,06-05-2026,In progress
+P1951,Highway Expansion Project,Chennnai,Priya Singh,09-01-2024,18-02-2031,In progress
+P1952,River Bridge Construction,Banglore,Vikram Patel,13-05-2029,30-03-2031,In progress
+P1953,Smart City Road Project,Kolkata,Vikram Patel,24-06-2029,09-10-2026,In progress
+P1954,Shopping Mall Construction,Hydrabad,Neha Gupta,12-06-2024,18-05-2031,In progress
+P1955,IT Park Development,Mumbai,Rahul Sharma,18-08-2029,25-06-2031,In progress
+P1956,Metro Station Development,Wardha,Amit Verma,29-09-2029,12-10-2026,In progress
+P1957,City Flyover Construction,Kolkata,Priya Singh,15-11-2024,18-08-2031,In progress
+P1958,Residential Tower A,Hydrabad,Priya Singh,23-11-2029,25-09-2031,In progress
+P1959,Residential Tower B,Mumbai,Priya Singh,12-04-2024,10-10-2026,In progress
+P1960,Highway Expansion Project,Wardha,Vikram Patel,16-01-2030,20-11-2031,In progress
+P1961,City Flyover Construction,Banglore,Vikram Patel,27-02-2030,30-12-2031,In progress
+P1962,Residential Tower A,Kolkata,Neha Gupta,03-10-2025,01-05-2027,In progress
+P1963,Residential Tower B,Hydrabad,Rahul Sharma,22-04-2030,18-02-2032,In progress
+P1964,Highway Expansion Project,Chennnai,Amit Verma,10-03-2025,25-03-2032,In progress
+P1965,River Bridge Construction,Mumbai,Priya Singh,15-06-2030,09-10-2027,In progress
+P1966,Smart City Road Project,Kolkata,Priya Singh,27-07-2030,18-05-2032,In progress
+P1967,Shopping Mall Construction,Hydrabad,Priya Singh,13-08-2025,30-06-2032,In progress
+P1968,IT Park Development,Chennnai,Vikram Patel,20-09-2030,12-10-2027,In progress
+P1969,Metro Station Development,Mumbai,Vikram Patel,15-02-2025,18-08-2032,In progress
+P1970,City Flyover Construction,Banglore,Neha Gupta,14-11-2030,25-09-2032,In progress
+P1971,Residential Tower A,Kolkata,Rahul Sharma,26-12-2030,15-10-2027,In progress
+P1972,Residential Tower B,Hydrabad,Amit Verma,06-07-2021,15-07-2027,In progress
+P1973,Highway Expansion Project,Wardha,Priya Singh,19-02-2026,22-08-2027,In progress
+P1974,City Flyover Construction,Chennnai,Priya Singh,08-03-2021,30-09-2027,In progress
+P1975,Residential Tower A,Kolkata,Priya Singh,14-04-2026,15-12-2022,complete
+P1976,Residential Tower B,Hydrabad,Vikram Patel,26-05-2026,20-11-2027,In Progress
+P1977,Highway Expansion Project,Wardha,Vikram Patel,11-07-2021,28-12-2027,In Progress
+P1978,River Bridge Construction,Chennnai,Neha Gupta,19-07-2026,15-01-2028,In Progress
+P1979,Smart City Road Project,Banglore,Rahul Sharma,30-08-2026,20-02-2028,In Progress
+P1980,Shopping Mall Construction,Kolkata,Amit Verma,14-11-2021,28-03-2028,In Progress
+P1981,IT Park Development,Hydrabad,Priya Singh,23-10-2026,09-12-2023,complete
+P1982,Metro Station Development,Mumbai,Priya Singh,16-04-2021,25-05-2028,In Progress
+P1983,City Flyover Construction,Wardha,Priya Singh,16-12-2026,30-06-2028,In Progress
+P1984,Residential Tower A,Kolkata,Vikram Patel,28-01-2027,18-07-2028,In Progress
+P1985,Residential Tower B,Hydrabad,Vikram Patel,02-08-2022,08-05-2023,complete
+P1986,Highway Expansion Project,Mumbai,Neha Gupta,20-03-2027,20-09-2028,In Progress
+P1987,City Flyover Construction,Wardha,Rahul Sharma,09-01-2022,28-10-2028,In Progress
+P1988,Residential Tower A,Banglore,Amit Verma,13-05-2027,16-10-2023,complete
+P1989,Residential Tower B,Kolkata,Priya Singh,24-06-2027,20-12-2028,In Progress
+P1990,Highway Expansion Project,Hydrabad,Priya Singh,07-06-2022,01-10-2024,complete
+P1991,River Bridge Construction,Chennnai,Priya Singh,18-08-2027,18-02-2029,In Progress
+P1992,Smart City Road Project,Mumbai,Vikram Patel,29-09-2027,30-03-2029,In Progress
+P1993,Shopping Mall Construction,Kolkata,Vikram Patel,10-11-2022,04-10-2024,complete
+P1994,IT Park Development,Hydrabad,Neha Gupta,23-11-2027,18-05-2029,In Progress
+P1995,Metro Station Development,Chennnai,Rahul Sharma,17-04-2022,25-06-2029,In Progress
+P1996,City Flyover Construction,Mumbai,Amit Verma,16-01-2028,12-10-2024,complete
+P1997,Residential Tower A,Banglore,Priya Singh,27-02-2028,18-08-2029,In Progress
+P1998,Residential Tower B,Kolkata,Priya Singh,08-10-2023,25-09-2029,In Progress
+P1999,Highway Expansion Project,Hydrabad,Priya Singh,22-04-2028,15-10-2024,complete
+P2000,City Flyover Construction,Wardha,Vikram Patel,10-03-2023,20-11-2029,In Progress
+P2001,Residential Tower A,Chennnai,Vikram Patel,15-06-2028,30-12-2029,In Progress
+P2002,Residential Tower B,Kolkata,Neha Gupta,27-07-2028,06-05-2025,complete
+P2003,Highway Expansion Project,Hydrabad,Rahul Sharma,13-08-2023,18-02-2030,In Progress
+P2004,River Bridge Construction,Wardha,Amit Verma,20-09-2028,25-03-2030,In Progress
+P2005,Smart City Road Project,Chennnai,Priya Singh,10-02-2023,04-10-2025,complete
+P2006,Shopping Mall Construction,Banglore,Priya Singh,14-11-2028,18-05-2030,In Progress
+P2007,IT Park Development,Kolkata,Priya Singh,26-12-2028,30-06-2030,In Progress
+P2008,Metro Station Development,Hydrabad,Vikram Patel,01-07-2024,07-10-2025,complete
+P2009,City Flyover Construction,Mumbai,Vikram Patel,19-02-2029,18-08-2030,In Progress
+P2010,Residential Tower A,Wardha,Neha Gupta,08-03-2024,25-09-2030,In Progress
+P2011,Residential Tower B,Kolkata,Rahul Sharma,07-03-2021,15-08-2028,In Progress
+P2012,Highway Expansion Project,Hydrabad,Amit Verma,14-02-2027,20-09-2028,In Progress
+P2013,City Flyover Construction,Mumbai,Priya Singh,28-03-2027,30-10-2028,In Progress
+P2014,Residential Tower A,Wardha,Priya Singh,04-09-2021,31-07-2027,In Progress
+P2015,Residential Tower B,Banglore,Priya Singh,17-05-2027,19-12-2027,In Progress
+P2016,Highway Expansion Project,Kolkata,Vikram Patel,26-06-2027,20-03-2029,In Progress
+P2017,River Bridge Construction,Hydrabad,Vikram Patel,13-11-2021,28-04-2029,In Progress
+P2018,Smart City Road Project,Chennnai,Neha Gupta,23-08-2027,15-05-2029,In Progress
+P2019,Shopping Mall Construction,Mumbai,Rahul Sharma,15-05-2021,22-06-2029,In Progress
+P2020,IT Park Development,Kolkata,Amit Verma,16-10-2027,30-07-2029,In Progress
+P2021,Metro Station Development,Hydrabad,Priya Singh,27-11-2027,14-12-2023,complete
+P2022,City Flyover Construction,Chennnai,Priya Singh,18-08-2021,20-09-2029,In Progress
+P2023,Residential Tower A,Mumbai,Priya Singh,19-01-2028,17-05-2023,complete
+P2024,Residential Tower B,Banglore,Vikram Patel,08-02-2022,18-12-2029,In Progress
+P2025,Highway Expansion Project,Kolkata,Vikram Patel,14-03-2028,07-10-2024,complete
+P2026,City Flyover Construction,Hydrabad,Neha Gupta,25-04-2028,20-02-2030,In Progress
+P2027,Residential Tower A,Wardha,Rahul Sharma,11-07-2022,28-03-2030,In Progress
+P2028,Residential Tower B,Chennnai,Amit Verma,18-06-2028,10-12-2024,complete
+P2029,Highway Expansion Project,Kolkata,Priya Singh,29-07-2028,25-05-2030,In Progress
+P2030,River Bridge Construction,Hydrabad,Priya Singh,14-10-2022,30-06-2030,In Progress
+P2031,Smart City Road Project,Wardha,Priya Singh,21-09-2028,18-07-2030,In Progress
+P2032,Shopping Mall Construction,Chennnai,Vikram Patel,10-03-2022,08-05-2024,complete
+P2033,IT Park Development,Banglore,Vikram Patel,15-11-2028,20-09-2030,In Progress
+P2034,Metro Station Development,Kolkata,Neha Gupta,26-12-2028,28-10-2030,In Progress
+P2035,City Flyover Construction,Hydrabad,Rahul Sharma,01-06-2023,11-10-2024,complete
+P2036,Residential Tower A,Mumbai,Amit Verma,18-02-2029,15-12-2030,In Progress
+P2037,Residential Tower B,Wardha,Priya Singh,03-02-2023,01-10-2025,complete
+P2038,Highway Expansion Project,Kolkata,Priya Singh,13-04-2029,18-02-2031,In Progress
+P2039,City Flyover Construction,Hydrabad,Priya Singh,25-05-2029,30-03-2031,In Progress
+P2040,Residential Tower A,Mumbai,Vikram Patel,12-07-2023,15-04-2031,In Progress
+P2041,Residential Tower B,Wardha,Vikram Patel,19-07-2029,25-05-2031,In Progress
+P2042,Highway Expansion Project,Banglore,Neha Gupta,30-08-2029,12-10-2025,complete
+P2043,River Bridge Construction,Kolkata,Rahul Sharma,15-11-2023,18-07-2031,In Progress
+P2044,Smart City Road Project,Hydrabad,Amit Verma,22-10-2029,25-08-2031,In Progress
+P2045,Shopping Mall Construction,Chennnai,Priya Singh,11-04-2023,09-10-2025,complete
+P2046,IT Park Development,Mumbai,Priya Singh,15-12-2029,20-10-2031,in Progress
+P2047,Metro Station Development,Kolkata,Priya Singh,27-01-2030,15-11-2031,in Progress
+P2048,City Flyover Construction,Hydrabad,Vikram Patel,08-08-2024,20-12-2031,in Progress
+P2049,Residential Tower A,Chennnai,Vikram Patel,20-03-2030,07-05-2026,in Progress
+P2050,Residential Tower B,Mumbai,Neha Gupta,10-01-2024,18-02-2032,in Progress
+P2051,Highway Expansion Project,Banglore,Rahul Sharma,13-05-2030,30-03-2032,in Progress
+P2052,City Flyover Construction,Kolkata,Amit Verma,24-06-2030,10-10-2026,in Progress
+P2053,Residential Tower A,Hydrabad,Priya Singh,13-06-2024,18-05-2032,in Progress
+P2054,Residential Tower B,Wardha,Priya Singh,18-08-2030,25-06-2032,in Progress
+P2055,Highway Expansion Project,Chennnai,Priya Singh,29-09-2030,13-10-2026,in Progress
+P2056,River Bridge Construction,Kolkata,Vikram Patel,16-11-2024,18-08-2032,In Progress
+P2057,Smart City Road Project,Hydrabad,Vikram Patel,23-11-2030,25-09-2032,In Progress
+P2058,Shopping Mall Construction,Wardha,Neha Gupta,12-04-2024,10-10-2026,In Progress
+P2059,IT Park Development,Chennnai,Rahul Sharma,16-01-2031,20-11-2032,In Progress
+P2060,Metro Station Development,Banglore,Amit Verma,27-02-2031,30-12-2032,In Progress
+P2061,City Flyover Construction,Kolkata,Priya Singh,03-10-2025,01-05-2027,In Progress
+P2062,Residential Tower A,Hydrabad,Priya Singh,22-04-2031,18-02-2033,In Progress
+P2063,Residential Tower B,Mumbai,Priya Singh,11-03-2025,25-03-2033,In Progress
+P2064,Highway Expansion Project,Wardha,Vikram Patel,15-06-2031,10-10-2027,In Progress
+P2065,City Flyover Construction,Kolkata,Vikram Patel,27-07-2031,18-05-2033,In Progress
+P2066,Residential Tower A,Hydrabad,Neha Gupta,14-08-2025,30-06-2033,In Progress
+P2067,Residential Tower B,Mumbai,Rahul Sharma,20-09-2031,13-10-2027,In Progress
+P2068,Highway Expansion Project,Wardha,Amit Verma,16-02-2025,18-08-2033,In Progress
+P2069,River Bridge Construction,Banglore,Priya Singh,14-11-2031,25-09-2033,In Progress
+P2070,Smart City Road Project,Kolkata,Priya Singh,26-12-2031,16-10-2027,In Progress
+P2071,Shopping Mall Construction,Hydrabad,Priya Singh,07-07-2021,15-07-2028,In Progress
+P2072,IT Park Development,Chennnai,Vikram Patel,19-02-2027,22-08-2028,In Progress
+P2073,Metro Station Development,Mumbai,Vikram Patel,09-03-2021,30-09-2028,In Progress
+P2074,City Flyover Construction,Kolkata,Neha Gupta,14-04-2027,16-12-2022,complete
+P2075,Residential Tower A,Hydrabad,Rahul Sharma,26-05-2027,20-11-2028,In Progress
+P2076,Residential Tower B,Chennnai,Amit Verma,12-07-2021,28-12-2028,In Progress
+P2077,Highway Expansion Project,Mumbai,Priya Singh,19-07-2027,15-01-2029,In Progress
+P2078,City Flyover Construction,Banglore,Priya Singh,30-08-2027,20-02-2029,In Progress
+P2079,Residential Tower A,Kolkata,Priya Singh,15-11-2021,28-03-2029,In Progress
+P2080,Residential Tower B,Hydrabad,Vikram Patel,23-10-2027,10-12-2023,In Progress
+P2081,Highway Expansion Project,Wardha,Vikram Patel,17-04-2021,25-05-2029,In Progress
+P2082,River Bridge Construction,Chennnai,Neha Gupta,16-12-2027,30-06-2029,In Progress
+P2083,Smart City Road Project,Kolkata,Rahul Sharma,28-01-2028,18-07-2029,In Progress
+P2084,Shopping Mall Construction,Hydrabad,Amit Verma,02-08-2022,08-05-2023,complete
+P2085,IT Park Development,Wardha,Priya Singh,20-03-2028,20-09-2029,In Progress
+P2086,Metro Station Development,Chennnai,Priya Singh,10-01-2022,28-10-2029,In Progress
+P2087,City Flyover Construction,Banglore,Priya Singh,13-05-2028,17-10-2023,complete
+P2088,Residential Tower A,Kolkata,Vikram Patel,24-06-2028,20-12-2029,In Progress
+P2089,Residential Tower B,Hydrabad,Vikram Patel,07-06-2022,01-10-2024,complete
+P2090,Highway Expansion Project,Mumbai,Neha Gupta,18-08-2028,18-02-2030,In Progress
+P2091,City Flyover Construction,Wardha,Rahul Sharma,29-09-2028,30-03-2030,In Progress
+P2092,Residential Tower A,Kolkata,Amit Verma,10-11-2022,04-10-2024,complete
+P2093,Residential Tower B,Hydrabad,Priya Singh,23-11-2028,18-05-2030,In Progress
+P2094,Highway Expansion Project,Mumbai,Priya Singh,18-04-2022,25-06-2030,In Progress
+P2095,River Bridge Construction,Wardha,Priya Singh,15-02-2035,25-10-2022,complete
+P2096,Smart City Road Project,Banglore,Vikram Patel,14-04-2023,20-01-2037,In Progress
+P2097,Shopping Mall Construction,Kolkata,Vikram Patel,17-09-2023,15-05-2037,In Progress
+P2098,IT Park Development,Hydrabad,Neha Gupta,18-01-2036,30-08-2037,In Progress
+P2099,Metro Station Development,Chennnai,Rahul Sharma,22-03-2037,25-12-2038,In Progress
+P2100,City Flyover Construction,Mumbai,Amit Verma,16-12-2023,04-10-2025,complete
